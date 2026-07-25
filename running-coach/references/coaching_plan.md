@@ -9,7 +9,7 @@
 **Sub-20:00 5K** (4:00/km for 5 kilometers)
 **Target Date:** Late 2027 (Adjusted for realistic physiological adaptation from a 30:45 baseline)
 **Intermediate Goal:** Sub-24:00 5K by December 2026
-**Current Phase:** Month 2 — Aerobic Base Expansion & Cadence Rewiring
+**Current Phase:** Month 3 — Aerobic Base Expansion & Cadence Rewiring
 
 ---
 
@@ -17,14 +17,14 @@
 
 | Month | Phase | Weight Target | Peak Weekly Volume | 5K Time Trial Target | Key Workout Benchmark | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **June 2026** | Month 1: Base & Neuromuscular Intro | 95 kg | 20 km | 30:45 (6:09/km) - Baseline | 6 x 400m at 5:00/km | ✅ Done |
-| **July 2026** | Month 2: Aerobic Base Expansion + 164 SPM Rewiring | 94.5 kg | 25 km | 28:30 (5:42/km) | 6 x 400m at 4:55/km | 🟡 Active |
-| **August 2026** | Month 3: Volume Build — No Time Trial | 94 kg | 28 km | Recovery / No Test | 4 x 800m at 4:50/km | ⬜ Upcoming |
-| **September 2026** | Month 4: Threshold Introduction | 93 kg | 30 km | 26:30 (5:18/km) | 6 x 400m at 4:40/km | ⬜ Upcoming |
-| **October 2026** | Month 5: Longer Intervals — No Time Trial | 92 kg | 32 km | Recovery / No Test | 5 x 800m at 4:45/km | ⬜ Upcoming |
-| **November 2026** | Month 6: Aerobic Consolidation | 91 kg | 34 km | 25:00 (5:00/km) | 4 x 1000m at 4:40/km | ⬜ Upcoming |
-| **December 2026** | Month 7: Volume Peak (End of Base) | 90 kg | 36 km | 24:00 (4:48/km) | 6 x 400m at 4:35/km | ⬜ Upcoming |
-| **January 2027** | Month 8: Speed Endurance Intro | 89 kg | 38 km | Recovery / No Test | 3 x 1500m at 4:45/km | ⬜ Upcoming |
+| **June 2026** | Month 1: Base & Neuromuscular Intro | 95 kg | 20 km | Recovery / No Test | 6 x 400m at 5:00/km | ✅ Done |
+| **July 2026** | Month 2: Aerobic Base Expansion + 164 SPM Rewiring | 94.5 kg | 25 km | 30:45 (6:09/km) - Baseline | 6 x 400m at 4:55/km | ✅ Done |
+| **August 2026** | Month 3: Volume Build & Cadence Rewiring | 94 kg | 28 km | 28:30 (5:42/km) | 4 x 800m at 4:50/km | 🟡 Active |
+| **September 2026** | Month 4: Threshold Introduction | 93 kg | 30 km | Recovery / No Test | 6 x 400m at 4:40/km | ⬜ Upcoming |
+| **October 2026** | Month 5: Longer Intervals — No Time Trial | 92 kg | 32 km | 26:30 (5:18/km) | 5 x 800m at 4:45/km | ⬜ Upcoming |
+| **November 2026** | Month 6: Aerobic Consolidation | 91 kg | 34 km | Recovery / No Test | 4 x 1000m at 4:40/km | ⬜ Upcoming |
+| **December 2026** | Month 7: Volume Peak (End of Base) | 90 kg | 36 km | 25:00 (5:00/km) | 6 x 400m at 4:35/km | ⬜ Upcoming |
+| **January 2027** | Month 8: Speed Endurance Intro | 89 kg | 38 km | 24:00 (4:48/km) | 3 x 1500m at 4:45/km | ⬜ Upcoming |
 | **February 2027** | Month 9: Race Specificity | 88 kg | 40 km | 22:45 (4:33/km) | 5 x 1000m at 4:25/km | ⬜ Upcoming |
 
 ---
@@ -40,24 +40,24 @@
 
 ---
 
-## Month 2 Active Plan: July 2026 — Aerobic Base Expansion
+## Month 3 Active Plan: August 2026 — Aerobic Base Expansion
 
 ### Phase Objectives
-- Build aerobic base to support sub-28:30 5K in Month 2 time trial.
+- Build aerobic base to support sub-28:30 5K in Month 3 time trial.
 - Cement 164+ SPM as the default cadence across all run types.
 - Progress weekly volume to 25 km while enforcing structural caps.
 - Allow Achilles/calf recovery from July 12 and July 17 overreach events.
 
-### Month 2 HR & Pacing Targets
+### Month 3 HR & Pacing Targets
 
 | Run Type | HR Target | Cadence | Pace Guide | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | Easy / Flush | ≤ 150 BPM (Zone 2) | 164+ SPM | ~9:00–10:00/km | Conversational. If HR drifts above 150, slow down. |
 | LSD | ≤ 150 BPM (Zone 2) | 164+ SPM | 9:00–10:00/km | Hard cap: 10 km |
 | Intervals | Peak 182–190 BPM (Zone 4) | 164+ SPM | 4:55/km | 6 x 400m. Full recovery between reps (2:00 walk). |
-| Time Trial (end of Month 2) | Controlled negative split | 164+ SPM | 5:42/km avg | Target: sub-28:30. km 1-3 at 5:50/km strict. |
+| Time Trial (end of Month 3) | Controlled negative split | 164+ SPM | 5:42/km avg | Target: sub-28:30. km 1-3 at 5:50/km strict. |
 
-### Month 2 Week-by-Week Template
+### Month 3 Week-by-Week Template
 
 **Week 1 (July 27 – Aug 2)**
 | Day | Session | Details |

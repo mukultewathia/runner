@@ -6,7 +6,7 @@
 
 ## LOG-006 | July 25, 2026 — 5K Time Trial Autopsy
 
-**Session:** Month 1 Baseline 5K Time Trial
+**Session:** Month 2 Baseline 5K Time Trial
 **Result:** 30:45 (6:09/km) — Positive split collapse
 **Goal:** Sub-30:00 with negative split strategy
 
@@ -36,19 +36,19 @@ The athlete did not fail because of lacking fitness. Running ~15 minutes at a 19
 3. **198 BPM Max:** Hitting 198 BPM (96% of tested max) in Lap 4 proves elite pain tolerance. But pain tolerance is not a pacing strategy.
 
 ### Forward Plan
-- **Immediate (Month 2, Weeks 1–4):** No threshold work. 80% of volume must be strict Zone 2 (≤ 150 BPM). Focus on aerobic engine expansion.
+- **Immediate (Month 3, Weeks 1–4):** No threshold work. 80% of volume must be strict Zone 2 (≤ 150 BPM). Focus on aerobic engine expansion.
 - **Cadence Mandate:** 164 SPM on every run regardless of pace or effort.
-- **Next Time Trial:** July/August target is sub-29:00 with strict pacing discipline (6:00/km flat for first 3km, negative split in final 2km).
+- **Next Time Trial:** August target is sub-29:00 (or sub-28:30 per macrocycle) with strict pacing discipline (6:00/km flat for first 3km, negative split in final 2km).
 
 ---
 
 ## LOG-005 | July 18, 2026 — Athlete Performance Dossier
 
-**Purpose:** Comprehensive baseline assessment for Month 2 planning
+**Purpose:** Comprehensive baseline assessment for Month 3 planning
 
 ### Athlete Profile Summary
 - **Location:** Bengaluru, India
-- **Phase:** Month 1 of a 9-Month Base-to-Speed Macrocycle
+- **Phase:** Month 2 of a 9-Month Base-to-Speed Macrocycle
 - **Primary Goal:** Sub-20:00 5K (Target: February 2027)
 
 ### Engine Assessment (Physiological)
@@ -68,17 +68,17 @@ The athlete did not fail because of lacking fitness. Running ~15 minutes at a 19
 **Solution:** 164+ SPM cadence rewiring currently underway.
 **Status:** Partially corrected (164 SPM achieved in ideal conditions, breaks down under late-race fatigue).
 
-### Strategic Direction for Month 2
+### Strategic Direction for Month 3
 1. Aerobic base expansion — strict Zone 2 compliance.
 2. Cadence neuromuscular rewiring — 164+ SPM on 100% of runs.
 3. Volume progression to 25 km/week with structural caps enforced.
-4. Body composition improvement trajectory (95 → 94 kg by end of Month 2).
+4. Body composition improvement trajectory (95 → 94 kg by end of Month 3).
 
 ---
 
-## LOG-004 | July 17, 2026 — Week 4 Blueprint (Month 1 Time Trial Week)
+## LOG-004 | July 17, 2026 — Week 4 Blueprint (Month 2 Time Trial Week)
 
-**Purpose:** Final week plan before Month 1 Baseline Time Trial
+**Purpose:** Final week plan before Month 2 Baseline Time Trial
 
 ### Week 4 Schedule (July 20–26, 2026)
 

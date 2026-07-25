@@ -10,7 +10,7 @@
 
 | Date | Type | Distance (km) | Duration | Avg Pace | Avg HR | Max HR | Cadence | Stride | RPE | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-07-25 | 5K Time Trial | 5.00 | 00:30:45 | 6:09 | 186 | 198 | Avg 161 (L1:166, L2:164, L3:162, L4:158, L5:154) | Avg 1.02 (L1:1.03, L2:1.03, L3:1.05, L4:1.01, L5:0.95) | 10 | Month 1 Baseline Test. Adrenaline-driven Lap 1 pacing error (5:54 vs 6:00 target). HR crossed Lactate Threshold at min 6 instead of min 18. Cardiac drift: 165→184 BPM between identical laps. Biomechanical fracture in Lap 3 (overstride to 1.05m). Death Shuffle in Lap 5 (154 SPM, 0.95m stride). Golden Ratio (164 SPM / 1.03m) held perfectly in Laps 1–2. |
+| 2026-07-25 | 5K Time Trial | 5.00 | 00:30:45 | 6:09 | 186 | 198 | Avg 161 (L1:166, L2:164, L3:162, L4:158, L5:154) | Avg 1.02 (L1:1.03, L2:1.03, L3:1.05, L4:1.01, L5:0.95) | 10 | Month 2 Baseline Test. Adrenaline-driven Lap 1 pacing error (5:54 vs 6:00 target). HR crossed Lactate Threshold at min 6 instead of min 18. Cardiac drift: 165→184 BPM between identical laps. Biomechanical fracture in Lap 3 (overstride to 1.05m). Death Shuffle in Lap 5 (154 SPM, 0.95m stride). Golden Ratio (164 SPM / 1.03m) held perfectly in Laps 1–2. |
 | 2026-07-22 | Recovery | 4.00 | 00:36:00 | 9:03 | 148 | — | — | — | 3 | Post-tempo recovery run. Zone 1/2 compliance. |
 | 2026-07-17 | Tempo | 3.50 | 00:19:32 | 5:35 | 185 | 196 | 156 | 1.15 | 9 | Redline maximum effort disguised as tempo. True threshold test. Identified root cause of Achilles issues: 156 SPM + 1.15m stride at 95 kg creates massive braking forces on landing. |
 | 2026-07-12 | LSD | 12.40 | 01:53:18 | 9:08 | 147 | — | — | — | 5 | Zone 2 aerobic masterclass — near-flawless HR discipline for 113 mins. **Structural overreach:** overshot 8 km target by 55%. Heavy calf fatigue, transient Achilles/heel pain post-run. 48-hour monitoring required. |
@@ -39,11 +39,11 @@
 
 | Week | Dates | Total Distance (km) | Key Sessions |
 | :--- | :--- | :--- | :--- |
-| Week 4 (Month 1) | July 20–26, 2026 | ~14–15 km | Recovery (4km) + 5K Time Trial |
-| Week 3 (Month 1) | July 13–19, 2026 | ~16 km | Tempo (3.5km) + LSD (12.4km) |
-| Week 2 (Month 1) | July 6–12, 2026 | ~17 km | Intervals (6x400m) + LSD (10km) + Flush |
-| Week 1 (Month 1) | July 1–5, 2026 | ~18 km | Intervals (6x400m @ 5:00) + LSD (5km) + Flush |
-| Month 0 | June 2026 | ~23 km | Intervals, Flush, Tempo, LSD |
+| Week 4 (Month 2) | July 20–26, 2026 | ~14–15 km | Recovery (4km) + 5K Time Trial |
+| Week 3 (Month 2) | July 13–19, 2026 | ~16 km | Tempo (3.5km) + LSD (12.4km) |
+| Week 2 (Month 2) | July 6–12, 2026 | ~17 km | Intervals (6x400m) + LSD (10km) + Flush |
+| Week 1 (Month 2) | July 1–5, 2026 | ~18 km | Intervals (6x400m @ 5:00) + LSD (5km) + Flush |
+| Month 1 | June 2026 | ~23 km | Intervals, Flush, Tempo, LSD |
 
 ---
 

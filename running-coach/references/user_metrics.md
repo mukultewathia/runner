@@ -72,7 +72,7 @@ When fatigue hits late in a race or workout:
 
 | Distance / Effort | Time / Pace | Avg HR | Date | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **5K Time Trial** | 30:45 (6:09/km) | 186 BPM | July 25, 2026 | Month 1 Baseline. Positive split collapse. Adrenaline pacing error in Lap 1. |
+| **5K Time Trial** | 30:45 (6:09/km) | 186 BPM | July 25, 2026 | Month 2 Baseline. Positive split collapse. Adrenaline pacing error in Lap 1. |
 | **5K Unofficial** | ~29:30 est. | — | — | With perfect negative split execution, current engine capable of ~29:30 |
 | **3.5K Tempo** | 19:32 (5:35/km) | 185 BPM | July 17, 2026 | Redline effort. True max threshold test. |
 | **400m Interval (fastest)** | 1:51 (4:36/km) | Peak 182 | July 8, 2026 | Set during 6x400m session |

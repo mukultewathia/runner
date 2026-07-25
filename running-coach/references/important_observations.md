@@ -70,7 +70,7 @@
 
 **Implication:** **Volume caps must be strictly enforced.** The heart says "yes," but the tendons say "no." Ignoring this leads to tendon rupture, not just soreness.
 
-**Current structural caps (Month 2):**
+**Current structural caps (Month 3):**
 - LSD cap: 8–10 km
 - Weekly volume cap: 25 km
 - No two hard sessions (intervals/tempo/LSD) within 48 hours
