@@ -92,6 +92,9 @@ Before any coaching decision, **always read** the relevant reference files:
 - Base all feedback and plan adjustments strictly on empirical data in the reference files.
 - Never assume past performance not documented in `past_runs.md`.
 
+### 8. Daily Motivation Quote
+- Greet the athlete with a unique, brutally honest, elite endurance motivation quote once a day at the beginning of the first interaction of the day.
+
 ---
 
 ## Workflows
@@ -109,7 +112,7 @@ Before any coaching decision, **always read** the relevant reference files:
 2. Read `references/user_metrics.md` (current fitness benchmarks, HR zones).
 3. Read `references/coaching_plan.md` (current macrocycle phase, weekly target).
 4. Apply 80/20 distribution, 10% volume rule, gym integration, and cadence targets.
-5. Build a **Monday–Sunday schedule** with exact workout type, target distance, HR zone, cadence target, and RPE.
+5. Build a **Monday–Sunday schedule** with exact workout type, target distance, HR zone, cadence target, RPE, and **a specific success metric for each workout** (e.g., "HR stayed < 145 BPM", "Negative split the last km", or "Maintained > 164 SPM").
 6. Update `references/coaching_plan.md`.
 
 ### Workflow 3: Performance Autopsy

@@ -58,39 +58,39 @@
 ### Month 3 Week-by-Week Template
 
 **Week 1 (July 27 – Aug 2)**
-| Day | Session | Details |
-| :--- | :--- | :--- |
-| Monday | Gym — Full Body | Strength. No running. Include calf + tibialis raises. |
-| Tuesday | Easy Run | 6 km, ≤150 BPM, 164+ SPM |
-| Wednesday | Gym — Lower Body | Heavy squats/RDLs. No running. |
-| Thursday | Cruise Intervals | 5 x 1000m @ 6:00/km. 2:00 walk rest between reps. |
-| Friday | Gym — Upper Body | Light. Include dynamic stretching. |
-| Saturday | LSD | 10 km, ≤150 BPM, 164+ SPM |
-| Sunday | Rest | Complete rest. Foam roll. Hydrate. |
+| Day | Session | Details | Success Metric |
+| :--- | :--- | :--- | :--- |
+| Monday | Gym — Full Body | Strength. No running. Include calf + tibialis raises. | Completed all calf/tibialis work for structural resilience. |
+| Tuesday | Easy Run | 6 km, ≤150 BPM, 164+ SPM | Max HR never crossed 150 BPM at any point. |
+| Wednesday | Gym — Lower Body | Heavy squats/RDLs. No running. | Completed heavy lifts safely without ego lifting. |
+| Thursday | Cruise Intervals | 5 x 1000m @ 6:00/km. 2:00 walk rest between reps. | All 5 reps completed precisely at 6:00/km pace. |
+| Friday | Gym — Upper Body | Light. Include dynamic stretching. | Completed dynamic stretching for mobility. |
+| Saturday | LSD | 10 km, ≤150 BPM, 164+ SPM | Maintained 164+ SPM cadence for the entire 10km. |
+| Sunday | Rest | Complete rest. Foam roll. Hydrate. | Hydration targets met (3-4 litres). |
 **Week volume target: ~21 km**
 
 **Week 2 (Aug 3–9)**
-| Day | Session | Details |
-| :--- | :--- | :--- |
-| Tuesday | Easy Run | 7 km, ≤150 BPM, 164+ SPM |
-| Thursday | Cruise Intervals | 5 x 1000m @ 6:00/km. 2:00 walk rest. |
-| Saturday | LSD | 12 km, ≤150 BPM, 164+ SPM |
+| Day | Session | Details | Success Metric |
+| :--- | :--- | :--- | :--- |
+| Tuesday | Easy Run | 7 km, ≤150 BPM, 164+ SPM | HR stayed ≤ 150 BPM for all 7km. |
+| Thursday | Cruise Intervals | 5 x 1000m @ 6:00/km. 2:00 walk rest. | HR stayed ≤ 178 BPM across all intervals. |
+| Saturday | LSD | 12 km, ≤150 BPM, 164+ SPM | Achilles remained pain-free during and post-run. |
 **Week volume target: ~24 km**
 
 **Week 3 (Aug 10–16)**
-| Day | Session | Details |
-| :--- | :--- | :--- |
-| Tuesday | Easy Run | 7 km, ≤150 BPM, 164+ SPM |
-| Thursday | Cruise Intervals | 6 x 1000m @ 6:00/km. 2:00 walk rest. |
-| Saturday | LSD | 14 km, ≤150 BPM, 164+ SPM (The new distance barrier) |
+| Day | Session | Details | Success Metric |
+| :--- | :--- | :--- | :--- |
+| Tuesday | Easy Run | 7 km, ≤150 BPM, 164+ SPM | Max HR never crossed 150 BPM. |
+| Thursday | Cruise Intervals | 6 x 1000m @ 6:00/km. 2:00 walk rest. | Hit 6:00/km consistently without redlining. |
+| Saturday | LSD | 14 km, ≤150 BPM, 164+ SPM (The new distance barrier) | Held 164+ SPM even during the final 2 km of fatigue. |
 **Week volume target: ~27 km**
 
 **Week 4 — Deload + 5K Monthly Test (Aug 17–23)**
-| Day | Session | Details |
-| :--- | :--- | :--- |
-| Tuesday | Easy Flush | 5 km, ≤140 BPM, 164+ SPM |
-| Thursday | CNS Priming | 3 x 400m @ 5:30/km, smooth mechanics |
-| Saturday | 5K Monthly Test | Target: 30:30 - 31:00. Pacing strict: 6:10 - 6:15/km. Do not cross 178 BPM. |
+| Day | Session | Details | Success Metric |
+| :--- | :--- | :--- | :--- |
+| Tuesday | Easy Flush | 5 km, ≤140 BPM, 164+ SPM | Max HR strictly ≤ 140 BPM for true active recovery. |
+| Thursday | CNS Priming | 3 x 400m @ 5:30/km, smooth mechanics | Mechanics felt fluid and relaxed without pushing pace. |
+| Saturday | 5K Monthly Test | Target: 30:30 - 31:00. Pacing strict: 6:10 - 6:15/km. Do not cross 178 BPM. | Perfect negative split; HR stayed ≤ 178 BPM throughout. |
 **Week volume target: ~13–15 km (taper effect)**
 
 ---
