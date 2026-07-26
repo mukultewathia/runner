@@ -114,6 +114,14 @@
 
 ---
 
+### OBS-009 | Late-Race Lactate Validation
+**Identified:** July 26, 2026 (Unplanned Lactate Test)
+**Status:** ✅ Confirmed
+
+**Finding:** Crossing the Lactate Threshold (~170 BPM) is survivable if it occurs in the final 10-15% of a race. The athlete held threshold off until km 5 of a 5K and successfully dropped pace to 5:46/km using anaerobic glycogen reserves without experiencing muscular lock-up. This perfectly contrasts with the July 25 Time Trial (crossed at minute 6) and solidifies the negative-split pacing strategy.
+
+---
+
 ## 🦵 Injury & Structural Flags
 
 ### FLAG-001 | Achilles Tendon Overload
@@ -142,6 +150,27 @@
 5. **Lactate Threshold (~170 BPM) must not be crossed before the 15-minute mark in any time trial.**
 
 
+
+## LOG-007 | July 26, 2026 — Unplanned Lactate Test Autopsy
+
+**Session:** Unplanned 5K Test Run (Rest Day Violation)
+**Result:** 35:54 (7:09/km) — Negative split finish
+**Goal:** Test lactate threshold theory
+
+### Executive Summary
+The athlete performed an unplanned 5K test run the day after a max-effort Time Trial to test lactate physiology. While the run was a structural risk and a recovery violation, it provided excellent physiological data that validated the pacing theory and showed brilliant biomechanical adaptation.
+
+### Key Sports Science Findings
+1. **Lactate Debt Timing:** The athlete held a slow pace (7:40/km) for 3km keeping HR aerobic, then dropped the hammer for km 5 (5:46/km at 182 BPM), crossing the Lactate Threshold. Because the threshold was crossed with only 1km remaining, the run was completed successfully without a mechanical collapse. This perfectly contrasts with yesterday's run and validates that anaerobic matches must be saved for the final stretch.
+2. **Lingering TT Fatigue (Cardiac Drift):** Despite running a very comfortable 7:40/km pace, HR drifted from 149 BPM in km 1 to 164 BPM in km 3. This drift at a slow pace is a classic indicator of an under-recovered cardiovascular engine from yesterday's TT.
+3. **Death Shuffle Immunity Validated:** In the slow kilometers, the athlete successfully let their stride shrink (0.81m) while maintaining a 162 SPM cadence, avoiding the low-cadence Death Shuffle. 
+4. **Fast-Pace Golden Ratio:** When accelerating to 5:46/km in the final lap, cadence jumped to 172 SPM and stride hit 1.01m. The athlete completely avoided the overstriding (1.15m) flaw that usually plagues their faster paces. 
+
+### Forward Plan
+- Mandatory rest until Tuesday to allow the chassis to recover from consecutive 5K efforts.
+- Re-enforce the concept that feeling "comfortable" does not mean fully recovered.
+
+---
 
 ## LOG-006 | July 25, 2026 — 5K Time Trial Autopsy
 
