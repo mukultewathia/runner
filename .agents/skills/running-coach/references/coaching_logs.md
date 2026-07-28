@@ -13,49 +13,21 @@
 
 ## 🔬 Biomechanical Observations
 
-### OBS-001 | The Overstriding Problem (Root Cause of Achilles Issues)
-**Identified:** July 17, 2026 (Tempo run data)
-**Status:** 🟡 Active — Partially corrected
-
-**Finding:** The athlete's natural default cadence of **156 SPM** combined with a **1.15m stride length** at 95 kg body weight is the primary mechanical cause of Achilles tendon and calf overload.
-
-**Physics breakdown:**
-- At 1.15m stride, the foot strikes well in front of the center of gravity, creating a severe braking force on landing.
-- At 95 kg body weight, each landing absorbs ~3–4x body weight in ground reaction force through the Achilles.
-- This produces high vertical oscillation (bouncing) and massive eccentric loading on the Achilles on every stride.
-
-**Solution:** Active neuromuscular rewiring to **164+ SPM** using cadence assistant (82 BPM single-foot metronome). This shortens the effective stride to ~1.03m and shifts the landing impact from the Achilles/calves to the glutes and quads.
-
-**Evidence:** July 25 Time Trial — form held at 164 SPM / 1.03m in Laps 1–2. Mechanical breakdown to 162 SPM / 1.05m in Lap 3 coincided with HR spike to 191 BPM.
-
----
-
-### OBS-002 | The Biomechanical Golden Ratio
-**Identified:** July 25, 2026 (5K Time Trial lap data)
-**Status:** ✅ Confirmed — Replicate this formula
-
-**Finding:** **164 SPM at 1.03m stride** is the optimal mechanical formula for this athlete at current fitness.
-- Validated in Laps 1 and 2 of the July 25 Time Trial.
-- Produces efficient propulsion without overloading the Achilles.
-- Must be maintained at all paces — even as pace slows, cadence must remain ≥ 164 SPM.
-
----
-
-### OBS-003 | The Death Shuffle Pattern
+### The Death Shuffle Pattern
 **Identified:** July 25, 2026 (Lap 4–5 collapse)
 **Status:** 🔴 Critical — Must be trained out
 
-**Finding:** Under heavy fatigue, the athlete's default response is to drop cadence to **154 SPM** and shrink stride to **0.95m** — a double failure mode.
-- Dropping stride (0.95m) is acceptable and even correct under fatigue.
-- Dropping cadence (154 SPM) kills momentum without reducing load on the legs.
+**Finding:** Under heavy fatigue, the athlete's default response is to drop cadence to **154 SPM** and shrink stride to **0.95m** (or lower) — a double failure mode that destroys momentum.
+- Dropping stride length is acceptable and correct under fatigue to reduce joint impact.
+- Dropping cadence (154 SPM) kills momentum without reducing metabolic cost.
 
 **Protocol — "Death Shuffle Immunity":**
-> When fatigue hits: **Let stride shrink. Force cadence to stay at 164 SPM.**
-> Train this as a conscious override. Practice it explicitly in final 200m of interval reps.
+> When fatigue hits: **Let stride shrink. Force cadence to stay at the target level** (164+ SPM for fast runs, 156–162 SPM for easy/LSD runs).
+> Train this as a conscious override. Do not let cadence collapse below 156 SPM on easy runs or 164 SPM on fast runs.
 
 ---
 
-### OBS-010 | Speed-Dependent Cadence (Protecting Knee and Achilles Joints)
+### Speed-Dependent Cadence (Protecting Knee and Achilles Joints)
 **Identified:** July 28, 2026 (Easy Run analysis)
 **Status:** 🟡 Active
 
@@ -70,9 +42,39 @@
 
 ---
 
+### The Overstriding Problem (Root Cause of Achilles Issues)
+**Identified:** July 17, 2026 (Tempo run data)
+**Status:** 🟡 Active — Partially corrected
+
+**Finding:** The athlete's natural default cadence of **156 SPM** combined with a **1.15m stride length** at 95 kg body weight during fast running is the primary mechanical cause of Achilles tendon and calf overload.
+
+**Physics breakdown:**
+- At 1.15m stride, the foot strikes well in front of the center of gravity, creating a severe braking force on landing.
+- At 95 kg body weight, each landing absorbs ~3–4x body weight in ground reaction force through the Achilles.
+- This produces high vertical oscillation (bouncing) and massive eccentric loading on the Achilles on every stride.
+
+**Solution:** Active neuromuscular rewiring:
+- **Fast running (≤ 6:30/km):** Target **164+ SPM** (82 BPM metronome). This shortens the effective stride to ~1.03m and shifts landing impact to glutes/quads.
+- **Easy/LSD running (≥ 8:30/km):** Target **156–162 SPM** (78–81 BPM metronome) to allow proper knee extension while avoiding the overstriding foot strike.
+
+**Evidence:** July 25 Time Trial — form held at 164 SPM / 1.03m in Laps 1–2. Mechanical breakdown to 162 SPM / 1.05m in Lap 3 coincided with HR spike to 191 BPM.
+
+---
+
+### The Biomechanical Golden Ratio
+**Identified:** July 25, 2026 (5K Time Trial lap data)
+**Status:** ✅ Confirmed — Replicate this formula for fast running (≤ 6:30/km)
+
+**Finding:** **164 SPM at 1.03m stride** is the optimal mechanical formula for this athlete at fast paces (≤ 6:30/km).
+- Validated in Laps 1 and 2 of the July 25 Time Trial.
+- Produces efficient propulsion without overloading the Achilles.
+- **Correction (July 28, 2026):** Originally mandated for all paces. However, easy/LSD paces (≥ 8:30/km) must use 156–162 SPM at 0.75–0.80m stride to prevent knee flexion strain. Do not force 164+ SPM when running slowly.
+
+---
+
 ## ❤️ Physiological Observations
 
-### OBS-004 | Cardiac Drift — The "6-Second" Illusion
+### Cardiac Drift — The "6-Second" Illusion
 **Identified:** July 25, 2026 (Time Trial Lap 1→2 data)
 **Status:** 🔴 Critical — Aerobic base underdeveloped
 
@@ -84,7 +86,7 @@
 
 ---
 
-### OBS-005 | Engine Ahead of Chassis
+### Engine Ahead of Chassis
 **Identified:** July 12, 2026 (12.4km LSD)
 **Status:** 🟡 Ongoing — Critical constraint on volume progression
 
@@ -99,17 +101,7 @@
 
 ---
 
-### OBS-006 | Elite Cardiovascular Recovery Rate
-**Identified:** July 8, 2026 (6x400m intervals)
-**Status:** ✅ Strength — Continue exploiting
-
-**Finding:** Heart rate dropped **47 BPM in 100 seconds** after Rep 1 of the July 8 interval session (182 → 135 BPM). This is an excellent cardiac recovery rate indicating strong parasympathetic activation and aerobic fitness.
-
-**Implication:** The engine's ability to recover between intervals is a major strength. As aerobic base improves, this recovery rate will improve further.
-
----
-
-### OBS-007 | Cumulative Session Fatigue in Intervals
+### Cumulative Session Fatigue in Intervals
 **Identified:** July 1, 2026 (6x400m intervals — rest HR drift)
 **Status:** 🟡 Monitor
 
@@ -119,7 +111,17 @@
 
 ---
 
-### OBS-008 | Pain Tolerance is Elite, Pacing is the Limiter
+### Elite Cardiovascular Recovery Rate
+**Identified:** July 8, 2026 (6x400m intervals)
+**Status:** ✅ Strength — Continue exploiting
+
+**Finding:** Heart rate dropped **47 BPM in 100 seconds** after Rep 1 of the July 8 interval session (182 → 135 BPM). This is an excellent cardiac recovery rate indicating strong parasympathetic activation and aerobic fitness.
+
+**Implication:** The engine's ability to recover between intervals is a major strength. As aerobic base improves, this recovery rate will improve further.
+
+---
+
+### Pain Tolerance is Elite, Pacing is the Limiter
 **Identified:** July 25, 2026
 **Status:** ✅ Strength (with caveat)
 
@@ -129,7 +131,7 @@
 
 ---
 
-### OBS-009 | Late-Race Lactate Validation
+### Late-Race Lactate Validation
 **Identified:** July 26, 2026 (Unplanned Lactate Test)
 **Status:** ✅ Confirmed
 
@@ -146,10 +148,11 @@
 
 **Pattern:** Achilles pain consistently follows two triggers:
 1. High-cadence/high-stride combinations at 95 kg body weight (pre-correction).
-2. Excessive time-on-feet overreach (90+ mins of running at current weight).
+2.  Excessive time-on-feet overreach (90+ mins of running at current weight).
 
 **Protocol:**
-- Enforce 164+ SPM to reduce Achilles eccentric load.
+- Enforce **164+ SPM** on fast runs (≤ 6:30/km) to reduce Achilles eccentric load.
+- Enforce **156–162 SPM** on easy/LSD runs (≥ 8:30/km) to allow knee extension and prevent joint strain.
 - Enforce distance caps on LSD runs (≤10 km).
 - Include tibialis anterior raises and calf raise eccentrics in gym program.
 - 48-hour monitoring after any run with acute Achilles discomfort.
@@ -164,7 +167,7 @@
 4. Cadence must be speed-dependent: 164+ SPM on fast runs (tempo/intervals/TT), 156–162 SPM on slow runs (easy/LSD).
 5. Lactate Threshold (~170 BPM) must not be crossed before the 15-minute mark in any time trial.
 
-
+---
 
 ## LOG-008 | July 28, 2026 — Easy Run Autopsy & Biomechanical Conflict
 
@@ -297,26 +300,6 @@ The athlete did not fail because of lacking fitness. Running ~15 minutes at a 19
 
 ---
 
-## LOG-003 | July 8, 2026 — Intervals Session Review
-
-**Session:** 6x400m intervals
-**Result:** 1:55, 1:55, 1:57, 1:54, 1:54, 1:51 (range: 4:36–4:47/km)
-
-**Positives:**
-- Peak HR 16 BPM lower than June 24 session at similar paces = major cardiovascular adaptation in 2 weeks.
-- Recovery rate exceptional: 182→135 BPM in 100 seconds after Rep 1.
-- Consistent pacing across all reps (unlike June 24 erratic session).
-
-**Concerns:**
-- Late-rep discomfort: neuromuscular and structural fatigue in calves.
-- Rest HR drift: not fully recovered between later reps.
-
-**Strategic Pivot:**
-- **Scrap the 4:20/km benchmark target.** Consolidate and master **4:40/km** for the remainder of Month 2.
-- Rationale: tendon resilience must be built before speed is increased. Injury prevention > pace progression.
-
----
-
 ## LOG-002 | July 12, 2026 — LSD Overreach Review
 
 **Session:** 12.4 km LSD (target was 8 km)
@@ -334,6 +317,26 @@ The athlete did not fail because of lacking fitness. Running ~15 minutes at a 19
 **Ruling:**
 - LSD hard cap enforced going forward: **8–10 km maximum** until structural adaptation catches up.
 - 48-hour Achilles monitoring before Wednesday session.
+
+---
+
+## LOG-003 | July 8, 2026 — Intervals Session Review
+
+**Session:** 6x400m intervals
+**Result:** 1:55, 1:55, 1:57, 1:54, 1:54, 1:51 (range: 4:36–4:47/km)
+
+**Positives:**
+- Peak HR 16 BPM lower than June 24 session at similar paces = major cardiovascular adaptation in 2 weeks.
+- Recovery rate exceptional: 182→135 BPM in 100 seconds after Rep 1.
+- Consistent pacing across all reps (unlike June 24 erratic session).
+
+**Concerns:**
+- Late-rep discomfort: neuromuscular and structural fatigue in calves.
+- Rest HR drift: not fully recovered between later reps.
+
+**Strategic Pivot:**
+- **Scrap the 4:20/km benchmark target.** Consolidate and master **4:40/km** for the remainder of Month 2.
+- Rationale: tendon resilience must be built before speed is increased. Injury prevention > pace progression.
 
 ---
 
