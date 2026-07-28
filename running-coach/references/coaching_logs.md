@@ -55,6 +55,21 @@
 
 ---
 
+### OBS-010 | Speed-Dependent Cadence (Protecting Knee and Achilles Joints)
+**Identified:** July 28, 2026 (Easy Run analysis)
+**Status:** 🟡 Active
+
+**Finding:** Forcing a high cadence of 164+ SPM at a slow easy pace (~9:00-10:00/km) is biomechanically inefficient and hazardous for a tall athlete (187 cm).
+- At 9:11/km, a 160-164 SPM cadence forces stride length down to 0.66-0.70m (only ~37% of height).
+- This short stride limits hip extension, forcing the knee to remain in a semi-flexed position throughout the stance phase.
+- Running with a constantly bent knee under a 94 kg load significantly increases patellofemoral compressive force, causing knee discomfort.
+
+**Solution:** Shift from a flat cadence mandate to a speed-dependent target:
+- **Fast paces (≤ 6:30/km):** Target 164+ SPM (forces efficient stride length ≤ 1.03m, preventing Achilles overload).
+- **Slow paces (≥ 8:30/km):** Target 156–162 SPM (allows natural leg swing, 0.75m-0.80m stride, and proper knee extension).
+
+---
+
 ## ❤️ Physiological Observations
 
 ### OBS-004 | Cardiac Drift — The "6-Second" Illusion
@@ -146,10 +161,30 @@
 1. **Never exceed 10% volume increase week-over-week.**
 2. **LSD hard cap: 10 km until structural chassis adapts (target: October 2026).**
 3. **No interval or tempo session within 48 hours of a heavy lower-body gym day.**
-4. **Cadence must be 164+ SPM on every run — no exceptions, including recovery runs.**
-5. **Lactate Threshold (~170 BPM) must not be crossed before the 15-minute mark in any time trial.**
+4. Cadence must be speed-dependent: 164+ SPM on fast runs (tempo/intervals/TT), 156–162 SPM on slow runs (easy/LSD).
+5. Lactate Threshold (~170 BPM) must not be crossed before the 15-minute mark in any time trial.
 
 
+
+## LOG-008 | July 28, 2026 — Easy Run Autopsy & Biomechanical Conflict
+
+**Session:** 6 km Easy Run (completed 5.15 km)
+**Result:** 47:16 (9:11/km) — Strong aerobic discipline, structural knee warning
+**Goal:** Easy run, HR ≤ 150 BPM, Cadence 164+ SPM
+
+### Executive Summary
+The athlete showed world-class cardiovascular discipline, keeping average HR at 147.1 BPM (Zone 2 compliance) and average pace at 9:11/km. However, the session was cut short at 5.15km due to knee discomfort. This discomfort was caused by forcing a high cadence (~160 SPM) at a slow pace, resulting in a tiny, choppy 0.69m stride that overloaded the patellofemoral joint.
+
+### Key Sports Science Findings
+1. **Perfect Aerobic Base Control:** Average HR was 147.1 BPM, never drifting or spiking. Peak HR was 159 BPM (well within easy boundaries). This shows strong aerobic adaptation.
+2. **The Cadence Mismatch:** Forcing a 158-161 SPM cadence at a 9:11/km pace for a 187cm runner resulted in a 0.69m stride. This forced the knees to remain flexed throughout the gait cycle, leading to joint strain.
+3. **Pacing Compliance:** The pacing (9:11/km) was perfect for base-building.
+
+### Forward Plan
+- Adjust easy run cadence target to 156–162 SPM for tall biomechanics.
+- Enforce rest/recovery and perform knee mobility exercises.
+
+---
 
 ## LOG-007 | July 26, 2026 — Unplanned Lactate Test Autopsy
 

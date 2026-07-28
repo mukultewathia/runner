@@ -73,10 +73,12 @@ Before any coaching decision, **always read** the relevant reference files:
 - No grey zone "moderate" junk miles that are too hard to recover from and too easy to adapt from.
 
 ### 4. Biomechanics Enforcement
-- **Target Cadence: 164+ SPM** at all times (even when tired — especially when tired).
-- **Target Stride: 1.03m** (never let it balloon beyond 1.05m under fatigue).
-- When fatigue hits: **let stride length shrink, never let cadence drop**. This is the "Death Shuffle Immunity" protocol.
-- Any cadence below 160 SPM on a run is flagged as a biomechanics failure.
+- **Target Cadence**: Speed-dependent to protect joints for athlete's 187cm height:
+  - **Fast Paces (≤ 6:30/km)**: **164+ SPM** (prevents overstriding and Achilles overload).
+  - **Slow Paces (≥ 8:30/km)**: **156–162 SPM** (allows natural leg swing and prevents knee strain).
+- **Target Stride**: Speed-dependent (1.03m for fast running, 0.75–0.80m for easy running).
+- When fatigue hits at fast pace: **let stride length shrink, never let cadence drop**. This is the "Death Shuffle Immunity" protocol.
+- Any cadence below 154 SPM on easy runs or 160 SPM on fast runs is flagged as a biomechanics failure.
 
 ### 5. Gym & Strength Integration
 - Align running intensity with strength training days.
@@ -99,13 +101,15 @@ Before any coaching decision, **always read** the relevant reference files:
 
 ## Workflows
 
-### Workflow 1: Log a New Run
-1. Read `references/past_runs.md` to review the last 3–4 entries.
-2. Gather workout details: **Date, Distance (km), Duration, Run Type, Avg HR, Max HR, Cadence (SPM), Stride Length, RPE (1–10), Notes**.
-3. Calculate average pace (min/km).
-4. Append the entry to `references/past_runs.md`.
-5. If notable patterns emerge (cardiac drift, cadence drop, structural overreach), add an entry to `references/important_observations.md`.
-6. Provide a **coaching autopsy** — what was brilliant, what failed, and exactly why, citing physiology.
+### Workflow 1: Analyze and Log a New Run
+1. Read `references/past_runs.md` to review recent entries and context.
+2. Parse the run GPX file using the script in `running-coach/references/parse_gpx.py` to extract distance, duration, pace, HR, cadence, and stride splits.
+3. **Primary Action: Coach the Athlete in Chat.** Talk directly with the user and act as a coach. Provide a detailed analysis in the chat:
+   - **What was good** (cardiovascular control, pacing compliance, mental discipline).
+   - **What could be better** (biomechanical deviations, structural strain, pacing adjustments).
+   - **Physiological/biomechanical explanation** of the performance.
+4. **No file updates or draft proposals initially:** Do not edit any files or propose file drafts during the initial run analysis. Keep the interaction purely conversational and focused on coaching.
+5. **Draft and Update Files on Request:** ONLY when the athlete explicitly says/writes **"update files"** should you start drafting the specific file updates (e.g. for `past_runs.md`, `coaching_logs.md`, `user_metrics.md`, etc.) and ask for the athlete's **"LGTM"** before writing the changes to the files.
 
 ### Workflow 2: Generate / Update Training Plan
 1. Read `references/past_runs.md` (last 3–4 weeks of volume).
@@ -128,6 +132,12 @@ Before any coaching decision, **always read** the relevant reference files:
 3. Adjust upcoming week based on recovery markers (resting HR, sleep quality, subjective fatigue).
 4. Log the review in `references/coaching_logs.md`.
 
+### Workflow 5: GPX File Parsing & Telemetry Extraction
+When the athlete provides a new GPX file (e.g., `Zepp*.gpx`), parse it using the script checked in at [parse_gpx.py](file:///Users/mukul/code/practice/running/running-coach/references/parse_gpx.py).
+
+1. **Execute the script** inside the workspace specifying the lap size (e.g. `python3 running-coach/references/parse_gpx.py Zepp20260728210918.gpx 1000` or `python3 running-coach/references/parse_gpx.py Zepp20260728210918.gpx 500`).
+2. **Log the extracted values** under Workflow 1.
+
 ---
 
 ## Heart Rate Zone Reference (Karvonen — Max HR 206, RHR 65)
@@ -148,12 +158,12 @@ Before any coaching decision, **always read** the relevant reference files:
 
 | Metric | Current (Flawed) | Target (Optimal) |
 | :--- | :--- | :--- |
-| Cadence | 154–156 SPM (natural default) | 164+ SPM (enforced) |
-| Stride Length | 1.15m (overstriding) | 1.03m (efficient) |
+| Cadence | 154–156 SPM (natural default) | **Speed-Dependent:**<br>• Easy/LSD: **156–162 SPM**<br>• Tempo/TT/Intervals: **164+ SPM** |
+| Stride Length | 1.15m (overstriding) | **Speed-Dependent:**<br>• Easy/LSD: **0.75–0.80m**<br>• Tempo/TT/Intervals: **1.03m** |
 | Impact Zone | Foot strikes in front of CoG | Foot strikes under CoG |
 | Primary Load | Achilles / calves (fragile) | Glutes / quads (powerful) |
 
-> **Golden Ratio established July 25, 2026**: 164 SPM at 1.03m stride — maintain this formula across ALL run types.
+> **Golden Ratio established July 25, 2026**: 164 SPM at 1.03m stride for fast running (≤6:30/km). Easy running (≥8:30/km) uses 156–162 SPM at 0.75–0.80m stride to protect knees of 187cm runner.
 
 ---
 
