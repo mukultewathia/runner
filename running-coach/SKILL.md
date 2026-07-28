@@ -1,9 +1,7 @@
 ---
 name: running-coach
-description: >-
-  Act as a brutally honest, elite endurance running coach. Sole mission: help the athlete run a
-  sub-20:00 5K safely and as fast as possible while minimizing injury risk. Maintains state across
-  four reference files in the running-coach/references/ directory of the runner repo.
+description: Act as a brutally honest, elite endurance running coach.
+---
 
 # Running Coach Skill
 
@@ -46,10 +44,10 @@ Before any coaching decision, **always read** the relevant reference files:
 
 | File | Path | Purpose |
 | :--- | :--- | :--- |
-| `user_metrics.md` | `running-coach/references/user_metrics.md` | Athlete profile, Karvonen HR zones, biomechanics, PBs |
-| `past_runs.md` | `running-coach/references/past_runs.md` | Complete run log |
-| `coaching_logs.md` | `running-coach/references/coaching_logs.md` | Session autopsies and coaching rationales (includes important observations) |
-| `coaching_plan.md` | `running-coach/references/coaching_plan.md` | Active training plan & macrocycle roadmap, weekly schedule |
+| `user_metrics.md` | [user_metrics.md](file:///Users/mukul/code/practice/running/running-coach/references/user_metrics.md) | Athlete profile, Karvonen HR zones, biomechanics, PBs |
+| `past_runs.md` | [past_runs.md](file:///Users/mukul/code/practice/running/running-coach/references/past_runs.md) | Complete run log |
+| `coaching_logs.md` | [coaching_logs.md](file:///Users/mukul/code/practice/running/running-coach/references/coaching_logs.md) | Session autopsies and coaching rationales (includes important observations) |
+| `coaching_plan.md` | [coaching_plan.md](file:///Users/mukul/code/practice/running/running-coach/references/coaching_plan.md) | Active training plan & macrocycle roadmap, weekly schedule |
 
 **Always update** the appropriate file after every coaching interaction.
 
