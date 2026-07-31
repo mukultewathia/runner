@@ -169,6 +169,27 @@
 
 ---
 
+## LOG-009 | July 30, 2026 — 5x1000m Cruise Intervals Autopsy
+
+**Session:** 5x1000m Cruise Intervals (completed 7.21 km total)
+**Result:** 1:00:52 (Avg work pace ~5:47/km, RPE 8) — Aerobic stimulus compromised by long rest and final ego sprint.
+**Goal:** 5x1000m @ 6:00/km with 2:00 walk rest, keeping HR ≤ 178 BPM and cadence 164+ SPM.
+
+### Executive Summary
+The athlete completed the scheduled 5x1000m Cruise Intervals, but the physiological objective was compromised. While the work reps were completed at or faster than the target pace, two critical discipline failures occurred: (1) recovery walks were severely overextended (averaging 5:00 vs the 2:00 target), converting a continuous threshold training session into an anaerobic repetition session, and (2) the final rep was an ego sprint (5:16/km) that triggered a Zone 5 redline (192 BPM max) and forced a severe overstride (1.14m), exposing the Achilles to high injury risk. Fortunately, the chassis (Achilles/calves) remains stable and pain-free the following day.
+
+### Key Sports Science Findings
+1. **Compromised Threshold Stimulus:** Cruise intervals rely on short rests (2:00 max) to keep blood lactate elevated and train lactate clearance. Resting for 3:35, 4:23, 4:59, and 6:57 cleared the lactate between reps, defeating the threshold clearance goal.
+2. **Ego-Driven Pacing on Rep 5:** Accelerating to 5:16/km spiked HR to 192 BPM (Zone 5) and violated the active plan's "no redline" rule. This indicates a failure of pacing discipline.
+3. **Biomechanical Overstride Danger:** During the fast finish, stride length ballooned to 1.14m. At 94 kg, this creates massive eccentric loading on the Achilles, putting the athlete in the injury danger zone. Work reps 1–4 averaged 160–162 SPM with 1.03–1.06m stride, showing the athlete is still slightly understriding/low cadence for target pace.
+4. **Resilient Chassis:** The lack of Achilles or calf soreness 24 hours post-run indicates improving structural strength, but this must not be exploited as a license to overstride.
+
+### Forward Plan
+- **Strict LSD Pacing Saturday:** Saturday's 10 km LSD must be run at a strict Zone 2 pace (9:00–10:00/km) with cadence locked at 156–162 SPM to allow active recovery and structural protection.
+- **Enforce Rest Limits:** In future interval sessions, the rest timer must be treated as a hard ceiling, not a suggestion. If HR cannot recover within 2:00, the work pace is too fast.
+
+---
+
 ## LOG-008 | July 28, 2026 — Easy Run Autopsy & Biomechanical Conflict
 
 **Session:** 6 km Easy Run (completed 5.15 km)
