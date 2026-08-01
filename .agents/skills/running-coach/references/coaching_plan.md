@@ -32,7 +32,7 @@
 1. **80/20 Rule:** 80% of weekly volume in Zone 1–2 (≤150 BPM conversational). 20% in Zone 4 (Cruise intervals/tempo). **No redline (Zone 5) training.**
 2. **10% Volume Progression:** Never increase weekly mileage or long run distance by more than 10% week-over-week.
 3. **Deload Every 4th Week:** Reduce volume by 20–30% to consolidate adaptation and prevent overuse injury.
-4. **Speed-Dependent Cadence Target:** 164+ SPM on fast runs (tempo/intervals/TT) to protect Achilles; 156–162 SPM on slow runs (easy/LSD) to prevent knee strain for 187cm runner.
+4. **Speed-Dependent Cadence Target:** 164+ SPM on fast runs (tempo/intervals/TT) to protect Achilles; 150–153 SPM on slow runs (easy/LSD) to protect knees and prevent sluggish impact for 187cm runner.
 5. **Gym Integration:** 5-day lifting program continues. Separate heavy leg days from interval/LSD days by 48+ hours.
 6. **No Track Sprints:** 400m/800m all-out sprints are banned until 2027 to protect the Achilles while scaling volume.
 
@@ -43,15 +43,15 @@
 ### Phase Objectives
 - Safely increase the Long Slow Distance (LSD) up to 14 km.
 - Transition from 400m speed intervals to 1000m Cruise Intervals to build 5K/10K stamina without CNS burnout.
-- Cement speed-dependent cadence defaults (156–162 SPM for easy runs, 164+ SPM for quality sessions).
+- Cement speed-dependent cadence defaults (150–153 SPM for easy runs, 164+ SPM for quality sessions).
 - Ensure Achilles/calf tendons adapt to the increasing time-on-feet.
 
 ### Month 3 HR & Pacing Targets
 
 | Run Type | HR Target | Cadence | Pace Guide | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| Easy / Flush | ≤ 150 BPM (Zone 2) | 156–162 SPM | ~9:00–10:00/km | Conversational. If HR drifts above 150, slow down. |
-| LSD | ≤ 150 BPM (Zone 2) | 156–162 SPM | 9:00–10:00/km | Slowly building. Stop if Achilles pain. |
+| Easy / Flush | ≤ 150 BPM (Zone 2) | 150–153 SPM | ~9:00–9:20/km | Conversational. If HR drifts above 150, check cadence/shorten stride. |
+| LSD | ≤ 150 BPM (Zone 2) | 150–153 SPM | 9:00–9:20/km | Slowly building. Stop if Achilles pain. |
 | Cruise Intervals| ≤ 178 BPM (Threshold)| 164+ SPM | ~6:00/km | 5 x 1000m. Focus on smooth mechanics, not sprinting. |
 | Monthly 5K Test| ≤ 178 BPM | 164+ SPM | ~6:15/km avg | Target: sub-31:00 smoothly. Strict pacing: 6:15/km. NO REDLINING. |
 
@@ -69,21 +69,29 @@
 | Sunday | Rest | Complete rest. Foam roll. Hydrate. | Hydration targets met (3-4 litres). |
 **Week volume target: ~21 km**
 
-**Week 2 (Aug 3–9)**
+**Week 2 — Vacation Deload / Mauritius (Aug 2 – 8)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Tuesday | Easy Run | 7 km, ≤150 BPM, 156–162 SPM | HR stayed ≤ 150 BPM for all 7km. |
-| Thursday | Cruise Intervals | 5 x 1000m @ 6:00/km. 2:00 walk rest. | HR stayed ≤ 178 BPM across all intervals. |
-| Saturday | LSD | 12 km, ≤150 BPM, 156–162 SPM | Achilles remained pain-free during and post-run. |
-**Week volume target: ~24 km**
+| Monday | Gym — Full Body | Strength. Focus on eccentric calf raises + tibialis raises. | Completed pre-flight strength routine safely. |
+| Tuesday | Easy Run | 5 km, ≤150 BPM, 150–153 SPM (Bangalore) | Average HR stayed ≤ 150 BPM; cadence locked at 150–153 SPM. |
+| Wednesday | Travel | Flight to Mauritius. No training. Hydrate. | Drank 3–4L of water; active stretching during travel. |
+| Thursday | Scenic Run | 4 km, ≤150 BPM, 150–153 SPM (Mauritius) | Light, relaxed run. Cadence maintained at 150–153 SPM. |
+| Friday | Hotel Gym / Mobility | Core + beach mobility + calf stretches. | Completed 15 mins of mobility and bodyweight work. |
+| Saturday | Scenic LSD | 6 km, ≤150 BPM, 150–153 SPM (Mauritius) | Completed early morning to beat the heat; zero Achilles pain. |
+| Sunday | Rest | Complete rest. Walk on the beach. | Enjoyed vacation recovery. |
+**Week volume target: ~15 km**
 
-**Week 3 (Aug 10–16)**
+**Week 3 — Vacation Deload / Bangalore Return (Aug 9 – 15)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Tuesday | Easy Run | 7 km, ≤150 BPM, 156–162 SPM | Max HR never crossed 150 BPM. |
-| Thursday | Cruise Intervals | 6 x 1000m @ 6:00/km. 2:00 walk rest. | Hit 6:00/km consistently without redlining. |
-| Saturday | LSD | 14 km, ≤150 BPM, 156–162 SPM (The new distance barrier) | Held 156–162 SPM even during the final 2 km of fatigue. |
-**Week volume target: ~27 km**
+| Monday | Scenic Run | 4 km, ≤150 BPM, 150–153 SPM (Mauritius) | Kept pace easy and relaxed; cadence at 150–153 SPM. |
+| Tuesday | Rest / Activity | Resort activities. No structured training. | Stayed active without running fatigue. |
+| Wednesday | Travel | Flight back to Bangalore. No training. | Maintained hydration targets. |
+| Thursday | Easy Run | 5 km, ≤150 BPM, 150–153 SPM (Bangalore) | Re-established Bangalore routine with stable HR and cadence. |
+| Friday | Gym — Lower Body | Squats/RDLs. Focus on form, no ego lifting. | Completed lifting session without soreness. |
+| Saturday | LSD | 8 km, ≤150 BPM, 150–153 SPM (Bangalore) | Held 150–153 SPM cadence; stood firm at 8 km cap. |
+| Sunday | Rest | Complete rest. Foam roll. | Pre-run prep for upcoming week. |
+**Week volume target: ~17 km**
 
 **Week 4 — Deload + 5K Monthly Test (Aug 17–23)**
 | Day | Session | Details | Success Metric |

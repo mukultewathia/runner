@@ -38,7 +38,7 @@
 
 **Solution:** Shift from a flat cadence mandate to a speed-dependent target:
 - **Fast paces (≤ 6:30/km):** Target 164+ SPM (forces efficient stride length ≤ 1.03m, preventing Achilles overload).
-- **Slow paces (≥ 8:30/km):** Target 156–162 SPM (allows natural leg swing, 0.75m-0.80m stride, and proper knee extension).
+- **Slow paces (≥ 8:30/km):** Target 150–153 SPM (allows natural leg swing, 0.72m-0.75m stride, and proper knee extension, preventing sluggish 145 SPM shuffle).
 
 ---
 
@@ -55,7 +55,7 @@
 
 **Solution:** Active neuromuscular rewiring:
 - **Fast running (≤ 6:30/km):** Target **164+ SPM** (82 BPM metronome). This shortens the effective stride to ~1.03m and shifts landing impact to glutes/quads.
-- **Easy/LSD running (≥ 8:30/km):** Target **156–162 SPM** (78–81 BPM metronome) to allow proper knee extension while avoiding the overstriding foot strike.
+- **Easy/LSD running (≥ 8:30/km):** Target **150–153 SPM** (75–76 BPM metronome) to allow proper knee extension while avoiding the overstriding foot strike or the sluggish 145 SPM shuffle.
 
 **Evidence:** July 25 Time Trial — form held at 164 SPM / 1.03m in Laps 1–2. Mechanical breakdown to 162 SPM / 1.05m in Lap 3 coincided with HR spike to 191 BPM.
 
@@ -68,7 +68,7 @@
 **Finding:** **164 SPM at 1.03m stride** is the optimal mechanical formula for this athlete at fast paces (≤ 6:30/km).
 - Validated in Laps 1 and 2 of the July 25 Time Trial.
 - Produces efficient propulsion without overloading the Achilles.
-- **Correction (July 28, 2026):** Originally mandated for all paces. However, easy/LSD paces (≥ 8:30/km) must use 156–162 SPM at 0.75–0.80m stride to prevent knee flexion strain. Do not force 164+ SPM when running slowly.
+- **Correction (August 1, 2026):** Easy/LSD paces (≥ 8:30/km) adjusted to a sweet spot of **150–153 SPM** at **0.72–0.75m stride** (with a slightly brisker easy pace of **9:00–9:20/km**) to prevent knee flexion strain from too-short strides and sluggish impact from low-cadence shuffles.
 
 ---
 
@@ -152,7 +152,7 @@
 
 **Protocol:**
 - Enforce **164+ SPM** on fast runs (≤ 6:30/km) to reduce Achilles eccentric load.
-- Enforce **156–162 SPM** on easy/LSD runs (≥ 8:30/km) to allow knee extension and prevent joint strain.
+- Enforce **150–153 SPM** on easy/LSD runs (≥ 8:30/km) to allow knee extension and prevent joint strain or sluggish 145 SPM shuffles.
 - Enforce distance caps on LSD runs (≤10 km).
 - Include tibialis anterior raises and calf raise eccentrics in gym program.
 - 48-hour monitoring after any run with acute Achilles discomfort.
@@ -164,8 +164,29 @@
 1. **Never exceed 10% volume increase week-over-week.**
 2. **LSD hard cap: 10 km until structural chassis adapts (target: October 2026).**
 3. **No interval or tempo session within 48 hours of a heavy lower-body gym day.**
-4. Cadence must be speed-dependent: 164+ SPM on fast runs (tempo/intervals/TT), 156–162 SPM on slow runs (easy/LSD).
+4. Cadence must be speed-dependent: 164+ SPM on fast runs (tempo/intervals/TT), 150–153 SPM on slow runs (easy/LSD).
 5. Lactate Threshold (~170 BPM) must not be crossed before the 15-minute mark in any time trial.
+
+---
+
+## LOG-010 | August 1, 2026 — Capped LSD & Biomechanical Collapse Autopsy
+
+**Session:** Planned 10 km LSD (completed 6.11 km)
+**Result:** 1:00:05 (Avg pace 9:50/km, RPE 5) — Stopped early due to heat, severe cadence drop.
+**Goal:** 10 km @ 9:00-10:00/km, HR ≤ 150 BPM, Cadence 156-162 SPM.
+
+### Executive Summary
+The athlete completed 6.11 km of a planned 10 km LSD run. The session was cut short due to environmental factors (late start, intense sun/heat in Bengaluru) rather than structural pain. While cardiorespiratory response remained safe (no redlining, peak HR 161 BPM), the run suffered a severe biomechanical breakdown, with cadence dropping to an average of 145.3 SPM. This sluggish cadence resulted in excessive ground contact time, high impact loading, and cardiac drift above the 150 BPM cap.
+
+### Key Sports Science Findings
+1. **Late Start Penalty:** Running in the late morning sun (10:10 AM start) triggered cardiac drift via vasodilation and heat stress. Heart rate averaged 150.6 BPM, hovering above the easy cap.
+2. **Biomechanical Collapse (145.3 SPM):** The athlete fell into a slow, low-cadence shuffle. This was a reaction to the knee discomfort experienced on July 28 (where forcing 158+ SPM at a slow pace led to a tiny 0.69m stride and joint strain). However, dropping to 145 SPM at a 0.71m stride removed the elastic bounce of the Achilles, forcing the muscles to do all the work and increasing joint compression.
+3. **The Biomechanical Sweet Spot Compromise:** To resolve the conflict between knee pain (at high cadence/slow pace) and Achilles strain (at low cadence/heavy landing), target cadence for easy runs is adjusted to **150–153 SPM** at a slightly faster easy pace of **9:00–9:20/km**. This allows a 0.72m-0.75m stride length, enabling natural knee extension without the heavy 145 SPM impact.
+4. **Unresolved CNS Fatigue:** Thursday's ego sprint (LOG-009, 192 BPM max) left lingering central nervous system and muscular fatigue, contributing to the slow cadence and high cardiovascular cost.
+
+### Forward Plan
+- **Vacation Transition:** Pivot Weeks 2 and 3 to a Vacation Maintenance Phase during Mauritius trip (Aug 5–12). No high-stress quality workouts.
+- **Easy Run Cadence Reset:** Target 150–153 SPM on all easy runs, focusing on short, quick steps and a slightly brisker pace (9:00-9:20/km) to allow knee extension.
 
 ---
 

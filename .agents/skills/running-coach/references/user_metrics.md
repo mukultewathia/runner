@@ -50,8 +50,8 @@ Calculated: **Max HR 206 BPM | RHR 65 BPM | HRR 141 BPM**
 
 | Metric | Current Default (Flawed) | Target (Optimal) | Consequence of Default |
 | :--- | :--- | :--- | :--- |
-| **Cadence** | 154–156 SPM | **Speed-Dependent:**<br>• Easy/LSD: **156–162 SPM**<br>• Tempo/TT/Intervals: **164+ SPM** | Overstriding at fast pace, knee flexion strain at slow pace |
-| **Stride Length** | 1.15m | **Speed-Dependent:**<br>• Easy/LSD: **0.75–0.80m**<br>• Tempo/TT/Intervals: **1.03m** | Overstriding at fast pace, knee flexion strain at slow pace |
+| **Cadence** | 154–156 SPM | **Speed-Dependent:**<br>• Easy/LSD: **150–153 SPM**<br>• Tempo/TT/Intervals: **164+ SPM** | Overstriding at fast pace, knee flexion strain/heavy impact |
+| **Stride Length** | 1.15m | **Speed-Dependent:**<br>• Easy/LSD: **0.72–0.75m**<br>• Tempo/TT/Intervals: **1.03m** | Overstriding at fast pace, knee flexion strain/heavy impact |
 | **Foot Strike** | In front of center of gravity | Under center of gravity | Creates braking forces instead of propulsive forces |
 | **Primary Load** | Achilles / calves | Glutes / quads | Fragile connective tissue absorbing forces it shouldn't |
 | **Vertical Oscillation** | High (bouncing) | Minimal | Energy waste + impact multiplication at high body weight |
@@ -59,7 +59,7 @@ Calculated: **Max HR 206 BPM | RHR 65 BPM | HRR 141 BPM**
 ### Biomechanics Golden Ratio
 > **Established: July 25, 2026** from 5K Time Trial lap data.
 > **164 SPM at 1.03m stride** = optimal formula for fast running (≤6:30/km).
-> **156–162 SPM at 0.75–0.80m stride** = optimal formula for easy running (≥8:30/km) to prevent knee strain for 187cm runner.
+> **150–153 SPM at 0.72–0.75m stride** = sweet spot for easy running (9:00–9:20/km) to prevent knee strain and sluggish impact for 187cm runner.
 
 ### Death Shuffle Immunity Protocol
 When fatigue hits late in a race or workout:
