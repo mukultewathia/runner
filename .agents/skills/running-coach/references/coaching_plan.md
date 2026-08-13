@@ -81,25 +81,77 @@
 | Sunday | Rest | Complete rest. Walk on the beach. | Enjoyed vacation recovery. |
 **Week volume target: ~15 km**
 
-**Week 3 — Vacation Deload / Bangalore Return (Aug 9 – 15)**
+**Week 3 — Bangalore Re-entry (Aug 10 – 16)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Monday | Scenic Run | 4 km, ≤150 BPM, 150–153 SPM (Mauritius) | Kept pace easy and relaxed; cadence at 150–153 SPM. |
-| Tuesday | Rest / Activity | Resort activities. No structured training. | Stayed active without running fatigue. |
-| Wednesday | Travel | Flight back to Bangalore. No training. | Maintained hydration targets. |
-| Thursday | Easy Run | 5 km, ≤150 BPM, 150–153 SPM (Bangalore) | Re-established Bangalore routine with stable HR and cadence. |
-| Friday | Gym — Lower Body | Squats/RDLs. Focus on form, no ego lifting. | Completed lifting session without soreness. |
-| Saturday | LSD | 8 km, ≤150 BPM, 150–153 SPM (Bangalore) | Held 150–153 SPM cadence; stood firm at 8 km cap. |
-| Sunday | Rest | Complete rest. Foam roll. | Pre-run prep for upcoming week. |
-**Week volume target: ~17 km**
+| Monday | Unplanned Run | 10.17 km, Max HR 195 BPM (Mauritius) | Completed run, but violated recovery pace and distance. |
+| Tuesday | Rest / Travel | Flight back to Bangalore. | Stayed hydrated during travel. |
+| Wednesday | Rest | Recovery. Foam roll. | Rested legs from Monday's redline run. |
+| Thursday | Easy Run | 5 km, ≤150 BPM, 150–153 SPM (Bangalore) | HR stayed strictly ≤ 150 BPM; no pacing speed-ups. |
+| Friday | Gym — Upper Body | Strength + 45-minute Zone 2 Spin. | Maintained HR in 149–162 BPM range. |
+| Saturday | LSD | 8 km, ≤150 BPM, 150–153 SPM (Bangalore) | Achilles remained pain-free; locked at 8 km cap. |
+| Sunday | Rest | Complete rest. Foam roll. | Cleared cumulative fatigue. |
+**Week volume target: ~23 km**
 
-**Week 4 — Deload + 5K Monthly Test (Aug 17–23)**
+**Week 4 — Threshold Build (Aug 17 – 23)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Tuesday | Easy Flush | 5 km, ≤140 BPM, 156–162 SPM | Max HR strictly ≤ 140 BPM for true active recovery. |
-| Thursday | CNS Priming | 3 x 400m @ 5:30/km, smooth mechanics | Mechanics felt fluid and relaxed without pushing pace. |
-| Saturday | 5K Monthly Test | Target: 30:30 - 31:00. Pacing strict: 6:10 - 6:15/km. Do not cross 178 BPM. | Perfect negative split; HR stayed ≤ 178 BPM throughout. |
-**Week volume target: ~13–15 km (taper effect)**
+| Monday | Gym — Full Body | Strength. Focus on eccentric calf raises + tibialis raises. | Completed all calf/tibialis work for structural resilience. |
+| Tuesday | Easy Run | 6 km, ≤150 BPM, 150–153 SPM | Lock cadence at 150-153 SPM; average HR ≤ 150 BPM. |
+| Wednesday | Gym — Heavy Legs | Heavy squats/RDLs. + 30-min Recovery Spin. | Recovery spin kept strictly in Zone 1 (136–148 BPM). |
+| Thursday | Cruise Intervals | 5 x 1000m @ 5:55–6:00/km. Strict 2:00 walk rest. | Rest intervals kept strictly at 2:00; no reps faster than 5:55/km. |
+| Friday | Gym — Upper Body | Upper body lift + 45-min Zone 2 Spin. | Completed aerobic spin safely. |
+| Saturday | LSD | 9 km, ≤150 BPM, 150–153 SPM (Beat the sun) | Start before 6:30 AM; zero Achilles or knee pain. |
+| Sunday | Rest | Complete rest. Foam roll. | Hydration targets met (3-4 litres). |
+**Week volume target: ~22 km**
+
+**Week 5 — Specific Peak Volume (Aug 24 – 30)**
+| Day | Session | Details | Success Metric |
+| :--- | :--- | :--- | :--- |
+| Monday | Gym — Full Body | Strength. Include eccentric calf + tibialis raises. | Completed structural work. |
+| Tuesday | Easy Run | 7 km, ≤150 BPM, 150–153 SPM | Held 150–153 SPM cadence for entire 7 km. |
+| Wednesday | Gym — Heavy Legs | Squats/RDLs. + 30-min Recovery Spin. | Kept spin recovery very light. |
+| Thursday | Cruise Intervals | 6 x 1000m @ 5:55–6:00/km. Strict 2:00 walk rest. | Hit 6:00/km consistently without redlining. |
+| Friday | Gym — Upper Body | Upper body lift + 45-min Zone 2 Spin. | Maintained Zone 2 aerobic stimulus. |
+| Saturday | LSD | 11 km, ≤150 BPM, 150–153 SPM (Peak Long Run) | Held 150–153 SPM cadence even in final 2 km of fatigue. |
+| Sunday | Rest | Complete rest. Foam roll. | Completed recovery protocol. |
+**Week volume target: ~26 km**
+
+**Week 6 — Deload & 5K Sharpener (Aug 31 – Sep 6)**
+| Day | Session | Details | Success Metric |
+| :--- | :--- | :--- | :--- |
+| Monday | Gym — Full Body | Strength. Include eccentric calf + tibialis raises. | Completed structural work. |
+| Tuesday | Easy Run | 5 km, ≤150 BPM, 150–153 SPM | Lock cadence at 150-153 SPM. |
+| Wednesday | Gym — Heavy Legs | Squats/RDLs. + 30-min Recovery Spin. | Kept spin recovery very light. |
+| Thursday | Easy Run | 4 km, ≤145 BPM, 150–153 SPM | Heart rate strictly ≤ 145 BPM for active recovery. |
+| Friday | Gym — Upper Body | Upper body lift + 30-min Light Spin. | Recovery spin kept light. |
+| Saturday | 5K Time Trial | Target: Sub-29:30. Pacing: 5:54/km. Negative split. | Perfect negative split; HR ≤ 170 BPM before min 15. |
+| Sunday | Rest | Complete rest. Foam roll. | Cleared TT fatigue. |
+**Week volume target: ~14 km**
+
+**Week 7 — Specific Pace Prep & Taper (Sep 7 – 13)**
+| Day | Session | Details | Success Metric |
+| :--- | :--- | :--- | :--- |
+| Monday | Gym — Full Body | Strength. Include eccentric calf + tibialis raises. | Completed structural work. |
+| Tuesday | Easy Run | 6 km, ≤150 BPM, 150–153 SPM | Lock cadence at 150-153 SPM. |
+| Wednesday | Gym — Heavy Legs | Squats/RDLs (reduce weight by 20%). + 30-min Recovery Spin. | Leg work kept light. |
+| Thursday | Specific Tempo | 3 x 2000m @ 6:30/km (Target 10K pace). 3:00 walk rest. | Held 6:30/km pace exactly; felt relaxed. |
+| Friday | Gym — Upper Body | Upper body lift + 40-min Zone 2 Spin. | Completed aerobic spin. |
+| Saturday | LSD | 8 km, ≤150 BPM, 150–153 SPM (Taper Start) | Stood firm at 8 km cap. |
+| Sunday | Rest | Complete rest. Foam roll. | Cleared fatigue. |
+**Week volume target: ~20 km**
+
+**Week 8 — Race Week (Sep 14 – 20)**
+| Day | Session | Details | Success Metric |
+| :--- | :--- | :--- | :--- |
+| Monday | Gym — Upper Body | Upper body and core only. No legs. | Avoided leg fatigue. |
+| Tuesday | Easy Flush | 5 km, ≤140 BPM, 150–153 SPM | Max HR strictly ≤ 140 BPM for true active recovery. |
+| Wednesday | Rest | Complete rest. Foam roll. | Leg rest. |
+| Thursday | CNS Priming | 3 km easy jog + 3 x 100m strides @ 5:30/km | Neuromuscular priming; strides felt quick and fluid. |
+| Friday | Rest | Complete rest. Hydrate. | Cleared all residual fatigue for race day. |
+| Saturday | 10K CORPORATE RUN | Target: Sub-1:08:00. Pacing: 7:00/km (1-5km), 6:45 (6-8km), 6:30 (9-10km). | Finished sub-1:08:00 with zero Achilles or knee pain. |
+| Sunday | Rest | Complete rest. Walk. | Active recovery. |
+**Week volume target: ~18 km**
 
 ---
 

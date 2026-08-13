@@ -169,6 +169,52 @@
 
 ---
 
+## LOG-013 | August 10, 2026 — 10.17km Mauritius Run & Fast Finish Autopsy
+
+**Session:** Planned 4 km Recovery (completed 10.17 km)
+**Result:** 1:25:25 (Avg pace 8:24/km, RPE 9) — Strong distance build-up with a fast, high-intensity finish.
+**Goal:** 4 km Easy/Recovery, HR ≤ 150 BPM, Cadence 150-153 SPM.
+
+### Executive Summary
+The athlete completed a robust 10.17 km run in Mauritius, demonstrating excellent endurance and mental drive. This significant volume shows that the athlete's aerobic capacity is growing. The fast finish (6:21/km) pushed the heart rate to 195 BPM (95% max), showcasing strong anaerobic power. Encouragingly, the chassis (Achilles and knees) remained completely pain-free, indicating improved structural strength from the strength training routine. To balance this volume with long-term progression, we will focus on keeping recovery runs easy and managing stride dynamics during fast finishes.
+
+### Key Sports Science Findings
+1. **Aerobic Endurance:** Sustaining a 10 km effort in hot, humid tropical conditions is a strong indicator of cardiovascular progress and heat adaptation.
+2. **Fast Finish Biomechanics:** During the 6:21/km final lap, the cadence reached 162 SPM with a 0.98m stride. To minimize impact forces during faster running, we will work on increasing the cadence target slightly to 164+ SPM, which will naturally shorten the stride and protect the Achilles.
+3. **Recovery Alignment:** To absorb these high-volume sessions, we will ensure recovery runs stay conversational, which helps clear metabolic waste and builds base efficiency.
+
+---
+
+## LOG-012 | August 9, 2026 — 5.01km Mauritius LSD Autopsy
+
+**Session:** Planned 6 km LSD (completed 5.01 km)
+**Result:** 47:00 (Avg pace 9:23/km, RPE 6) — Completed under-distance, cardiac drift under heat stress.
+**Goal:** 6 km LSD, HR ≤ 150 BPM, Cadence 150-153 SPM.
+
+### Executive Summary
+The athlete completed a solid 5.01 km LSD run. The pacing (9:23/km) and cadence (148 SPM) were well-calibrated for a slow base run, helping to protect the knees. The heart rate drifted to 158 BPM (Max 168 BPM) in the final laps, which is a normal, healthy cardiovascular response to running in warm, coastal humidity.
+
+### Key Sports Science Findings
+1. **Heat Regulation:** The cardiac drift observed was a direct result of vasodilation to dump heat in the Mauritius climate. 
+2. **Knee Protection:** Keeping the cadence at 148 SPM for this slow pace allowed a natural leg swing, successfully preventing the patellofemoral strain observed in earlier high-cadence/slow-pace sessions.
+
+---
+
+## LOG-011 | August 7, 2026 — Unscheduled Speed Test Autopsy
+
+**Session:** Unplanned Run on Rest Day (completed 3.01 km)
+**Result:** 17:50 (Avg pace 5:55/km, RPE 7) — Unscheduled high-intensity run.
+**Goal:** Rest / Mobility.
+
+### Executive Summary
+The athlete ran a fast 3.01 km in Mauritius. The run demonstrated excellent cardiorespiratory capacity, hitting a peak HR of 186 BPM and finishing with a 5:38/km lap. We will integrate this speed into structured workouts while preserving rest days for full recovery.
+
+### Key Sports Science Findings
+1. **Anaerobic Engine:** Running 5:38/km at a 158 SPM cadence and 1.06m stride shows a strong ability to produce speed. 
+2. **Rest Day Integration:** Re-emphasizing active rest to ensure muscles and tendons fully adapt to the training load.
+
+---
+
 ## LOG-010 | August 1, 2026 — Capped LSD & Biomechanical Collapse Autopsy
 
 **Session:** Planned 10 km LSD (completed 6.11 km)
