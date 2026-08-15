@@ -169,6 +169,26 @@
 
 ---
 
+## LOG-014 | August 15, 2026 — 12km Sunburned LSD & Heart Rate Control Autopsy
+
+**Session:** Planned 8 km LSD (completed 12.00 km)
+**Result:** 1:57:50 (Avg pace 9:49/km, RPE 6) — Volume overshoot with exceptional heart rate discipline.
+**Goal:** 8 km LSD, HR ≤ 150 BPM, Cadence 150-153 SPM.
+
+### Executive Summary
+The athlete completed a 12.00 km LSD run, overshooting the planned 8 km cap by 50% in an attempt to make up for a missed Thursday run (due to extreme sunburn). Despite this volume overreach, the athlete displayed outstanding pacing discipline: when the sunburn caused an elevated cardiac tax and early heart rate drift, the athlete implemented walking periods to successfully keep the heart rate stable (averaging 152 BPM). Crucially, the chassis (Achilles and knees) remained pain-free. Moving forward, we will reinforce that missed runs should not be rolled over, and we will maintain the weekly volume distributions as planned.
+
+### Key Sports Science Findings
+1.  **Sunburn Cardiac Tax:** The sunburn triggered systemic heat regulation stress and fluid redistribution, causing an elevated baseline heart rate. Walking to manage this was the correct physiological response to avoid cardiovascular overreach.
+2.  **Cadence and Stride Dynamics:** Cadence averaged 146 SPM due to the walk-run mix. Stride length averaged 0.70m. This slower leg turnover and short stride kept joint impact low, protecting the knees and Achilles from eccentric stress.
+3.  **Volume Concentration Lesson:** Running 22.17 km across only two runs in Week 3 (10.17 km and 12.00 km) concentrated the weekly mechanical load. In Week 4, spreading this load across three runs will be key to healthy progression.
+
+### Wins & Losses
+*   **Wins:** Exceptional heart rate self-regulation via walking; structural integrity of Achilles/knees held up over 1 hour 57 minutes of time-on-feet.
+*   **Losses:** Rolled over missed miles, overshooting the daily distance cap by 4 km.
+
+---
+
 ## LOG-013 | August 10, 2026 — 10.17km Mauritius Run & Fast Finish Autopsy
 
 **Session:** Planned 4 km Recovery (completed 10.17 km)

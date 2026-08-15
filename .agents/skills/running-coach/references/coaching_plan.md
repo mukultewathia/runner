@@ -87,11 +87,11 @@
 | Monday | Unplanned Run | 10.17 km, Max HR 195 BPM (Mauritius) | Completed run, but violated recovery pace and distance. |
 | Tuesday | Rest / Travel | Flight back to Bangalore. | Stayed hydrated during travel. |
 | Wednesday | Rest | Recovery. Foam roll. | Rested legs from Monday's redline run. |
-| Thursday | Easy Run | 5 km, ≤150 BPM, 150–153 SPM (Bangalore) | HR stayed strictly ≤ 150 BPM; no pacing speed-ups. |
+| Thursday | Easy Run | 5 km (Bangalore) | Skipped due to extreme sunburn. |
 | Friday | Gym — Upper Body | Strength + 45-minute Zone 2 Spin. | Maintained HR in 149–162 BPM range. |
-| Saturday | LSD | 8 km, ≤150 BPM, 150–153 SPM (Bangalore) | Achilles remained pain-free; locked at 8 km cap. |
+| Saturday | LSD | 8 km (completed 12 km, Bangalore) | Walking used to control HR at 152 BPM; chassis pain-free. |
 | Sunday | Rest | Complete rest. Foam roll. | Cleared cumulative fatigue. |
-**Week volume target: ~23 km**
+**Week volume target: ~23 km (Completed: 22.17 km)**
 
 **Week 4 — Threshold Build (Aug 17 – 23)**
 | Day | Session | Details | Success Metric |
