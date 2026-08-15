@@ -169,6 +169,25 @@
 
 ---
 
+## LOG-015 | August 15, 2026 — Sunburn Blister Complication & Medical Deload Pivot
+
+**Session:** Unplanned Medical Deload (Aug 16 - 19)
+**Result:** 4 days of complete rest prescribed.
+**Goal:** Heal blistered skin, prevent systemic inflammation.
+
+### Executive Summary
+The athlete reported blisters on their back due to severe sunburn following the 12km LSD run. Running with open blisters on the back introduces severe friction pain, ruins biomechanics, and drastically increases the risk of infection. Furthermore, systemic inflammation from healing a major organ (the skin) competes with the recovery required for cardiovascular and structural adaptations.
+
+### Key Sports Science Findings
+1. **Skin Integrity and CNS Stress:** A compromised dermal barrier forces the immune system into overdrive. Imposing the stress of high-intensity training (like the planned Cruise Intervals) on top of this would result in failed recovery and likely illness or injury.
+2. **Medical Pivot:** The schedule for Week 4 has been completely rewritten. Sunday through Wednesday are pure medical rest (hydration and protein focus). Thursday is a 5km test flight to ensure back friction is not an issue. Friday's gym session eliminates Barbell Back Squats to protect the healing skin.
+
+### Forward Plan
+- **Week 4 Volume Drop:** Total weekly volume drops to ~12 km. This forced deload perfectly aligns with the required recovery from the 12km LSD overreach from the previous week.
+- **Return to Quality:** The athlete will resume threshold building in Week 5 once the skin has healed.
+
+---
+
 ## LOG-014 | August 15, 2026 — 12km Sunburned LSD & Heart Rate Control Autopsy
 
 **Session:** Planned 8 km LSD (completed 12.00 km)

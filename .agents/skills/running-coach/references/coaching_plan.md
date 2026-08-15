@@ -93,17 +93,17 @@
 | Sunday | Rest | Complete rest. Foam roll. | Cleared cumulative fatigue. |
 **Week volume target: ~23 km (Completed: 22.17 km)**
 
-**Week 4 — Threshold Build (Aug 17 – 23)**
+**Week 4 — Medical Deload & Recovery (Aug 16 – 22)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Monday | Gym — Full Body | Strength. Focus on eccentric calf raises + tibialis raises. | Completed all calf/tibialis work for structural resilience. |
-| Tuesday | Easy Run | 6 km, ≤150 BPM, 150–153 SPM | Lock cadence at 150-153 SPM; average HR ≤ 150 BPM. |
-| Wednesday | Gym — Heavy Legs | Heavy squats/RDLs. + 30-min Recovery Spin. | Recovery spin kept strictly in Zone 1 (136–148 BPM). |
-| Thursday | Cruise Intervals | 5 x 1000m @ 5:55–6:00/km. Strict 2:00 walk rest. | Rest intervals kept strictly at 2:00; no reps faster than 5:55/km. |
-| Friday | Gym — Upper Body | Upper body lift + 45-min Zone 2 Spin. | Completed aerobic spin safely. |
-| Saturday | LSD | 9 km, ≤150 BPM, 150–153 SPM (Beat the sun) | Start before 6:30 AM; zero Achilles or knee pain. |
-| Sunday | Rest | Complete rest. Foam roll. | Hydration targets met (3-4 litres). |
-**Week volume target: ~22 km**
+| Sunday | Medical Rest | Complete rest. Keep blisters clean/dry. | Hydration (3-4L) and protein (180g+) targets met. |
+| Monday | Medical Rest | Complete rest. No training. | Focus on skin healing. |
+| Tuesday | Medical Rest | Complete rest. No training. | Avoid friction on back. |
+| Wednesday | Medical Rest | Complete rest. No training. | Fully clear residual systemic inflammation. |
+| Thursday | Easy Run | 5 km, ≤145 BPM, 150–153 SPM | Test flight. Stop if back friction causes pain. |
+| Friday | Gym — Lower Body | Modified leg strength. NO BARBELL BACK SQUATS. | Use Leg Press/DB Lunges to protect back blisters. |
+| Saturday | LSD | 7 km, ≤150 BPM, 150–153 SPM | Conservative distance cap. Zero Achilles pain. |
+**Week volume target: ~12 km**
 
 **Week 5 — Specific Peak Volume (Aug 24 – 30)**
 | Day | Session | Details | Success Metric |
