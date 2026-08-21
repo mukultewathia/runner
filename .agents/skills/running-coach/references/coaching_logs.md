@@ -4,7 +4,22 @@
 
 ---
 
+### Date: August 22, 2026
+**Topic: Strategic Pivot to 10K Sub-60 & Recovery Violation Autopsy**
 
+**The Situation:**
+The athlete violated the Medical Deload & Recovery week by running a progressive 5.5km run on Thursday (finishing in Zone 5) and a massive 12x400m interval session on Friday. 
+
+**The Autopsy (Aug 20 & 21 Runs):**
+- *Wins:* The cardiovascular engine is massive. Hitting 4:40/km for 12 reps proves the engine is ready. Biomechanically, Thursday proved the athlete has internalized the "Golden Ratio"—hitting 168 SPM and a 1.04m stride at 5:41/km pace. 
+- *Losses:* Doubling interval volume from 6 reps to 12 reps violated the 10% volume rule. Stride length expanded to 1.29m at 4:22/km pace, creating dangerous braking forces on the Achilles. Max HR drifted to 198 BPM (Redline). 
+
+**The Pivot:**
+The athlete requested to shift focus from the Half Marathon to a strict 10K Sub-60 target for the upcoming corporate race (Sept 19). I approved the shift. 
+- The Long Run is now capped at 11km to protect the Achilles.
+- Thursday intervals are now strictly at 10K Goal Pace (5:45-6:00/km) to build specific endurance and lactate clearance.
+- Introduced 4x100m strides on Tuesdays to build a "speed reserve" without cardiovascular fatigue.
+- Re-established strict nutrition protocols: fasted Zone 2 runs, fueled Zone 4/LSD runs, and mandatory 45-minute post-run fueling window.
 # Important Observations
 
 > This file captures critical biomechanical findings, physiological patterns, injury flags, and sports science insights derived from training data. The running coach reads this file to ensure evidence-based plan adjustments and to avoid repeating costly mistakes.
