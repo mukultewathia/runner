@@ -10,6 +10,7 @@
 
 | Date | Type | Distance (km) | Duration | Avg Pace | Avg HR | Max HR | Cadence | Stride | RPE | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-08-23 | LSD | 10.00 | 01:35:04 | 9:30 | 143 | 158 | Avg 146 (L8-10: 138-142) | Avg 0.72 (L10: 0.76) | 5 | First run of the Sub-60 10K block. Overshot 9km cap slightly. Flawless Zone 2 HR discipline (143 Avg). In the final 3 laps, the athlete strategically walked to control cardiac drift (peaking at 158 BPM), causing the lap average cadence to drop (138-142 SPM). This was a massive win for ego-discipline and physiological compliance. |
 | 2026-08-21 | Intervals | 5.09 | ~00:55:00 | 4:45 | 166 | 198 | Avg 174 (Work reps: 170-178) | Avg 1.21 (Max 1.29) | 9 | Massive 12x400m interval session. Engine is ready for sub-60 10K, but 10% volume rule violated. Overstriding (1.29m) caused extreme braking forces on Achilles. Max HR drifted to 198 (Redline). |
 | 2026-08-20 | Progressive | 5.45 | 00:41:24 | 7:35 | 169 | 193 | Avg 160 (Max 168) | Avg 0.89 (Max 1.04) | 8 | Started easy, ended fast. Lap 1-2 cardiac drift (149->163 BPM). Ego sprinted the final 1.3km down to 5:41/km pace. Biomechanics WIN: Hit exact Golden Ratio at fast pace (168 SPM / 1.04m stride) in final lap. |
 | 2026-08-15 | LSD | 12.00 | 01:57:50 | 9:49 | 152 | 164 | 146 | 0.70 | 6 | Capped 8km LSD overshot to 12.00km due to combining missed Thursday run. Executed excellent HR discipline by walking to control cardiac tax and temperature drift caused by severe sunburn (Avg HR 152, Max 164). Joints and Achilles remained pain-free. |
@@ -49,6 +50,8 @@
 
 | Week | Dates | Total Distance (km) | Key Sessions |
 | :--- | :--- | :--- | :--- |
+| Week 5 (10K Block) | Aug 23 – 29, 2026 | 10.00 km | Sunday LSD (10km) |
+| Week 4 (Month 3) | Aug 17 – 22, 2026 | 10.54 km | Thursday Progressive (5.45km) + Friday Intervals (5.09km) |
 | Week 3 (Month 3) | Aug 10 – 16, 2026 | 22.17 km | Bangalore re-entry. Monday (10.17km completed), Thursday (0km - sunburn), Saturday (12.00km completed) |
 | Week 2 (Month 3) | Aug 3 – 9, 2026 | 8.02 km | Mauritius Vacation. Friday Unplanned Run (3.01km) + Sunday LSD (5.01km) |
 | Week 1 (Month 3) | July 27 – Aug 2, 2026 | 18.47 km | Easy Run (5.15km) + Cruise Intervals (7.21km) + Capped LSD (6.11km) |

@@ -109,11 +109,11 @@
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
 | Sunday | LSD | 9 km, ≤150 BPM, 150–153 SPM | Capped distance to recover from Aug 21 intervals. |
-| Monday | Gym — Full Body | Strength. Include eccentric calf + tibialis raises. | Completed structural work. |
+| Monday | Gym — Heavy Legs | Squats/RDLs. + Eccentric calf work. | Primary leg strength day. |
 | Tuesday | Easy Run + Strides | 6 km, ≤150 BPM + 4x100m strides @ 5:00/km | Held 150–153 SPM cadence, then primed CNS with strides. |
-| Wednesday | Gym — Heavy Legs | Squats/RDLs. + 30-min Recovery Spin. | Kept spin recovery very light. |
+| Wednesday | Gym — Upper Body | Upper body lift + 30-min Recovery Spin. | Legs get 48 hours recovery before intervals. |
 | Thursday | Cruise Intervals | 5 x 1000m @ 5:45–6:00/km. 2:00 walk rest. | Strict HR cap: 178 BPM. Locked in 164+ SPM. |
-| Friday | Active Recovery | 4 km, ≤140 BPM + Gym Upper Body | Active venous flush. Extremely slow. |
+| Friday | Active Recovery | 4 km, ≤140 BPM + Full Body Mobility | Active venous flush. Extremely slow. |
 | Saturday | Rest | Complete rest. Foam roll. | Completed recovery protocol. |
 **Week volume target: ~24 km**
 
@@ -121,11 +121,11 @@
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
 | Sunday | Peak LSD | 11 km, ≤150 BPM, 150–153 SPM | Over-distance run to make 10km feel short on race day. |
-| Monday | Gym — Full Body | Strength. Include eccentric calf + tibialis raises. | Completed structural work. |
+| Monday | Gym — Heavy Legs | Squats/RDLs. + Eccentric calf work. | Primary leg strength day. |
 | Tuesday | Easy Run + Strides | 7 km, ≤150 BPM + 4x100m strides | Maintained aerobic base. Primed CNS. |
-| Wednesday | Gym — Heavy Legs | Squats/RDLs. + 30-min Recovery Spin. | Kept spin recovery very light. |
+| Wednesday | Gym — Upper Body | Upper body lift + 30-min Recovery Spin. | Legs get 48 hours recovery before intervals. |
 | Thursday | Long Intervals | 3 x 2000m @ 6:00/km. 3:00 walk rest. | Specific endurance: holding race pace longer. HR ≤178. |
-| Friday | Active Recovery | 4 km, ≤140 BPM + Gym Upper Body | Active venous flush. |
+| Friday | Active Recovery | 4 km, ≤140 BPM + Full Body Mobility | Active venous flush. |
 | Saturday | Rest | Complete rest. Foam roll. | Cleared fatigue. |
 **Week volume target: ~28 km**
 
@@ -133,9 +133,9 @@
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
 | Sunday | LSD | 10 km, ≤150 BPM, 150–153 SPM | Standard aerobic maintenance. |
-| Monday | Gym — Full Body | Strength. Include eccentric calf + tibialis raises. | Completed structural work. |
+| Monday | Gym — Heavy Legs | Squats/RDLs. + Eccentric calf work (Reduce weight 10%). | Primary leg strength day. |
 | Tuesday | Easy Run + Strides | 5 km, ≤150 BPM + 4x100m strides | Begin tapering volume. |
-| Wednesday | Gym — Heavy Legs | Squats/RDLs (reduce weight by 20%). | Leg work kept light. |
+| Wednesday | Gym — Upper Body | Upper body lift + 30-min Recovery Spin. | Tapering load. |
 | Thursday | 10K Simulation | 6 km Continuous Tempo @ 6:10/km | No rest breaks. Test the chassis just below race pace. |
 | Friday | Rest | Complete leg rest. No running. | Prepare for race week. |
 | Saturday | Rest | Complete rest. Foam roll. | Cleared fatigue. |
