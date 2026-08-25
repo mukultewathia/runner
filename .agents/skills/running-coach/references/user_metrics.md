@@ -10,7 +10,7 @@
 | :--- | :--- | :--- |
 | **Age** | 26 | As of 2026 |
 | **Height** | 187 cm | Baseline physical stat |
-| **Current Weight** | 93–95 kg | Heavy muscle mass from 5-day lifting routine |
+| **Current Weight** | 93 kg | Heavy muscle mass from lifting routine. Massive win for running economy! |
 | **Target Weight** | 85 kg | Optimal for sub-20:00 5K running economy |
 | **Location** | Bengaluru, India | Training environment: hot & humid conditions |
 | **Athlete Type** | Heavy / Hybrid | Significant muscle mass — highly developed quads, hamstrings, glutes |
