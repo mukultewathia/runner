@@ -120,7 +120,7 @@
 **Week 6 — 10K Specific Endurance (Aug 30 – Sep 5)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Sunday | Peak LSD | 11 km, ≤150 BPM, 150–153 SPM | Over-distance run to make 10km feel short on race day. |
+| Sunday | Fast-Finish LSD | 7 km Zone 2 (≤150 BPM) + 4 km @ 5:50-6:00/km | Tests specific endurance and lactate clearance on tired legs. |
 | Monday | Gym — Heavy Legs | Squats/RDLs. + Eccentric calf work. | Primary leg strength day. |
 | Tuesday | Easy Run + Strides | 7 km, ≤150 BPM + 4x100m strides | Maintained aerobic base. Primed CNS. |
 | Wednesday | Gym — Upper Body | Upper body lift + 30-min Recovery Spin. | Legs get 48 hours recovery before intervals. |
@@ -132,7 +132,7 @@
 **Week 7 — 10K Simulation Week (Sep 6 – 12)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Sunday | LSD | 10 km, ≤150 BPM, 150–153 SPM | Standard aerobic maintenance. |
+| Sunday | Fast-Finish LSD | 6 km Zone 2 (≤150 BPM) + 4 km @ 5:50-6:00/km | Race simulation on pre-fatigued legs. |
 | Monday | Gym — Heavy Legs | Squats/RDLs. + Eccentric calf work (Reduce weight 10%). | Primary leg strength day. |
 | Tuesday | Easy Run + Strides | 5 km, ≤150 BPM + 4x100m strides | Begin tapering volume. |
 | Wednesday | Gym — Upper Body | Upper body lift + 30-min Recovery Spin. | Tapering load. |

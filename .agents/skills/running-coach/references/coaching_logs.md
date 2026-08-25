@@ -4,6 +4,18 @@
 
 ---
 
+### Date: August 26, 2026
+**Topic: Strategic Alignment & Introduction of Fast-Finish LSDs**
+
+**The Situation:**
+The athlete expressed frustration with pure Zone 2 Long Slow Distance (LSD) running, feeling that it lacked specific pace practice for the 10K goal. The athlete proposed increasing threshold volume by running 5km at 10K pace during the Sunday long run. 
+
+**The Pivot:**
+Given the athlete's 95kg frame and heavy lifting schedule, a 5km threshold segment would push total weekly threshold volume to 11km (~40-45% of total volume), risking severe Achilles tendonitis. The coach negotiated a compromise: **Fast-Finish LSDs**. 
+Weeks 6 and 7 Sunday long runs were updated to include a strict 4km segment at 10K Goal Pace (5:50-6:00/km) at the very end of the run. This provides the desired lactate clearance and race-pace simulation on pre-fatigued legs without completely breaking the polarized (80/20) recovery architecture. The athlete is aligned and motivated by the aggressive target.
+
+---
+
 ### Date: August 22, 2026
 **Topic: Strategic Pivot to 10K Sub-60 & Recovery Violation Autopsy**
 
