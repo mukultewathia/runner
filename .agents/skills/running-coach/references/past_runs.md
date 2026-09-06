@@ -10,6 +10,8 @@
 
 | Date | Type | Distance (km) | Duration | Avg Pace | Avg HR | Max HR | Cadence | Stride | RPE | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-05 | 10K PB / Post-Viral | 10.02 | 01:08:08 (01:07:00 moving) | 6:48 (6:42 moving) | 185 | 197 | Avg 160 (Run: 160-162) | Avg 0.95 (Run: 0.97-1.02) | 9 | 🏁 NEW 10K PERSONAL BEST! Post-viral grit test run 24h after 3-day fever/cough. First 4km continuous (6:08, 6:38, 6:10, 6:30; HR 172->190). Severe diaphragmatic spasm / ETAP (sharp lower right chest stitch) at km 4 from cough fatigue + 190 BPM hyperventilation. Smartly walked 5 times (762m total in 9:10) to manage stitch and prevent collapse. Pure running pace averaged 6:22/km with cadence locked at 160-162 SPM and stride capped at 1.02m (no overstriding). Peak HR 197 BPM. |
+| 2026-09-02 | Easy + Fast Intervals | 7.00 | ~00:48:00 | ~6:50 | 150 (Easy) | 188+ | Avg 156 (Easy) | Avg 0.78 (Easy) | 8 | Part A: 4.12 km easy run (8:19/km, HR 144-155, cadence 154-156 SPM, stride 0.76-0.80m) — mechanically sound. Part B: 4x700m fast intervals @ 5:00/km (~2.8km). High glycolytic load on top of heavy lifting triggered post-exercise immunosuppression (the "open window"), leading to 3 days of respiratory illness/fever on Sep 3-5. |
 | 2026-08-30 | LSD / Recovery | 10.07 | 01:34:35 | 9:24 | 156 | 181 | Avg 143 | Avg 0.74 | 6 | Reoptimized recovery run. Displayed outstanding ego-discipline by walking in km 3, 4, 8, 9 to manage elevated baseline HR from accumulated fatigue. Overshot 9km cap to 10.07km and surged to 7:29 pace in final km (HR 181, Zone 4). Slight medial left knee puffiness/discomfort flagged post-run. |
 | 2026-08-28 | 5K Time Trial | 5.00 | 00:29:07 | 5:49 | 187 | 203 | Avg 166 | Avg 1.04 | 9 | 🏁 NEW 5K PERSONAL BEST! Smashed July 25 TT (30:45) by 1:38. Masterclass negative split execution: opened painfully slow (6:05), stabilized (6:00, 6:00, 5:52), and obliterated final km in 5:06 (HR 203, 170 SPM, 1.16m stride). Cadence locked at 164+ SPM throughout. Elite HR recovery: 54 BPM drop in 3 mins (192 -> 138). |
 | 2026-08-27 | Intervals | 5.31 | ~00:32:00 | 6:01 | 184 | 204 | Avg 164 | Avg 1.05 | 9 | 5x1000m Cruise Intervals attempted (4 reps completed). Paced too aggressively from Rep 1 (5:06, 5:01, 5:13, 5:52), turning threshold session into VO2 Max redline. Rep 3 maxed at 204 BPM (new tested high). Death Shuffle Immunity successfully applied in Rep 4 (166 SPM / 1.02m stride). Rests well-controlled (1:14, 1:15, 3:58). |
@@ -54,7 +56,8 @@
 
 | Week | Dates | Total Distance (km) | Key Sessions |
 | :--- | :--- | :--- | :--- |
-| Week 6 (10K Block) | Aug 30 – Sep 5, 2026 | 10.07 km (In Progress) | Sunday Recovery LSD (10.07km completed) |
+| Week 7 (10K Block) | Sep 6 – 12, 2026 | In Progress (Target: ~14.5 km) | Taper transition week leading to Sept 19 race |
+| Week 6 (10K Block) | Aug 30 – Sep 5, 2026 | 27.09 km | Sunday LSD (10.07km) + Wednesday Easy/Intervals (7.00km) + Saturday 10K PB (10.02km) |
 | Week 5 (10K Block) | Aug 23 – 29, 2026 | 26.31 km | Sunday LSD (10km) + Tuesday Easy (6km) + Thursday Intervals (5.31km) + Friday 5K PB (5.00km) |
 | Week 4 (Month 3) | Aug 17 – 22, 2026 | 10.54 km | Thursday Progressive (5.45km) + Friday Intervals (5.09km) |
 | Week 3 (Month 3) | Aug 10 – 16, 2026 | 22.17 km | Bangalore re-entry. Monday (10.17km completed), Thursday (0km - sunburn), Saturday (12.00km completed) |

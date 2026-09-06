@@ -73,6 +73,7 @@ When fatigue hits late in a race or workout:
 
 | Distance / Effort | Time / Pace | Avg HR | Date | Notes |
 | :--- | :--- | :--- | :--- | :--- |
+| **10K Official/Timed** | 1:07:00 moving (1:08:08 elapsed) (6:42/km) | Avg 185 BPM (Max 197) | September 5, 2026 | New Official 10K PB! Run post-fever with 5 walk breaks due to diaphragmatic stitch. Pure running pace was 6:22/km. |
 | **5K Time Trial** | 29:07 (5:49/km) | Avg 187 BPM (Max 203) | August 28, 2026 | New Official PB! Broke the 30:00 barrier. Negative split execution (6:05 -> 5:06). Elite 54 BPM HR drop in 3 min post-run. |
 | **5K Previous Baseline** | 30:45 (6:09/km) | 186 BPM | July 25, 2026 | Month 2 Baseline. Positive split collapse. Adrenaline pacing error in Lap 1. |
 | **3.5K Tempo** | 19:32 (5:35/km) | 185 BPM | July 17, 2026 | Redline effort. True max threshold test. |
@@ -86,6 +87,7 @@ When fatigue hits late in a race or workout:
 
 | Issue | Status | Notes |
 | :--- | :--- | :--- |
+| **Diaphragmatic Spasm & ETAP (Lower Right Chest)** | 🟡 Monitor | September 5, 2026. Sharp stitch at km 4 triggered by cough-fatigued respiratory muscles + 190 BPM hyperventilation + liver ligament tension. Protocol: 3:2 breathing rhythm, 90-90 belly breathing, anti-rotational core (Deadbugs, side planks). Ban on crunches/Valsalva. |
 | **Left Knee Medial Tracking / Puffiness** | 🟡 Monitor | August 30, 2026. Localized puffiness on medial retinaculum/Hoffa's fat pad just above Pes Anserinus from valgus collapse under fatigue and low cadence. Protocol: Ice/compression, TKEs, banded clamshells, step-ups with strict alignment, ban on lunges. |
 | **Achilles Tendon (bilateral)** | 🟡 Monitor | Low cadence (156 SPM) + 1.15m stride at 95 kg causes high eccentric load. Flared post July 12 overreach. |
 | **Calf Overload** | 🟡 Monitor | 90+ mins at 95 kg on feet causes cumulative structural fatigue. Enforce distance caps. |

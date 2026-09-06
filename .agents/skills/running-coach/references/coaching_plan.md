@@ -121,25 +121,25 @@
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
 | Sunday | LSD / Recovery | 10.07 km completed (Avg 9:24/km, HR 156, Max 181). Walk breaks used. | Protected base; flagged inner knee tracking. |
-| Monday | Gym — Knee & Hip Alignment | 45-min Bulletproof Session: TKEs, Clamshells, Glute Bridges, Low-Box Step-Ups, Calf Eccentrics. NO LUNGES/HEAVY SQUATS. | Completed alignment rehab without knee irritation. |
-| Tuesday | Easy Run + Strides | 6 km, ≤150 BPM, 150–153 SPM + 4x100m strides @ 5:30/km | Knee tracks straight; cadence locked at 150+ SPM. |
-| Wednesday | Gym — Upper Body | Upper body lift + 30-min Recovery Spin. | Legs get 48 hours recovery before intervals. |
-| Thursday | Cruise Intervals | 5 x 1000m @ 5:50/km. 2:00 walk rest. HR cap: 178 BPM. | Strict 5:50 pacing on Rep 1; all 5 reps completed. |
-| Friday | Active Recovery | 3–4 km, ≤140 BPM + Full Body Mobility | Active venous flush. Extremely slow. |
-| Saturday | Rest | Complete rest. Foam roll & hydrate. | Cleared fatigue for Week 7 peak. |
-**Week volume target: ~24 km**
+| Monday | Gym — Knee & Hip Alignment | 45-min Bulletproof Session: TKEs, Clamshells, Glute Bridges. | Completed alignment rehab without knee irritation. |
+| Tuesday | Rest / Travel | Rest. | Cleared fatigue. |
+| Wednesday | Easy + Fast Intervals | 7.00 km completed: 4.12km easy + 4x700m @ 5:00/km. | Triggered post-workout immune drop (fever Sep 3-5). |
+| Thursday | Medical Rest | Sick with fever, cough, cold. Complete bedrest. | Hydration and resting. |
+| Friday | Medical Rest | Sick with fever, cough, cold. Complete bedrest. | Hydration and resting. |
+| Saturday | 10K Post-Viral Battle | 10.02 km completed in 1:07:00 moving (1:08:08 elapsed). Walk breaks used for ETAP. | New 10K PB; managed diaphragmatic spasm. |
+**Week volume completed: 27.09 km**
 
-**Week 7 — 10K Simulation Week (Sep 6 – 12)**
+**Week 7 — The Taper Transition (Sep 6 – 12)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Sunday | Fast-Finish LSD | 8 km Zone 2 (≤150 BPM) + 3 km @ 5:55-6:00/km | Race simulation on pre-fatigued legs. |
-| Monday | Gym — Heavy Legs | Squats/RDLs. + Eccentric calf work (Reduce weight 10%). | Primary leg strength day. |
-| Tuesday | Easy Run + Strides | 6 km, ≤150 BPM + 4x100m strides | Begin tapering volume. |
-| Wednesday | Gym — Upper Body | Upper body lift + 30-min Recovery Spin. | Tapering load. |
-| Thursday | 10K Simulation | 6 km Continuous Tempo @ 6:05–6:10/km | No rest breaks. Test the chassis just below race pace. |
-| Friday | Active Recovery | 3 km, ≤140 BPM | Active venous flush. |
-| Saturday | Rest | Complete rest. Foam roll. | Cleared fatigue. |
-**Week volume target: ~26 km**
+| Sunday | Rest & Recovery | Completed. 24h passive rest post-10K. Hydration and viral clearance. | Cleared acute cardiac fatigue. |
+| Monday | Gym — Knee/Hip & Core | NO RUNNING. NO HEAVY SQUATS/LUNGES. 15 min Diaphragmatic Core (Deadbugs, Side Planks, 90-90 breathing) + 15 min Knee Alignment (TKEs, clamshells). Optional 20-min Zone 1 spin. | Left knee calm; zero ribcage spasm. |
+| Tuesday | Aerobic Flush & Rhythm Test | 5 km Easy Run, ≤148 BPM, 152–156 SPM. Focus 100% on 3:2 breathing rhythm. Walk if stitch twinges. | HR capped under 148 BPM; ribcage 100% pain-free. |
+| Wednesday | Upper Body + Spin Flush | Upper body dumbbell/cable strength + 25-min low-resistance spin (RPM 85+, HR < 130 BPM). | Legs feel light and loose post-spin. |
+| Thursday | Race-Pace Calibration | 5.5 km total: 1.5 km warm-up + 3 x 1000m @ 5:58–6:00/km (with 2:30 walk recovery) + 1 km cool-down. (HR cap: 178 BPM, Cadence 164+ SPM). | All 3 reps hit 5:58 smoothly; zero stitch. |
+| Friday | Complete Rest & Mobility | Complete rest. Foam roll. Hydrate with electrolytes (3–4L). High protein. | Connective tissue feels fresh and springy. |
+| Saturday | Pre-Taper Strides & Shakeout | 4 km total: 3.5 km easy (Zone 2, ≤150 BPM) + 3 x 80m smooth strides focusing on 166 SPM turnover. | Stride turnover feels springy and effortless. |
+**Week volume target: ~14.5 km running**
 
 **Week 8 — Race Week (Sep 13 – 19)**
 | Day | Session | Details | Success Metric |

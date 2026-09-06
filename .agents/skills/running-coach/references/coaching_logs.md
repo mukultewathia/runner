@@ -4,6 +4,34 @@
 
 ---
 
+### Date: September 7, 2026
+**Topic: Post-Viral 10K PB Autopsy (1:07:00), Diaphragmatic ETAP Diagnosis & Week 7 Taper Transition**
+
+**The Situation:**
+Following a 5K PB of 29:07 on Aug 28 and an LSD on Aug 30, the athlete ran 4.1km easy + 4x700m intervals @ 5:00/km on Sep 2. This high-glycolytic workout triggered the "immunological open window," resulting in 3 days of viral fever, cough, and rhinorrhea (Sep 3–5). On Saturday (Sep 5), just 24 hours post-fever, the athlete completed a 10K in 1:07:00 moving (1:08:08 elapsed).
+
+**The Autopsy (Sep 5 10K Run):**
+- *Performance:* 1:07:00 moving time (6:42/km avg), setting a new 10K Personal Best.
+- *The Diaphragmatic Breakdown:* After 4km continuous (6:08, 6:38, 6:10, 6:30; HR 172->190 BPM), acute sharp pain struck the lower right chest / upper abdomen. Diagnosis: Acute Exercise-Related Transient Abdominal Pain (ETAP) and diaphragmatic spasm caused by:
+  1. Respiratory muscle micro-tears from 72 hours of coughing.
+  2. 190 BPM hyperventilation.
+  3. Liver ligament tension from right-foot impact.
+  4. Splanchnic vasoconstriction from running dehydrated.
+- *The Tactical Save:* The athlete smartly walked 5 times (762m total in 9:10), preventing cardiovascular syncope. Pure running pace across 9.26 km was 6:22/km with cadence locked at 160–162 SPM and stride capped at 1.02m (avoiding Achilles overload).
+- *Cardiac Autonomic Strain:* During walking breaks, HR stalled at 174–180 BPM (versus athlete's baseline drop to 135 BPM), indicating post-viral tachycardia and residual systemic inflammation.
+
+**Sub-60 Feasibility & Strategy:**
+With the August 28 5K PB of 29:07 (VDOT ~41), the athlete's healthy baseline capacity is estimated at 1:00:30–1:01:00. Breaking 60:00 on Sept 19 (12 days away) is possible, but sits on a razor's edge. It requires:
+1. Complete resolution of post-viral fatigue and diaphragmatic strain.
+2. An intentional volume taper to shed fatigue (Performance = Fitness - Fatigue).
+3. Strict execution of the 3-stage negative split (6:08–6:12 opening, settling at 5:58, kick in km 10).
+
+**Prescription:**
+- Add 10–12 minutes of Diaphragmatic Core (Deadbugs, side planks, 90-90 breathing). Heavy crunches and Valsalva banned.
+- Week 7 volume deloaded to ~14.5 km of running to allow full supercompensation.
+
+---
+
 ### Date: August 30, 2026
 **Topic: 10km Recovery LSD, Elevated Baseline HR, and Left Knee Tracking Flag**
 
