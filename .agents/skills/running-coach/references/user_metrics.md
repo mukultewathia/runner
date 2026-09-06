@@ -21,12 +21,12 @@
 
 | Parameter | Value | Method / Notes |
 | :--- | :--- | :--- |
-| **Tested Max HR** | 206 BPM | Recorded July 1, 2026 (6x400m intervals) |
+| **Tested Max HR** | 206 BPM | Recorded July 1, 2026 (6x400m intervals). Peak 204 BPM confirmed Aug 27, 2026 (Cruise intervals). |
 | **Resting HR (RHR)** | 65 BPM | Karvonen baseline |
 | **HR Reserve (HRR)** | 141 BPM | Max HR − RHR = 206 − 65 |
-| **Lactate Threshold HR** | ~170 BPM | Estimated from performance data — crossing this in early race laps causes catastrophic positive splits |
-| **Lactate Threshold Pace** | ~5:35–5:40 /km | Current ability (July 2026). Target for sub-20: 4:10–4:15/km |
-| **VO2 Max (estimated)** | Moderate-High | High pain tolerance at 198 BPM for 19+ min suggests strong cardiovascular engine; limiter is structural/weight |
+| **Lactate Threshold HR** | ~170–173 BPM | Estimated from performance data. Crossing this accelerates cardiac drift and blood acidification. |
+| **Lactate Threshold Pace** | ~5:45–5:55 /km | Current baseline (August 2026). Target for Sub-60 10K: ~5:59/km. Target for sub-20 5K: 4:10–4:15/km |
+| **VO2 Max (estimated)** | Moderate-High | High pain tolerance at 198+ BPM. Elite parasympathetic recovery: 54 BPM drop in 3 min (192->138) on Aug 28. |
 
 ---
 
@@ -73,12 +73,12 @@ When fatigue hits late in a race or workout:
 
 | Distance / Effort | Time / Pace | Avg HR | Date | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **5K Time Trial** | 30:45 (6:09/km) | 186 BPM | July 25, 2026 | Month 2 Baseline. Positive split collapse. Adrenaline pacing error in Lap 1. |
-| **5K Unofficial** | ~29:30 est. | — | — | With perfect negative split execution, current engine capable of ~29:30 |
+| **5K Time Trial** | 29:07 (5:49/km) | Avg 187 BPM (Max 203) | August 28, 2026 | New Official PB! Broke the 30:00 barrier. Negative split execution (6:05 -> 5:06). Elite 54 BPM HR drop in 3 min post-run. |
+| **5K Previous Baseline** | 30:45 (6:09/km) | 186 BPM | July 25, 2026 | Month 2 Baseline. Positive split collapse. Adrenaline pacing error in Lap 1. |
 | **3.5K Tempo** | 19:32 (5:35/km) | 185 BPM | July 17, 2026 | Redline effort. True max threshold test. |
 | **400m Interval (fastest)** | 1:51 (4:36/km) | Peak 182 | July 8, 2026 | Set during 6x400m session |
 | **12.4km LSD** | 1:53:18 (9:08/km) | 147 BPM | July 12, 2026 | Zone 2 masterclass but structural overreach — 55% over 8km target |
-| **VDOT Estimate** | ~38–40 | — | July 2026 | Based on interval pace and HR data. Target for sub-20: ~54 |
+| **VDOT Estimate** | ~40–42 | — | August 2026 | Based on 29:07 5K PB. Predicted 10K capacity: ~1:00:30–1:01:00. Target for sub-20: ~54 |
 
 ---
 
@@ -86,6 +86,7 @@ When fatigue hits late in a race or workout:
 
 | Issue | Status | Notes |
 | :--- | :--- | :--- |
+| **Left Knee Medial Tracking / Puffiness** | 🟡 Monitor | August 30, 2026. Localized puffiness on medial retinaculum/Hoffa's fat pad just above Pes Anserinus from valgus collapse under fatigue and low cadence. Protocol: Ice/compression, TKEs, banded clamshells, step-ups with strict alignment, ban on lunges. |
 | **Achilles Tendon (bilateral)** | 🟡 Monitor | Low cadence (156 SPM) + 1.15m stride at 95 kg causes high eccentric load. Flared post July 12 overreach. |
 | **Calf Overload** | 🟡 Monitor | 90+ mins at 95 kg on feet causes cumulative structural fatigue. Enforce distance caps. |
 | **General Connective Tissue** | 🟡 Developing | Engine (cardiovascular) currently ahead of chassis (tendons, ligaments). Slow structural adaptation required. |

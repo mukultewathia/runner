@@ -10,6 +10,9 @@
 
 | Date | Type | Distance (km) | Duration | Avg Pace | Avg HR | Max HR | Cadence | Stride | RPE | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-08-30 | LSD / Recovery | 10.07 | 01:34:35 | 9:24 | 156 | 181 | Avg 143 | Avg 0.74 | 6 | Reoptimized recovery run. Displayed outstanding ego-discipline by walking in km 3, 4, 8, 9 to manage elevated baseline HR from accumulated fatigue. Overshot 9km cap to 10.07km and surged to 7:29 pace in final km (HR 181, Zone 4). Slight medial left knee puffiness/discomfort flagged post-run. |
+| 2026-08-28 | 5K Time Trial | 5.00 | 00:29:07 | 5:49 | 187 | 203 | Avg 166 | Avg 1.04 | 9 | 🏁 NEW 5K PERSONAL BEST! Smashed July 25 TT (30:45) by 1:38. Masterclass negative split execution: opened painfully slow (6:05), stabilized (6:00, 6:00, 5:52), and obliterated final km in 5:06 (HR 203, 170 SPM, 1.16m stride). Cadence locked at 164+ SPM throughout. Elite HR recovery: 54 BPM drop in 3 mins (192 -> 138). |
+| 2026-08-27 | Intervals | 5.31 | ~00:32:00 | 6:01 | 184 | 204 | Avg 164 | Avg 1.05 | 9 | 5x1000m Cruise Intervals attempted (4 reps completed). Paced too aggressively from Rep 1 (5:06, 5:01, 5:13, 5:52), turning threshold session into VO2 Max redline. Rep 3 maxed at 204 BPM (new tested high). Death Shuffle Immunity successfully applied in Rep 4 (166 SPM / 1.02m stride). Rests well-controlled (1:14, 1:15, 3:58). |
 | 2026-08-25 | Easy | 6.00 | 00:52:43 | 8:47 | 150 | 165 | Avg 155 | Avg 0.74 | 5 | Cadence masterclass! Successfully locked in 152-158 SPM throughout the entire run, completely avoiding the Death Shuffle. HR drifted slightly over the 150 BPM cap in the final laps (max 165), which is expected when forcing a higher turnover in the heat. Smart Audible: Skipped the 4x100m strides due to DOMS from Monday's heavy leg lift, preventing potential neuromuscular injury. |
 | 2026-08-23 | LSD | 10.00 | 01:35:04 | 9:30 | 143 | 158 | Avg 146 (L8-10: 138-142) | Avg 0.72 (L10: 0.76) | 5 | First run of the Sub-60 10K block. Overshot 9km cap slightly. Flawless Zone 2 HR discipline (143 Avg). In the final 3 laps, the athlete strategically walked to control cardiac drift (peaking at 158 BPM), causing the lap average cadence to drop (138-142 SPM). This was a massive win for ego-discipline and physiological compliance. |
 | 2026-08-21 | Intervals | 5.09 | ~00:55:00 | 4:45 | 166 | 198 | Avg 174 (Work reps: 170-178) | Avg 1.21 (Max 1.29) | 9 | Massive 12x400m interval session. Engine is ready for sub-60 10K, but 10% volume rule violated. Overstriding (1.29m) caused extreme braking forces on Achilles. Max HR drifted to 198 (Redline). |
@@ -51,7 +54,8 @@
 
 | Week | Dates | Total Distance (km) | Key Sessions |
 | :--- | :--- | :--- | :--- |
-| Week 5 (10K Block) | Aug 23 – 29, 2026 | 16.00 km | Sunday LSD (10km) + Tuesday Easy (6km) |
+| Week 6 (10K Block) | Aug 30 – Sep 5, 2026 | 10.07 km (In Progress) | Sunday Recovery LSD (10.07km completed) |
+| Week 5 (10K Block) | Aug 23 – 29, 2026 | 26.31 km | Sunday LSD (10km) + Tuesday Easy (6km) + Thursday Intervals (5.31km) + Friday 5K PB (5.00km) |
 | Week 4 (Month 3) | Aug 17 – 22, 2026 | 10.54 km | Thursday Progressive (5.45km) + Friday Intervals (5.09km) |
 | Week 3 (Month 3) | Aug 10 – 16, 2026 | 22.17 km | Bangalore re-entry. Monday (10.17km completed), Thursday (0km - sunburn), Saturday (12.00km completed) |
 | Week 2 (Month 3) | Aug 3 – 9, 2026 | 8.02 km | Mauritius Vacation. Friday Unplanned Run (3.01km) + Sunday LSD (5.01km) |

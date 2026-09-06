@@ -105,53 +105,67 @@
 | Saturday | LSD | 7 km, ≤150 BPM, 150–153 SPM | Conservative distance cap. Zero Achilles pain. |
 **Week volume target: ~12 km**
 
-**Week 5 — 10K Base & Pace Intro (Aug 23 – 29)**
+**Week 5 — 10K Base & Pace Intro (Aug 23 – 29)** — ✅ Done (26.31 km completed)
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Sunday | LSD | 9 km, ≤150 BPM, 150–153 SPM | Capped distance to recover from Aug 21 intervals. |
+| Sunday | LSD | 10.00 km completed (Avg 9:30/km, HR 143, Max 158). | Controlled Zone 2 compliance. |
 | Monday | Gym — Heavy Legs | Squats/RDLs. + Eccentric calf work. | Primary leg strength day. |
-| Tuesday | Easy Run + Strides | 6 km, ≤150 BPM + 4x100m strides @ 5:00/km | Held 150–153 SPM cadence, then primed CNS with strides. |
-| Wednesday | Gym — Upper Body | Upper body lift + 30-min Recovery Spin. | Legs get 48 hours recovery before intervals. |
-| Thursday | Cruise Intervals | 5 x 1000m @ 5:45–6:00/km. 2:00 walk rest. | Strict HR cap: 178 BPM. Locked in 164+ SPM. |
-| Friday | Active Recovery | 4 km, ≤140 BPM + Full Body Mobility | Active venous flush. Extremely slow. |
-| Saturday | Rest | Complete rest. Foam roll. | Completed recovery protocol. |
-**Week volume target: ~24 km**
+| Tuesday | Easy Run | 6.00 km completed (Avg 8:47/km, HR 150, Max 165). Cadence 155. | Cadence discipline locked in. |
+| Wednesday | Gym — Upper Body | Upper body lift + 30-min Recovery Spin. | Legs rested for intervals. |
+| Thursday | Cruise Intervals | 5.31 km completed (4 reps @ 5:06, 5:01, 5:13, 5:52). Max HR 204. | High turnover; VO2 max stimulus achieved. |
+| Friday | 5K Time Trial | **5.00 km completed in 29:07 (New PB!)**. Max HR 203. | Negative split masterclass (6:05 -> 5:06). |
+| Saturday | Rest | Complete rest. | Cleared systemic fatigue. |
+**Week volume completed: 26.31 km**
 
-**Week 6 — 10K Specific Endurance (Aug 30 – Sep 5)**
+**Week 6 — Active Recovery & Threshold Reset (Aug 30 – Sep 5)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Sunday | Fast-Finish LSD | 7 km Zone 2 (≤150 BPM) + 4 km @ 5:50-6:00/km | Tests specific endurance and lactate clearance on tired legs. |
-| Monday | Gym — Heavy Legs | Squats/RDLs. + Eccentric calf work. | Primary leg strength day. |
-| Tuesday | Easy Run + Strides | 7 km, ≤150 BPM + 4x100m strides | Maintained aerobic base. Primed CNS. |
+| Sunday | LSD / Recovery | 10.07 km completed (Avg 9:24/km, HR 156, Max 181). Walk breaks used. | Protected base; flagged inner knee tracking. |
+| Monday | Gym — Knee & Hip Alignment | 45-min Bulletproof Session: TKEs, Clamshells, Glute Bridges, Low-Box Step-Ups, Calf Eccentrics. NO LUNGES/HEAVY SQUATS. | Completed alignment rehab without knee irritation. |
+| Tuesday | Easy Run + Strides | 6 km, ≤150 BPM, 150–153 SPM + 4x100m strides @ 5:30/km | Knee tracks straight; cadence locked at 150+ SPM. |
 | Wednesday | Gym — Upper Body | Upper body lift + 30-min Recovery Spin. | Legs get 48 hours recovery before intervals. |
-| Thursday | Long Intervals | 3 x 2000m @ 6:00/km. 3:00 walk rest. | Specific endurance: holding race pace longer. HR ≤178. |
-| Friday | Active Recovery | 4 km, ≤140 BPM + Full Body Mobility | Active venous flush. |
-| Saturday | Rest | Complete rest. Foam roll. | Cleared fatigue. |
-**Week volume target: ~28 km**
+| Thursday | Cruise Intervals | 5 x 1000m @ 5:50/km. 2:00 walk rest. HR cap: 178 BPM. | Strict 5:50 pacing on Rep 1; all 5 reps completed. |
+| Friday | Active Recovery | 3–4 km, ≤140 BPM + Full Body Mobility | Active venous flush. Extremely slow. |
+| Saturday | Rest | Complete rest. Foam roll & hydrate. | Cleared fatigue for Week 7 peak. |
+**Week volume target: ~24 km**
 
 **Week 7 — 10K Simulation Week (Sep 6 – 12)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Sunday | Fast-Finish LSD | 6 km Zone 2 (≤150 BPM) + 4 km @ 5:50-6:00/km | Race simulation on pre-fatigued legs. |
+| Sunday | Fast-Finish LSD | 8 km Zone 2 (≤150 BPM) + 3 km @ 5:55-6:00/km | Race simulation on pre-fatigued legs. |
 | Monday | Gym — Heavy Legs | Squats/RDLs. + Eccentric calf work (Reduce weight 10%). | Primary leg strength day. |
-| Tuesday | Easy Run + Strides | 5 km, ≤150 BPM + 4x100m strides | Begin tapering volume. |
+| Tuesday | Easy Run + Strides | 6 km, ≤150 BPM + 4x100m strides | Begin tapering volume. |
 | Wednesday | Gym — Upper Body | Upper body lift + 30-min Recovery Spin. | Tapering load. |
-| Thursday | 10K Simulation | 6 km Continuous Tempo @ 6:10/km | No rest breaks. Test the chassis just below race pace. |
-| Friday | Rest | Complete leg rest. No running. | Prepare for race week. |
+| Thursday | 10K Simulation | 6 km Continuous Tempo @ 6:05–6:10/km | No rest breaks. Test the chassis just below race pace. |
+| Friday | Active Recovery | 3 km, ≤140 BPM | Active venous flush. |
 | Saturday | Rest | Complete rest. Foam roll. | Cleared fatigue. |
-**Week volume target: ~21 km**
+**Week volume target: ~26 km**
 
 **Week 8 — Race Week (Sep 13 – 19)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Sunday | Easy Run | 6 km, ≤150 BPM, 150–153 SPM | Tapering continues. Keep legs moving. |
+| Sunday | Easy Run | 5 km, ≤150 BPM, 150–153 SPM | Tapering continues. Keep legs moving. |
 | Monday | Gym — Upper Body | Upper body and core only. No legs. | Avoided leg fatigue. |
 | Tuesday | CNS Priming | 4 km + 4x100m strides | Wake up the nervous system without adding fatigue. |
 | Wednesday | Rest | Complete rest. Foam roll. | Leg rest. |
 | Thursday | Shakeout | 3 km, ≤140 BPM | Very slow. Just keeping the muscles loose. |
 | Friday | Rest | Complete rest. Hydrate and carb load. | Cleared all residual fatigue for race day. |
 | Saturday | **10K CORPORATE RUN** | Target: 59:59 (5:59/km). Negative split. | **Finished Sub-60:00 with zero Achilles pain.** |
-**Week volume target: ~23 km**
+**Week volume target: ~22 km (including race)**
+
+---
+
+## Race Pacing Strategy (10K Corporate Run — Sept 19, 2026)
+
+**Target Time:** 59:59 (Sub-60:00)  
+**Average Pace:** 5:59/km  
+
+**The 3-Stage "Taper Squeeze" Strategy:**
+- **Stage 1 (km 1–3) — The Warm-Up:** **6:10/km** (Safe, controlled start. Keeps HR < 165 BPM, protects Achilles/knees, burns 100% fat, saves glycogen).
+- **Stage 2 (km 4–7) — The Cruise:** **5:59/km** (Settle into goal race pace rhythm. Breathing controlled at 2:2 rhythm).
+- **Stage 3 (km 8–10) — The Kick:** **5:50/km** (Tap into the untouched anaerobic reserve. Negative split finish to cross in **59:56**).
+
+> **Cardinal Rule:** Do not chase rabbits in kilometer 1. If km 1 feels frustratingly slow, you are doing it right.
 
 ---
 
