@@ -73,13 +73,13 @@ When fatigue hits late in a race or workout:
 
 | Distance / Effort | Time / Pace | Avg HR | Date | Notes |
 | :--- | :--- | :--- | :--- | :--- |
+| **5K Time Trial** | 27:46 (5:33/km) | Avg 184 BPM (Max 195) | September 9, 2026 | 🏁 New Official PB! Smashed 29:07 by 1:21. Negative split: 5:33, 5:34, 5:43, 5:28, 5:28. Perfect Golden Ratio (166 SPM, 1.06m stride). Diaphragm held with zero stitch. |
 | **10K Official/Timed** | 1:07:00 moving (1:08:08 elapsed) (6:42/km) | Avg 185 BPM (Max 197) | September 5, 2026 | New Official 10K PB! Run post-fever with 5 walk breaks due to diaphragmatic stitch. Pure running pace was 6:22/km. |
-| **5K Time Trial** | 29:07 (5:49/km) | Avg 187 BPM (Max 203) | August 28, 2026 | New Official PB! Broke the 30:00 barrier. Negative split execution (6:05 -> 5:06). Elite 54 BPM HR drop in 3 min post-run. |
-| **5K Previous Baseline** | 30:45 (6:09/km) | 186 BPM | July 25, 2026 | Month 2 Baseline. Positive split collapse. Adrenaline pacing error in Lap 1. |
+| **5K Previous Baseline** | 29:07 (5:49/km) | Avg 187 BPM (Max 203) | August 28, 2026 | Broke 30:00 barrier. Negative split execution (6:05 -> 5:06). |
 | **3.5K Tempo** | 19:32 (5:35/km) | 185 BPM | July 17, 2026 | Redline effort. True max threshold test. |
 | **400m Interval (fastest)** | 1:51 (4:36/km) | Peak 182 | July 8, 2026 | Set during 6x400m session |
 | **12.4km LSD** | 1:53:18 (9:08/km) | 147 BPM | July 12, 2026 | Zone 2 masterclass but structural overreach — 55% over 8km target |
-| **VDOT Estimate** | ~40–42 | — | August 2026 | Based on 29:07 5K PB. Predicted 10K capacity: ~1:00:30–1:01:00. Target for sub-20: ~54 |
+| **VDOT Estimate** | ~43–44 | — | September 2026 | Based on 27:46 5K PB. Jack Daniels equivalent 10K capacity: **57:41** (5:46/km pace). Sub-60 10K is firmly within reach. |
 
 ---
 
@@ -87,7 +87,8 @@ When fatigue hits late in a race or workout:
 
 | Issue | Status | Notes |
 | :--- | :--- | :--- |
-| **Diaphragmatic Spasm & ETAP (Lower Right Chest)** | 🟡 Monitor | September 5, 2026. Sharp stitch at km 4 triggered by cough-fatigued respiratory muscles + 190 BPM hyperventilation + liver ligament tension. Protocol: 3:2 breathing rhythm, 90-90 belly breathing, anti-rotational core (Deadbugs, side planks). Ban on crunches/Valsalva. |
+| **Lower Right Calf / Achilles MTJ Contusion** | 🟡 Monitor | September 14, 2026. Sharp pain walking flared post-run after direct aggressive foam rolling on fatigued soleus/Achilles myotendinous junction. Resolved to 0/10 pain within 24h with roller ban, Volini, ice, elevation, and cushioned shoes. Protocol: Permanent ban on foam roller/massage guns on lower third of leg. |
+| **Diaphragmatic Spasm & ETAP (Lower Right Chest)** | 🟢 Resolved / Monitor | September 5, 2026. Severe stitch post-viral. Fully resolved and validated during 27:46 5K PB using 3:2 belly breathing. Maintain 3:2 rhythm during race. |
 | **Left Knee Medial Tracking / Puffiness** | 🟡 Monitor | August 30, 2026. Localized puffiness on medial retinaculum/Hoffa's fat pad just above Pes Anserinus from valgus collapse under fatigue and low cadence. Protocol: Ice/compression, TKEs, banded clamshells, step-ups with strict alignment, ban on lunges. |
 | **Achilles Tendon (bilateral)** | 🟡 Monitor | Low cadence (156 SPM) + 1.15m stride at 95 kg causes high eccentric load. Flared post July 12 overreach. |
 | **Calf Overload** | 🟡 Monitor | 90+ mins at 95 kg on feet causes cumulative structural fatigue. Enforce distance caps. |

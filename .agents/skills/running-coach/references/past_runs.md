@@ -10,6 +10,10 @@
 
 | Date | Type | Distance (km) | Duration | Avg Pace | Avg HR | Max HR | Cadence | Stride | RPE | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-13 | Easy / Taper Check | 3.00 | 00:26:39 | 8:53 | 154 | 168 | Avg 153 | Avg 0.74 | 6 | Race Week shakeout attempt. Experienced classic Taper Tantrum / heavy legs (quads, glutes, lower calves). HR drifted to 158->161 BPM (max 168) at 8:40->8:46->9:11 pace due to glycogen supercompensation and residual soleus fatigue from Wednesday's 5K PB. Smart audible: shut down at 3.0km instead of planned 5km. |
+| 2026-09-09 | 5K Time Trial | 5.00 | 00:27:46 | 5:33 | 184 | 195 | Avg 166 | Avg 1.06 | 9 | 🏁 NEW 5K PERSONAL BEST! Smashed August 28 PB (29:07) by 1:21! Masterclass pacing: 5:33, 5:34, 5:43, 5:28, 5:28. Ferocious negative split in final 2km. Perfect Biomechanical Golden Ratio held throughout (166 SPM / 1.06m stride). Diaphragm held with zero ETAP stitch (3:2 breathing validated). VDOT equivalent predicts 57:41 10K capacity. |
+| 2026-09-09 | Warm-up / Shakeout | 1.97 | 00:15:15 | 7:44 | 153 | 163 | Avg 153 | Avg 0.84 | 5 | Night pre-time-trial shakeout. Primed neuromuscular connection and elevated core temperature before the 5K PB. |
+| 2026-09-08 | Easy / Flush | 4.96 | 00:46:00 | 9:16 | 146 | 158 | Avg 150 | Avg 0.72 | 4 | Zone 1/2 aerobic flush & rhythm test. Flawless Zone 2 compliance (avg 146 BPM). 3:2 belly breathing tested successfully with zero diaphragmatic stitch or ribcage tension post-fever. |
 | 2026-09-05 | 10K PB / Post-Viral | 10.02 | 01:08:08 (01:07:00 moving) | 6:48 (6:42 moving) | 185 | 197 | Avg 160 (Run: 160-162) | Avg 0.95 (Run: 0.97-1.02) | 9 | 🏁 NEW 10K PERSONAL BEST! Post-viral grit test run 24h after 3-day fever/cough. First 4km continuous (6:08, 6:38, 6:10, 6:30; HR 172->190). Severe diaphragmatic spasm / ETAP (sharp lower right chest stitch) at km 4 from cough fatigue + 190 BPM hyperventilation. Smartly walked 5 times (762m total in 9:10) to manage stitch and prevent collapse. Pure running pace averaged 6:22/km with cadence locked at 160-162 SPM and stride capped at 1.02m (no overstriding). Peak HR 197 BPM. |
 | 2026-09-02 | Easy + Fast Intervals | 7.00 | ~00:48:00 | ~6:50 | 150 (Easy) | 188+ | Avg 156 (Easy) | Avg 0.78 (Easy) | 8 | Part A: 4.12 km easy run (8:19/km, HR 144-155, cadence 154-156 SPM, stride 0.76-0.80m) — mechanically sound. Part B: 4x700m fast intervals @ 5:00/km (~2.8km). High glycolytic load on top of heavy lifting triggered post-exercise immunosuppression (the "open window"), leading to 3 days of respiratory illness/fever on Sep 3-5. |
 | 2026-08-30 | LSD / Recovery | 10.07 | 01:34:35 | 9:24 | 156 | 181 | Avg 143 | Avg 0.74 | 6 | Reoptimized recovery run. Displayed outstanding ego-discipline by walking in km 3, 4, 8, 9 to manage elevated baseline HR from accumulated fatigue. Overshot 9km cap to 10.07km and surged to 7:29 pace in final km (HR 181, Zone 4). Slight medial left knee puffiness/discomfort flagged post-run. |
@@ -56,7 +60,8 @@
 
 | Week | Dates | Total Distance (km) | Key Sessions |
 | :--- | :--- | :--- | :--- |
-| Week 7 (10K Block) | Sep 6 – 12, 2026 | In Progress (Target: ~14.5 km) | Taper transition week leading to Sept 19 race |
+| Week 8 (Race Week) | Sep 13 – 19, 2026 | 3.00 km (In Progress) | Sunday Taper Shakeout (3.00km) + Corporate 10K Race on Saturday (Sep 19) |
+| Week 7 (10K Block) | Sep 6 – 12, 2026 | 11.93 km | Tuesday Easy Flush (4.96km) + Wednesday Shakeout (1.97km) + Wednesday 5K PB (5.00km) |
 | Week 6 (10K Block) | Aug 30 – Sep 5, 2026 | 27.09 km | Sunday LSD (10.07km) + Wednesday Easy/Intervals (7.00km) + Saturday 10K PB (10.02km) |
 | Week 5 (10K Block) | Aug 23 – 29, 2026 | 26.31 km | Sunday LSD (10km) + Tuesday Easy (6km) + Thursday Intervals (5.31km) + Friday 5K PB (5.00km) |
 | Week 4 (Month 3) | Aug 17 – 22, 2026 | 10.54 km | Thursday Progressive (5.45km) + Friday Intervals (5.09km) |

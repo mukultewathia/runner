@@ -133,37 +133,39 @@
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
 | Sunday | Rest & Recovery | Completed. 24h passive rest post-10K. Hydration and viral clearance. | Cleared acute cardiac fatigue. |
-| Monday | Gym — Knee/Hip & Core | NO RUNNING. NO HEAVY SQUATS/LUNGES. 15 min Diaphragmatic Core (Deadbugs, Side Planks, 90-90 breathing) + 15 min Knee Alignment (TKEs, clamshells). Optional 20-min Zone 1 spin. | Left knee calm; zero ribcage spasm. |
-| Tuesday | Aerobic Flush & Rhythm Test | 5 km Easy Run, ≤148 BPM, 152–156 SPM. Focus 100% on 3:2 breathing rhythm. Walk if stitch twinges. | HR capped under 148 BPM; ribcage 100% pain-free. |
-| Wednesday | Upper Body + Spin Flush | Upper body dumbbell/cable strength + 25-min low-resistance spin (RPM 85+, HR < 130 BPM). | Legs feel light and loose post-spin. |
-| Thursday | Race-Pace Calibration | 5.5 km total: 1.5 km warm-up + 3 x 1000m @ 5:58–6:00/km (with 2:30 walk recovery) + 1 km cool-down. (HR cap: 178 BPM, Cadence 164+ SPM). | All 3 reps hit 5:58 smoothly; zero stitch. |
-| Friday | Complete Rest & Mobility | Complete rest. Foam roll. Hydrate with electrolytes (3–4L). High protein. | Connective tissue feels fresh and springy. |
-| Saturday | Pre-Taper Strides & Shakeout | 4 km total: 3.5 km easy (Zone 2, ≤150 BPM) + 3 x 80m smooth strides focusing on 166 SPM turnover. | Stride turnover feels springy and effortless. |
-**Week volume target: ~14.5 km running**
+| Monday | Gym — Knee/Hip & Core | Completed. Diaphragmatic core (Deadbugs, side planks) + knee prehab. | Left knee calm; zero ribcage spasm. |
+| Tuesday | Aerobic Flush & Rhythm Test | 4.96 km completed (9:16/km, HR 146). Flawless Zone 1/2 compliance. | 3:2 belly breathing held with zero stitch. |
+| Wednesday | 5K PB Breakthrough | 1.97km warm-up + 5.00km 5K TT (27:46, 5:33/km avg, HR 184/195). | 🏁 NEW 5K PB (27:46)! Golden Ratio 166 SPM / 1.06m held. |
+| Thursday | Complete Rest | Rested post-5K shock. | Cleared acute muscular fatigue. |
+| Friday | Complete Rest | Hydrated and recovered. | Joint protection. |
+| Saturday | Rest & Calf Protection | Rested calves. Calves felt good 72h post-PB. | Structural adaptation confirmed. |
+**Week volume completed: 11.93 km running**
 
 **Week 8 — Race Week (Sep 13 – 19)**
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
-| Sunday | Easy Run | 5 km, ≤150 BPM, 150–153 SPM | Tapering continues. Keep legs moving. |
-| Monday | Gym — Upper Body | Upper body and core only. No legs. | Avoided leg fatigue. |
-| Tuesday | CNS Priming | 4 km + 4x100m strides | Wake up the nervous system without adding fatigue. |
-| Wednesday | Rest | Complete rest. Foam roll. | Leg rest. |
-| Thursday | Shakeout | 3 km, ≤140 BPM | Very slow. Just keeping the muscles loose. |
-| Friday | Rest | Complete rest. Hydrate and carb load. | Cleared all residual fatigue for race day. |
-| Saturday | **10K CORPORATE RUN** | Target: 59:59 (5:59/km). Negative split. | **Finished Sub-60:00 with zero Achilles pain.** |
-**Week volume target: ~22 km (including race)**
+| Sunday | Easy / Taper Check | 3.00 km completed (8:53/km, HR 154/168). Stopped early due to heavy legs & soleus fatigue. | Smart audible: prevented deep fatigue. |
+| Monday | Active Recovery & Chassis Care | NO RUNNING. Core workout (Deadbugs, leg raises). Volini + crepe wrap for MTJ contusion. | Managed foam roller contusion; zero pain by night. |
+| Tuesday | Tissue Consolidation | ZERO RUNNING. Sharpness 100% resolved (0/10 pain walking all day). Seated desk ankle pumps. | Paratenon inflammation completely cleared. |
+| Wednesday | Tissue Consolidation & Stroll | Pure rest from running. Optional 20-min gentle morning stroll (1.5–2km) in cushioned shoes. | Protects newly healed collagen cross-linking. |
+| Thursday | Pre-Race Test Flight | 2.5 km ultra-light jog (Pace ~9:15–9:45/km, HR ≤ 140 BPM). Gentle, relaxed cadence. | Zero sharpness; green light confirmed for Saturday. |
+| Friday | Carb-Load & Mindset Prep | Complete rest. Carb-load (rice, oats, sweet potatoes). Sip 3–4L water + electrolytes. Pin bib. Sleep by 10 PM. | Glycogen 100% topped off; calm mind. |
+| Saturday | **10K CORPORATE RUN** | Target: Sub-60:00 (Predicted: 58:30 – 59:15). 4-Stage negative split execution. | **Breakthrough Sub-60:00 Finish!** |
+**Week volume target: ~15.5 km (including race)**
 
 ---
 
 ## Race Pacing Strategy (10K Corporate Run — Sept 19, 2026)
 
-**Target Time:** 59:59 (Sub-60:00)  
-**Average Pace:** 5:59/km  
+**Target Time:** 58:30 – 59:15 (Sub-60:00)  
+**Average Pace:** ~5:51–5:55/km  
+**Fitness Benchmark:** 27:46 5K PB (5:33/km) $\rightarrow$ Jack Daniels 10K Equivalent: **57:41**
 
-**The 3-Stage "Taper Squeeze" Strategy:**
-- **Stage 1 (km 1–3) — The Warm-Up:** **6:10/km** (Safe, controlled start. Keeps HR < 165 BPM, protects Achilles/knees, burns 100% fat, saves glycogen).
-- **Stage 2 (km 4–7) — The Cruise:** **5:59/km** (Settle into goal race pace rhythm. Breathing controlled at 2:2 rhythm).
-- **Stage 3 (km 8–10) — The Kick:** **5:50/km** (Tap into the untouched anaerobic reserve. Negative split finish to cross in **59:56**).
+**The 4-Stage "Champion's Execution" Strategy:**
+- **Stage 1 (km 1–2) — The Safe Settle:** **6:05–6:10/km** (HR $\le$ 168 BPM). Let the field sprint away. Protect the healing calf junction as it warms up to 39°C. Settle into 3:2 belly breathing.
+- **Stage 2 (km 3–7) — The Goal Cruise:** **5:55–5:58/km** (HR 174–180 BPM). Lock in 164–166 SPM cadence (Golden Ratio). This pace is 26s/km slower than 5K pace—smooth and sustainable.
+- **Stage 3 (km 8–9) — The Squeeze:** **5:45–5:50/km** (HR 182–188 BPM). Tap into the speed reserve. Pick off dozens of runners who started too fast.
+- **Stage 4 (km 10) — The Kenyan Kick:** **5:25–5:30/km** (Empty the tank across the line with the 5:28 kick proven on Wednesday).
 
 > **Cardinal Rule:** Do not chase rabbits in kilometer 1. If km 1 feels frustratingly slow, you are doing it right.
 

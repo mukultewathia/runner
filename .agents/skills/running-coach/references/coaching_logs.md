@@ -4,6 +4,34 @@
 
 ---
 
+### Date: September 15, 2026
+**Topic: 27:46 5K PB Breakthrough, MTJ Foam-Roller Contusion & Final Race Week Consolidation**
+
+**1. The 5K Breakthrough (Sep 9 Run):**
+- *Performance:* 27:46 (5:33/km average), shattering the August 28 PB (29:07) by 1:21.
+- *Pacing Masterclass:* Splits of 5:33, 5:34, 5:43, 5:28, 5:28. The athlete unleashed back-to-back 5:28/km laps to close out the 5K, demonstrating massive anaerobic kick and lactate clearance.
+- *Biomechanical Golden Ratio:* Held 165.7 SPM cadence and 1.06m stride average throughout the run, completely eliminating the 1.15m overstride flaw.
+- *Diaphragm Stability:* Zero ETAP or side stitches reported. 3:2 belly breathing rhythm successfully protected the liver ligaments under 192–195 BPM load.
+- *VDOT & 10K Projection:* VDOT jumped to ~43–44, yielding a Jack Daniels equivalent 10K capacity of **57:41 (5:46/km)**. Sub-60 (5:59/km) is now 26 sec/km slower than 5K race pace—confirming the athlete has the physiological engine to break 60:00 on September 19th with tactical safety.
+
+**2. Sunday Shakeout (Sep 13) & The "Taper Tantrum":**
+- Athlete attempted 5km easy flush; experienced heavy quads, glutes, and lower calves (soleus) with HR drift (144->158->161 BPM).
+- Diagnosis: Classic Taper Tantrum / heavy legs caused by glycogen supercompensation (1g glycogen binds 3-4g water) and residual soleus fatigue from Wednesday's 5K. Athlete executed elite maturity by shutting down the run at 3.0km.
+
+**3. Lower Calf MTJ Flare-up & Rapid Resolution (Sep 14–15):**
+- *The Flare:* On Sep 14, athlete reported sharp pain in the lower right calf / Achilles myotendinous junction (MTJ) while walking.
+- *Root Cause Identified:* Direct aggressive foam rolling on the fatigued MTJ/Achilles junction created blunt mechanical contusion of the paratenon and acute neural guarding.
+- *The Intervention:* Immediate ban on foam rolling the lower third of the leg; application of Volini gel, crepe wrap, non-barefoot walking in cushioned shoes, passive ice, and elevation.
+- *The Resolution:* Within 24 hours (Sep 15), sharpness completely cleared. Athlete reported zero pain all day and zero pain walking. Core work (deadbugs, leg raises) maintained pelvic stability without lower leg impact.
+
+**4. Final Race Week Roadmap (Sep 16–19):**
+- Wednesday (Sep 16): Tissue consolidation (gentle 20-min stroll, zero running).
+- Thursday (Sep 17): Official pre-race test flight (2.5 km ultra-light jog, HR <= 140).
+- Friday (Sep 18): Full rest, carb-load, 3-4L electrolyte hydration.
+- Saturday (Sep 19): Corporate 10K Race — Sub-60 execution (58:30–59:15 target).
+
+---
+
 ### Date: September 7, 2026
 **Topic: Post-Viral 10K PB Autopsy (1:07:00), Diaphragmatic ETAP Diagnosis & Week 7 Taper Transition**
 
