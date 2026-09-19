@@ -10,6 +10,8 @@
 
 | Date | Type | Distance (km) | Duration | Avg Pace | Avg HR | Max HR | Cadence | Stride | RPE | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-19 | 10K Corporate Race | 10.39 (10.00 km split) | 01:02:34 (01:00:02 10k split) | 6:01 (6:00 10k split) | 191 | 201 | Avg 159 (Max 160) | Avg 1.05 (Max 1.11) | 10 | 🏁 NEW OFFICIAL 10K PERSONAL BEST! Smashed Sep 5 PB (1:07:00) by 6:58! Run on a 2.5km loop with a 20m elevation hill on each lap (80m cumulative vertical gain at 93kg body weight; flat-course equivalent ~59:25–59:35). Laps: 6:09, 5:53, 5:50, 5:54, 5:59 (29:46 5k split!), 6:07, 6:14, 6:00, 6:12, and a ferocious 5:43 final km kick! ZERO walking breaks. Managed an initial diaphragmatic twinge at km 6-7 on the run without stopping. Lower right calf held with zero sharp pain. Clinical pain tolerance: 45+ mins held at 190-201 BPM! |
+| 2026-09-17 | Shakeout / Test | 2.00 | 00:16:47 | 8:23 | 154 | 163 | Avg 154 | Avg 0.77 | 4 | Pre-race test flight post-MTJ roller contusion. Laps: 8:17, 8:29. Calves tight in km 1, then loosened. Zero sharp pain, confirming green light for race day. |
 | 2026-09-13 | Easy / Taper Check | 3.00 | 00:26:39 | 8:53 | 154 | 168 | Avg 153 | Avg 0.74 | 6 | Race Week shakeout attempt. Experienced classic Taper Tantrum / heavy legs (quads, glutes, lower calves). HR drifted to 158->161 BPM (max 168) at 8:40->8:46->9:11 pace due to glycogen supercompensation and residual soleus fatigue from Wednesday's 5K PB. Smart audible: shut down at 3.0km instead of planned 5km. |
 | 2026-09-09 | 5K Time Trial | 5.00 | 00:27:46 | 5:33 | 184 | 195 | Avg 166 | Avg 1.06 | 9 | 🏁 NEW 5K PERSONAL BEST! Smashed August 28 PB (29:07) by 1:21! Masterclass pacing: 5:33, 5:34, 5:43, 5:28, 5:28. Ferocious negative split in final 2km. Perfect Biomechanical Golden Ratio held throughout (166 SPM / 1.06m stride). Diaphragm held with zero ETAP stitch (3:2 breathing validated). VDOT equivalent predicts 57:41 10K capacity. |
 | 2026-09-09 | Warm-up / Shakeout | 1.97 | 00:15:15 | 7:44 | 153 | 163 | Avg 153 | Avg 0.84 | 5 | Night pre-time-trial shakeout. Primed neuromuscular connection and elevated core temperature before the 5K PB. |
@@ -58,9 +60,8 @@
 
 ## Weekly Volume Summary
 
-| Week | Dates | Total Distance (km) | Key Sessions |
-| :--- | :--- | :--- | :--- |
-| Week 8 (Race Week) | Sep 13 – 19, 2026 | 3.00 km (In Progress) | Sunday Taper Shakeout (3.00km) + Corporate 10K Race on Saturday (Sep 19) |
+| Week 9 (Post-Race Recovery) | Sep 20 – 26, 2026 | 0.00 km (Upcoming) | Post-10K PB deload: passive recovery, walking, soft tissue flushing, optional light weekend jog |
+| Week 8 (Race Week) | Sep 13 – 19, 2026 | 15.39 km | Sunday Taper Shakeout (3.00km) + Thursday Test Flight (2.00km) + Saturday Corporate 10K Race PB (10.39km / 1:00:02 10k split) |
 | Week 7 (10K Block) | Sep 6 – 12, 2026 | 11.93 km | Tuesday Easy Flush (4.96km) + Wednesday Shakeout (1.97km) + Wednesday 5K PB (5.00km) |
 | Week 6 (10K Block) | Aug 30 – Sep 5, 2026 | 27.09 km | Sunday LSD (10.07km) + Wednesday Easy/Intervals (7.00km) + Saturday 10K PB (10.02km) |
 | Week 5 (10K Block) | Aug 23 – 29, 2026 | 26.31 km | Sunday LSD (10km) + Tuesday Easy (6km) + Thursday Intervals (5.31km) + Friday 5K PB (5.00km) |

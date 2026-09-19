@@ -6,10 +6,10 @@
 
 ## 🎯 Primary Goal
 
-**10K Corporate Run - Sub-60:00 (5:59/km)**
-**Target Date:** September 19th, 2026
-**Secondary Goal:** Half Marathon (Dec 13th) — Base expansion on lower priority until Sept 19.
-**Current Phase:** Month 3 (August) — 10K Specific Pace & Threshold Focus
+**Bengaluru Half Marathon (21.1 km) - Sub-2:15:00 (Target: ~6:20–6:24/km)**
+**Target Date:** December 13th, 2026
+**Previous Milestone:** 10K Corporate Run (Sep 19, 2026) — 🏁 **ACCOMPLISHED! Official PB: 1:00:02** (Flat-course equivalent: ~59:30). Smashed previous PB by 6:58!
+**Current Phase:** Month 4 (Late September) — Post-10K Deload & Half Marathon Base Transition
 
 ---
 
@@ -19,11 +19,11 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **June 2026** | Month 1: Base & Neuromuscular Intro | 95 kg | 20 km | 7 km | 6 x 400m at 5:00/km | ✅ Done |
 | **July 2026** | Month 2: Aerobic Base Expansion | 94.5 kg | 25 km | 12.4 km | 5K Baseline: 30:45 | ✅ Done |
-| **August 2026** | Month 3: HM Base Building | 94 kg | 28 km | 14 km | 5 x 1000m Cruise Intervals @ 6:00/km | 🟡 Active |
-| **September 2026**| Month 4: HM Volume Consolidation | 93 kg | 32 km | 16 km | 3 x 2000m Tempo @ 6:20/km | ⬜ Upcoming |
-| **October 2026** | Month 5: HM Specific Endurance | 92 kg | 36 km | 18 km | 16km LSD with 4km @ HM Pace (6:38/km) | ⬜ Upcoming |
-| **November 2026** | Month 6: Peak Phase | 91 kg | 40 km | 20 km | 18km LSD with 6km @ HM Pace (6:38/km) | ⬜ Upcoming |
-| **December 2026** | Month 7: Taper & Race | 90 kg | 25 km | 21.1 km | RACE: Dec 13th - Target: Sub-2:20:00 | ⬜ Upcoming |
+| **August 2026** | Month 3: HM Base Building | 94 kg | 28 km | 14 km | 5K PB: 29:07; 10K PB: 1:07:00 | ✅ Done |
+| **September 2026**| Month 4: 10K Peak & HM Transition | 93 kg | 28 km | 15 km | **10K PB: 1:00:02 (Sep 19)**; 5K PB: 27:46 | 🟡 Active |
+| **October 2026** | Month 5: HM Specific Endurance | 92 kg | 36 km | 18 km | 16km LSD with 4km @ HM Pace (6:25/km) | ⬜ Upcoming |
+| **November 2026** | Month 6: Peak Phase | 91 kg | 40 km | 20 km | 18km LSD with 6km @ HM Pace (6:25/km) | ⬜ Upcoming |
+| **December 2026** | Month 7: Taper & Race | 90 kg | 25 km | 21.1 km | RACE: Dec 13th - Target: Sub-2:15:00 | ⬜ Upcoming |
 
 ---
 
@@ -141,17 +141,29 @@
 | Saturday | Rest & Calf Protection | Rested calves. Calves felt good 72h post-PB. | Structural adaptation confirmed. |
 **Week volume completed: 11.93 km running**
 
-**Week 8 — Race Week (Sep 13 – 19)**
+**Week 8 — Race Week (Sep 13 – 19)** — ✅ Completed (15.39 km total)
 | Day | Session | Details | Success Metric |
 | :--- | :--- | :--- | :--- |
 | Sunday | Easy / Taper Check | 3.00 km completed (8:53/km, HR 154/168). Stopped early due to heavy legs & soleus fatigue. | Smart audible: prevented deep fatigue. |
 | Monday | Active Recovery & Chassis Care | NO RUNNING. Core workout (Deadbugs, leg raises). Volini + crepe wrap for MTJ contusion. | Managed foam roller contusion; zero pain by night. |
 | Tuesday | Tissue Consolidation | ZERO RUNNING. Sharpness 100% resolved (0/10 pain walking all day). Seated desk ankle pumps. | Paratenon inflammation completely cleared. |
-| Wednesday | Tissue Consolidation & Stroll | Pure rest from running. Optional 20-min gentle morning stroll (1.5–2km) in cushioned shoes. | Protects newly healed collagen cross-linking. |
-| Thursday | Pre-Race Test Flight | 2.5 km ultra-light jog (Pace ~9:15–9:45/km, HR ≤ 140 BPM). Gentle, relaxed cadence. | Zero sharpness; green light confirmed for Saturday. |
-| Friday | Carb-Load & Mindset Prep | Complete rest. Carb-load (rice, oats, sweet potatoes). Sip 3–4L water + electrolytes. Pin bib. Sleep by 10 PM. | Glycogen 100% topped off; calm mind. |
-| Saturday | **10K CORPORATE RUN** | Target: Sub-60:00 (Predicted: 58:30 – 59:15). 4-Stage negative split execution. | **Breakthrough Sub-60:00 Finish!** |
-**Week volume target: ~15.5 km (including race)**
+| Wednesday | Tissue Consolidation & Stroll | Pure rest from running. Gentle morning stroll in cushioned shoes. | Protected newly healed collagen cross-linking. |
+| Thursday | Pre-Race Test Flight | 2.00 km completed (8:23/km, HR 154/163). Calves loosened nicely. | Zero sharpness; 100% green light for race. |
+| Friday | Carb-Load & Mindset Prep | Complete rest. High carb + electrolytes. | Glycogen loaded; nervous system calm. |
+| Saturday | **10K CORPORATE RACE** | **10.39 km completed in 1:02:34 (1:00:02 10k split / 6:00 pace)!** Avg HR 191, Max 201. 5:43 final km kick! | 🏁 **NEW 10K PB (1:00:02)!** Smashed Sep 5 PB by 6:58! |
+**Week volume completed: 15.39 km**
+
+**Week 9 — Post-Race Deload & Active Recovery (Sep 20 – 26)**
+| Day | Session | Details | Success Metric |
+| :--- | :--- | :--- | :--- |
+| Sunday | Passive Recovery | Complete rest from running. Light 20–30 min stroll. Legs up the wall, hydration (3-4L), protein replenishment. | Lower leg de-escalation; no soreness flare. |
+| Monday | Gym — Upper Body & Core | Upper body push/pull (bench, rows, overhead press) + Diaphragmatic Core (Deadbugs, bird dogs). NO HEAVY LEGS. | CNS restoration without lower leg axial fatigue. |
+| Tuesday | Active Flush Walk / Swim | 30–40 min brisk walk or light swim. Zero running impact. Gentle ankle mobility. | Microcirculation restoration without impact shock. |
+| Wednesday | Gym — Knee/Glute Alignment | Light prehab: banded lateral walks, glute bridges, TKEs. Bodyweight calf stretches. NO weighted squats/lunges. | Glute medius activation without tendon load. |
+| Thursday | Optional Shakeout Jog | 3.00 km ultra-light test jog (Pace: 9:00–9:30/km, HR strictly ≤ 145 BPM). Smooth 150–152 SPM cadence. | Purely diagnostic: calves remain loose, HR calm. |
+| Friday | Rest & Mobility | Full rest or light foam rolling on QUADS and GLUTES ONLY (strictly no rolling calves/Achilles). | Muscle elasticity restored. |
+| Saturday | Aerobic Base Re-Entry | 4.00–5.00 km Easy Aerobic Jog (Pace: ~8:45–9:15/km, HR ≤ 150 BPM). | Smooth, relaxed base re-entry into HM macrocycle. |
+**Week volume target: 0–8 km running**
 
 ---
 

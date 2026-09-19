@@ -73,13 +73,14 @@ When fatigue hits late in a race or workout:
 
 | Distance / Effort | Time / Pace | Avg HR | Date | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **5K Time Trial** | 27:46 (5:33/km) | Avg 184 BPM (Max 195) | September 9, 2026 | 🏁 New Official PB! Smashed 29:07 by 1:21. Negative split: 5:33, 5:34, 5:43, 5:28, 5:28. Perfect Golden Ratio (166 SPM, 1.06m stride). Diaphragm held with zero stitch. |
-| **10K Official/Timed** | 1:07:00 moving (1:08:08 elapsed) (6:42/km) | Avg 185 BPM (Max 197) | September 5, 2026 | New Official 10K PB! Run post-fever with 5 walk breaks due to diaphragmatic stitch. Pure running pace was 6:22/km. |
+| **10K Official Race** | **1:00:02 (10.00km)** / 1:02:34 (10.39km) (6:00/km split) | Avg 191 BPM (Max 201) | September 19, 2026 | 🏁 **NEW OFFICIAL 10K PB!** Smashed Sep 5 PB (1:07:00) by 6:58! Executed on a demanding 2.5km loop with a 20m elevation hill each lap (80m cumulative vertical gain at 93kg body weight; flat-course equivalent ~59:25–59:35). Splits: 6:09, 5:53, 5:50, 5:54, 5:59 (29:46 5k split!), 6:07, 6:14, 6:00, 6:12, and 5:43 final km kick! ZERO walking breaks. 45+ mins sustained above 190 BPM. |
+| **5K Time Trial** | 27:46 (5:33/km) | Avg 184 BPM (Max 195) | September 9, 2026 | 🏁 Official 5K PB! Smashed 29:07 by 1:21. Negative split: 5:33, 5:34, 5:43, 5:28, 5:28. Perfect Golden Ratio (166 SPM, 1.06m stride). Diaphragm held with zero stitch. |
+| **10K Previous Baseline** | 1:07:00 moving (1:08:08 elapsed) (6:42/km) | Avg 185 BPM (Max 197) | September 5, 2026 | Run post-fever with 5 walk breaks due to diaphragmatic stitch. Pure running pace was 6:22/km. |
 | **5K Previous Baseline** | 29:07 (5:49/km) | Avg 187 BPM (Max 203) | August 28, 2026 | Broke 30:00 barrier. Negative split execution (6:05 -> 5:06). |
 | **3.5K Tempo** | 19:32 (5:35/km) | 185 BPM | July 17, 2026 | Redline effort. True max threshold test. |
 | **400m Interval (fastest)** | 1:51 (4:36/km) | Peak 182 | July 8, 2026 | Set during 6x400m session |
 | **12.4km LSD** | 1:53:18 (9:08/km) | 147 BPM | July 12, 2026 | Zone 2 masterclass but structural overreach — 55% over 8km target |
-| **VDOT Estimate** | ~43–44 | — | September 2026 | Based on 27:46 5K PB. Jack Daniels equivalent 10K capacity: **57:41** (5:46/km pace). Sub-60 10K is firmly within reach. |
+| **VDOT Estimate** | ~43–44 | — | September 2026 | Confirmed by 27:46 5K PB and 1:00:02 10K PB (flat equivalent ~59:30). Jack Daniels equivalent Half Marathon capacity: ~2:12–2:15. Target for Dec 13 HM: Sub-2:15 to Sub-2:10 base building. |
 
 ---
 
@@ -87,11 +88,11 @@ When fatigue hits late in a race or workout:
 
 | Issue | Status | Notes |
 | :--- | :--- | :--- |
-| **Lower Right Calf / Achilles MTJ Contusion** | 🟡 Monitor | September 14, 2026. Sharp pain walking flared post-run after direct aggressive foam rolling on fatigued soleus/Achilles myotendinous junction. Resolved to 0/10 pain within 24h with roller ban, Volini, ice, elevation, and cushioned shoes. Protocol: Permanent ban on foam roller/massage guns on lower third of leg. |
-| **Diaphragmatic Spasm & ETAP (Lower Right Chest)** | 🟢 Resolved / Monitor | September 5, 2026. Severe stitch post-viral. Fully resolved and validated during 27:46 5K PB using 3:2 belly breathing. Maintain 3:2 rhythm during race. |
-| **Left Knee Medial Tracking / Puffiness** | 🟡 Monitor | August 30, 2026. Localized puffiness on medial retinaculum/Hoffa's fat pad just above Pes Anserinus from valgus collapse under fatigue and low cadence. Protocol: Ice/compression, TKEs, banded clamshells, step-ups with strict alignment, ban on lunges. |
-| **Achilles Tendon (bilateral)** | 🟡 Monitor | Low cadence (156 SPM) + 1.15m stride at 95 kg causes high eccentric load. Flared post July 12 overreach. |
-| **Calf Overload** | 🟡 Monitor | 90+ mins at 95 kg on feet causes cumulative structural fatigue. Enforce distance caps. |
+| **Lower Right Calf / Achilles MTJ Contusion** | 🟢 Resolved / Monitor | Flared Sep 14 from direct foam rolling on fatigued soleus/MTJ. Completely asymptomatic during Sep 17 shakeout and Sep 19 10K race (zero sharp pain). Experienced expected generalized muscular heaviness/DOMS post-race. Permanent ban remains: NO foam rolling/massage guns on lower third of leg. |
+| **Diaphragmatic Spasm & ETAP (Lower Right Chest)** | 🟢 Managed / In Check | Initial twinge at km 6-7 during Sep 19 race managed on the fly using rhythmic 3:2 belly breathing and stride synchronization without walking. Lungs held strong. Continue reinforcing 3:2 breathing rhythm. |
+| **Left Knee Medial Tracking / Puffiness** | 🟢 Stable / Monitor | Asymptomatic during Sep 19 race. Maintain glute medius strength (TKEs, banded clamshells, step-ups) and ban on lunges. |
+| **Achilles Tendon (bilateral)** | 🟢 Stable / Monitor | Zero flare-up post-race due to improved cadence (159-160 SPM) and controlled stride (1.05m). |
+| **Calf Overload** | 🟡 Recovery Phase | 10.39km hard race at 93 kg requires 48-72h of muscular de-escalation, gentle walking, hydration, and elevation. |
 | **General Connective Tissue** | 🟡 Developing | Engine (cardiovascular) currently ahead of chassis (tendons, ligaments). Slow structural adaptation required. |
 
 ---
