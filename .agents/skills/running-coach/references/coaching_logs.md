@@ -4,6 +4,107 @@
 
 ---
 
+### Date: September 21, 2026
+**Topic: Coach Model Corrections, Epistemic Reset, & Methodological Audit**
+
+**1. Executive Summary & Epistemic Audit:**
+An audit of the coaching logs against actual telemetry, modern sports science, and clinical evidence identified that while the underlying dataset is valuable and key behavioral patterns were correctly identified (engine outpacing structural chassis, pacing discipline wins, fatigue from lifting + running), the coach's analytical model frequently suffered from:
+- Leaping from correlation to physiological certainty from single workouts.
+- Inventing confident-sounding anatomical pathologies without clinical basis.
+- Overfitting empirical observations into dogmatic "universal laws" (e.g., "Golden Ratio", "10% rule").
+- Relying on an unvalidated HR model and miscalculated VDOT values.
+- Applying false mathematical precision to elevation/course penalties.
+- Using rhetorical hyperbole in permanent analytical records.
+
+To ensure the coach genuinely learns and updates over time rather than accumulating confident mythology, this entry establishes formal model corrections and institutionalizes a strict epistemic framework.
+
+---
+
+**2. The 10 Core Methodological Corrections:**
+
+1. **Single-Workout Causal Speculation (Exercise Immunology):**
+   - *Past error:* Claimed Sep 2 interval session "triggered the immunological open window, resulting in 3 days of viral fever."
+   - *Correction:* A hard session followed by illness is correlation, not established causation. Contemporary exercise immunology cautions against attributing acute infections directly to single workouts.
+   - *Standard:* Classify as `[OBSERVATION]`: Hard session Sep 2; fever/respiratory symptoms followed. `[HYPOTHESIS]`: High cumulative stress may have coincided with infection onset or impaired recovery. `[CONFIDENCE]`: Low. `[ACTION]`: Cease high-intensity work while symptomatic; optimize recovery spacing.
+
+2. **VDOT Numerical Label Corrected (34.2 vs. 43–44):**
+   - *Past error:* Labeled 27:46 5K as "VDOT ~43–44".
+   - *Correction:* In standard Jack Daniels tables, 27:46 5K is **VDOT 34.2**, and 1:00:02 10K is **VDOT 32.5**. (VDOT 44 corresponds to ~22:20 5K and ~46:30 10K; training at VDOT 44 paces would cause severe overtraining or injury).
+   - *Key Analytical Insight:* The gap between 5K VDOT (34.2) and 10K VDOT (32.5) empirically confirms that **aerobic endurance and volume tolerance currently lag behind shorter-distance speed reserve**. Sub-2:00:00 HM requires building to VDOT ~38–40.
+
+3. **Rebuilding the Heart Rate Model (Unvalidated Status):**
+   - *Past error:* Stated Lactate Threshold HR is ~170–173 BPM, while athlete subsequently sustained 191 BPM average for 60 minutes during the Sep 19 10K race.
+   - *Correction:* These two claims are irreconcilable. Either the true functional threshold is substantially higher, or optical wrist sensors exhibit motion/cadence artifact at high intensities.
+   - *Standard:* The HR model is formally classified as `[UNVALIDATED WORKING MODEL]`. Training intensity must be triangulated using **Pace + RPE/Breathing + HR**, rather than making HR the sole master variable.
+
+4. **Correction on "Cardiac Drift":**
+   - *Past error:* Claimed a 6-second pacing variance (5:54 vs 6:00) between km 1 and 2 triggered 165 $\rightarrow$ 184 BPM "cardiac drift".
+   - *Correction:* Cardiovascular drift is a progressive HR rise during prolonged constant-workload exercise (typically after 15–20+ min) driven by thermal stress and stroke volume decline. Rapid HR rise in early kilometers reflects normal warm-up kinetics, pacing overshoot, elevation, or sensor response.
+   - *Lesson:* The athlete started too fast; avoid constructing unsupported physiological narratives.
+
+5. **Cadence Reframed from "Golden Ratio" to Observed Range:**
+   - *Past error:* Elevated 164–166 SPM / 1.03–1.06m into a universal "Golden Ratio" dogma.
+   - *Correction:* Modest cadence increases (5–10%) can alter joint kinetics, but 164 SPM is not an absolute law. Furthermore, stride length alone is not proof of overstriding (overstriding is foot placement relative to the center of mass, requiring video/biomechanical analysis).
+   - *Standard:* At ~5:30–6:00/km, cadence in the 160–166 SPM range has coincided with strong performances and good symptom tolerance. Treat as an observed functional range, not an immutable law.
+
+6. **Symptom Management vs. Speculative Medical Diagnoses:**
+   - *Past error:* Declared clinical diagnoses ("MTJ/paratenon contusion", "medial retinaculum / Hoffa's fat pad strain", "dynamic knee valgus cause").
+   - *Correction:* An AI coach cannot diagnose anatomical pathologies without imaging or clinical examination.
+   - *Standard:* Use descriptive symptom management: *"lower calf/Achilles-region soreness after aggressive foam rolling"*, *"localized medial knee discomfort"*.
+
+7. **Scientific Restraint on ETAP (Side Stitch):**
+   - *Past error:* Attributed stitch to "respiratory micro-tears + hyperventilation + liver ligament tension + dehydration" and claimed 3:2 breathing "protected the liver ligaments."
+   - *Correction:* ETAP etiology remains unsettled in the scientific literature.
+   - *Standard:* Record empirical facts: 3:2 breathing rhythm coincided with the athlete managing the stitch on the fly without stopping. Avoid claiming unverified anatomical mechanisms.
+
+8. **10% Progression Heuristic vs. Universal Law:**
+   - *Past error:* Framed 10% weekly volume limit as an inviolable biological law.
+   - *Correction:* Systematic reviews show the 10% rule is not a universal biological cutoff.
+   - *Standard:* Conservative progression is maintained specifically because of this athlete's empirical history of volume overshoots, calf/Achilles symptoms, and concurrent heavy lifting, not dogma.
+
+9. **Elimination of False Precision on Elevation Penalties:**
+   - *Past error:* Claimed 80m elevation gain $\times$ 0.4–0.5 s/m = exactly 32–40 seconds penalty $\rightarrow$ flat equivalent 59:22–59:30.
+   - *Correction:* Metabolic cost depends on exact gradients, downhill absorption, running economy, and course turns.
+   - *Standard:* Record that the course featured ~80m elevation gain, which likely imposed a modest metabolic cost, so 1:00:02 understates flat capacity somewhat; magnitude is uncertain.
+
+10. **Objective Tone in Permanent Records:**
+    - *Past error:* Breathless hyperbole ("world-class mental fortitude", "elite anaerobic threshold buffer capacity", "clinical pain tolerance").
+    - *Correction:* Permanent analytical logs must read like an applied sports scientist: objective, precise, and measured.
+
+---
+
+**3. The Permanent Knowledge Taxonomy:**
+From this date forward, all entries must distinguish:
+- **`[FACT]`**: Directly measured data.
+- **`[INFERENCE]`**: Deductions strongly supported by multiple converging measurements.
+- **`[HYPOTHESIS]`**: Plausible mechanisms requiring empirical testing, with confidence ratings and validation tests.
+
+---
+
+**4. Active Hypothesis Ledger:**
+
+- **`[HYPOTHESIS H-01]`**: Cadence in the 160–166 SPM range at faster paces ($\le$ 6:00/km) reduces ground contact time and joint impact forces for this 187cm athlete.  
+  *Confidence:* Moderate.  
+  *Validation Test:* Monitor lower-leg symptom tolerance across 5 consecutive threshold/interval sessions.
+
+- **`[HYPOTHESIS H-02]`**: Aerobic durability and fat oxidation capacity currently lag behind 5K speed reserve.  
+  *Confidence:* High (supported by 5K VDOT 34.2 vs 10K VDOT 32.5).  
+  *Validation Test:* Assess pace decay and cardiac drift during long runs extending past 14 km.
+
+- **`[HYPOTHESIS H-03]`**: The Amazfit T-Rex 3 Pro optical wrist HR sensor reads elevated values at high intensities/cadence due to motion/sensor artifact (cadence lock).  
+  *Confidence:* Moderate.  
+  *Validation Test:* Cross-reference optical wrist readings against a chest strap monitor or ventilatory/RPE markers during tempo efforts.
+
+- **`[HYPOTHESIS H-04]`**: 3:2 rhythmic belly breathing assists ETAP management by reducing asymmetric diaphragmatic strain during high ventilation.  
+  *Confidence:* Low–Moderate.  
+  *Validation Test:* Track stitch recurrence during sustained threshold sessions.
+
+- **`[HYPOTHESIS H-05]`**: Direct aggressive mechanical compression (foam rolling) on acutely fatigued lower triceps surae / Achilles junction induces neuromuscular guarding and localized pain.  
+  *Confidence:* Moderate.  
+  *Validation Test:* Monitor tissue recovery using passive elevation and gentle mobility while maintaining ban on lower-third foam rolling.
+
+---
+
 ### Date: September 19, 2026
 **Topic: Official 10K Race Autopsy (1:00:02 PB), Biomechanical Masterclass, Hill Elevation Penalty, & Transition to Dec 13 Half Marathon**
 
