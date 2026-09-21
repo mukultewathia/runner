@@ -6,8 +6,8 @@
 
 ## 🎯 Primary Goal
 
-**Bengaluru Half Marathon (21.1 km) - Sub-2:15:00 (Target: ~6:20–6:24/km)**
-**Target Date:** December 13th, 2026
+**Times Internet Bengaluru Half Marathon (21.1 km) - Sub-2:15:00 (Target: ~6:20–6:24/km)**
+**Target Date:** December 20th, 2026 (athlete-confirmed)
 **Previous Milestone:** 10K Corporate Run (Sep 19, 2026) — 🏁 **ACCOMPLISHED! Official PB: 1:00:02** (Flat-course equivalent: ~59:30). Smashed previous PB by 6:58!
 **Current Phase:** Month 4 (Late September) — Post-10K Deload & Half Marathon Base Transition
 
@@ -23,7 +23,7 @@
 | **September 2026**| Month 4: 10K Peak & HM Transition | 93 kg | 28 km | 15 km | **10K PB: 1:00:02 (Sep 19)**; 5K PB: 27:46 | 🟡 Active |
 | **October 2026** | Month 5: HM Specific Endurance | 92 kg | 36 km | 18 km | 16km LSD with 4km @ HM Pace (6:25/km) | ⬜ Upcoming |
 | **November 2026** | Month 6: Peak Phase | 91 kg | 40 km | 20 km | 18km LSD with 6km @ HM Pace (6:25/km) | ⬜ Upcoming |
-| **December 2026** | Month 7: Taper & Race | 90 kg | 25 km | 21.1 km | RACE: Dec 13th - Target: Sub-2:15:00 | ⬜ Upcoming |
+| **December 2026** | Month 7: Taper & Race | 90 kg | 25 km | 21.1 km | RACE: Dec 20th - Times Internet Bengaluru Half Marathon; Target: Sub-2:15:00 | ⬜ Upcoming |
 
 ---
 
@@ -183,7 +183,7 @@
 
 ---
 
-## Race Pacing Strategy (Half Marathon — Target Dec 13, 2026)
+## Race Pacing Strategy (Times Internet Bengaluru Half Marathon — Target Dec 20, 2026)
 
 **Target Time:** 2:19:59 (Sub-2:20:00)
 **Average Pace:** 6:38/km
