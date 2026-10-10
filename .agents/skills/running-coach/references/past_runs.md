@@ -10,6 +10,7 @@
 
 | Date | Type | Distance (km) | Duration | Avg Pace | Avg HR | Max HR | Cadence | Stride | RPE | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-10 | Easy / Recovery (Vietnam Travel) | 5.00 | 00:43:33 | 8:41 | 155 | 178 | Avg 148 | — | — | Morning easy-effort run (user-reported mostly easy). Watch: 43:32.75 moving/workout time (rounded to 00:43:33 in this table), 0m elevation gain, avg power 176W (max 267W). Watch HR zones: 56% at 148–162 BPM, 23% at 163–174 BPM; HR rose gradually despite broadly steady pace (possible drift; cause unconfirmed). Both calves felt tight for approximately the first 500m, then comfortable through the rest of the run; entirely normal immediately after. Recent travel involved high walking volume and calf fatigue. Numeric RPE not provided. |
 | 2026-10-02 | Easy / Progression (Hanoi Travel) | 3.00 | 00:24:07 | 8:01 | 153 | 173 | — | — | — | Hoan Kiem morning run in Hanoi. Splits: 8:25/km (HR 138), 8:10/km (HR 156), 7:28/km (HR 167). Flat route (0m elevation). Conditions: 29°C, feels like 31°C, 84% humidity, wind 8.6 km/h SSE. Planned longer easy run but stopped at 3.0 km after shin-splint discomfort and mild right-calf strain; appropriate early shutdown rather than forcing volume. |
 | 2026-09-19 | 10K Corporate Race | 10.39 (10.00 km split) | 01:02:34 (01:00:02 10k split) | 6:01 (6:00 10k split) | 191 | 201 | Avg 159 (Max 160) | Avg 1.05 (Max 1.11) | 10 | 🏁 NEW OFFICIAL 10K PERSONAL BEST! Smashed Sep 5 PB (1:07:00) by 6:58! Run on a 2.5km loop with a 20m elevation hill on each lap (80m cumulative vertical gain at 93kg body weight; flat-course equivalent ~59:25–59:35). Laps: 6:09, 5:53, 5:50, 5:54, 5:59 (29:46 5k split!), 6:07, 6:14, 6:00, 6:12, and a ferocious 5:43 final km kick! ZERO walking breaks. Managed an initial diaphragmatic twinge at km 6-7 on the run without stopping. Lower right calf held with zero sharp pain. Clinical pain tolerance: 45+ mins held at 190-201 BPM! |
 | 2026-09-17 | Shakeout / Test | 2.00 | 00:16:47 | 8:23 | 154 | 163 | Avg 154 | Avg 0.77 | 4 | Pre-race test flight post-MTJ roller contusion. Laps: 8:17, 8:29. Calves tight in km 1, then loosened. Zero sharp pain, confirming green light for race day. |
@@ -61,7 +62,9 @@
 
 ## Weekly Volume Summary
 
-| Week 9 (Post-Race Recovery) | Sep 20 – 26, 2026 | 0.00 km (Upcoming) | Post-10K PB deload: passive recovery, walking, soft tissue flushing, optional light weekend jog |
+| Week 11 (Travel / Return to Running) | Oct 4 – 10, 2026 | 5.00 km (logged) | Saturday easy 5.00km (43:33); initial calf tightness resolved by ~500m; no immediate post-run symptoms. |
+| Week 10 (Vietnam Travel) | Sep 27 – Oct 3, 2026 | 3.00 km (logged) | Friday Oct 2 Hanoi easy/progression 3.00km; stopped due to shin and right-calf discomfort. |
+| Week 9 (Post-Race Recovery) | Sep 20 – 26, 2026 | 0.00 km (logged) | No runs recorded in this log for Sep 20–26; post-10K PB recovery period. |
 | Week 8 (Race Week) | Sep 13 – 19, 2026 | 15.39 km | Sunday Taper Shakeout (3.00km) + Thursday Test Flight (2.00km) + Saturday Corporate 10K Race PB (10.39km / 1:00:02 10k split) |
 | Week 7 (10K Block) | Sep 6 – 12, 2026 | 11.93 km | Tuesday Easy Flush (4.96km) + Wednesday Shakeout (1.97km) + Wednesday 5K PB (5.00km) |
 | Week 6 (10K Block) | Aug 30 – Sep 5, 2026 | 27.09 km | Sunday LSD (10.07km) + Wednesday Easy/Intervals (7.00km) + Saturday 10K PB (10.02km) |
