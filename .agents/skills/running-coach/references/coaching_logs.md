@@ -4,6 +4,65 @@
 
 ---
 
+### Date: October 12, 2026
+**Topic: Post-Travel 5K Aerobic Run — Consistent Pacing and Modest Late HR Rise**
+
+**Source and reported facts**
+
+- **[FACT — watch-reported]** Outdoor run dated Oct 12, 2026, start 19:47, recorded on Amazfit T-Rex 3 Pro (48mm). Source: `Screenshot_20261012-204454.png`, `1000099815.png`, `1000099814.png`, and `1000099813.png`. No GPX/FIT file or second-by-second telemetry provided.
+- **[FACT — watch-reported]** Distance 5.00km; workout time **42:05.73**; average pace and grade-adjusted pace **8:24/km**; average HR **157 BPM**, maximum **169 BPM**; average cadence **153 SPM**; average power **186W**, maximum **244W**; reported elevation gain **0m**. Calories **542** are a device estimate.
+- **[FACT — watch-reported]** HR-zone distribution: 118–147 BPM **5% / 02:16**; 148–162 BPM **81% / 34:08**; 163–174 BPM **13% / 05:29**; 175–191 and 192–205 BPM **0% / 00:00**. Preserve the reported percentages/times without forcing them to total 100% or match workout duration.
+- **[FACT]** Numeric RPE, conversational breathing, symptoms during/after this run, weather, and whether HR came from the wrist or an external sensor were not reported. Do not infer symptom resolution from the pace/cadence data.
+
+| Km | Displayed pace | Lap time | Avg HR (BPM) | Cadence (SPM) | Reported step length (m) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 8:18/km | 08:18.55 | 149 | 151 | 0.79 |
+| 2 | 8:21/km | 08:21.14 | 156 | 153 | 0.77 |
+| 3 | 8:29/km | 08:29.36 | 158 | 153 | 0.76 |
+| 4 | 8:27/km | 08:27.19 | 162 | 154 | 0.76 |
+| 5 | 8:27/km | 08:27.23 | 162 | 154 | 0.76 |
+
+**Data integrity:** The five reported lap times sum to **42:03.48**, versus the summary workout time **42:05.73** (difference **2.25s**). Retain both values as displayed; the screenshots do not explain this discrepancy.
+
+**Wins**
+
+- **[FACT]** The spread between fastest and slowest complete kilometre laps was **10.81s**. Last two kilometres were virtually identical in duration; no hard finishing surge is evident.
+- **[FACT]** Cadence stayed within **151–154 SPM**, matching the athlete's previously observed easy-run range of 150–156 SPM. No late cadence decline is evident.
+- **[FACT]** Most recorded time was within the watch's 148–162 BPM range. The athlete's working HRR model (max 206 BPM, resting 65 BPM) places average HR 157 at approximately **65% HR reserve**. These are working intensity references, not validated physiological thresholds.
+
+**Growth lesson: heart rate rose while pace remained broadly steady**
+
+1. **Observed data:** HR rose from 149 BPM in km 1 to 162 BPM in km 4–5 while lap pace changed from 8:18.55 to approximately 8:27/km. Excluding the initial kilometre, HR rose from 156 BPM in km 2 to 162 BPM in km 4–5: **+6 BPM / approximately 3.8%**.
+2. **Interpretation:** **[INFERENCE]** Controlled aerobic session, finishing near the upper end of the working easy range, conditional on conversational breathing. **[HYPOTHESIS]** Some late cardiovascular drift may be present. The early HR increase includes normal warm-up kinetics and should not all be labelled drift. The 3.8% figure is the change in lap-average HR, not a formal aerobic-decoupling calculation.
+3. **Confidence:** High for reported pacing/cadence consistency; moderate for the provisional aerobic classification; low for attributing the HR rise to a specific cause.
+4. **Alternative explanations:** Heat, hydration status, accumulated travel/walking load, sleep/fatigue, and HR sensor response or artifact. Weather and sensor source are unknown. Similar average HR and cadence alone do not establish cadence lock.
+5. **Action:** Keep the next session conversational, approximately 4–5km after an easy/rest day if calves remain comfortable. Start the first 10 minutes more gently and adjust pace to breathing/effort. The existing conservative easy-day guideline near 150 BPM can assist but is not a rigid physiological ceiling. Given recent logged volume (3km Sep 27–Oct 3, 5km Oct 4–10), rebuild regular easy running before resuming the older plan's 12km long run or fast intervals.
+6. **Validation test:** Repeat a similar easy route after normal sleep/recovery, recording weather, HR sensor source, RPE and calf response. Compare steady-state HR at a similar pace after the first 10 minutes across subsequent sessions. Do not diagnose lost fitness or inadequate endurance from this run alone.
+
+**Comparison with the logged Oct 10 run**
+
+| Metric | Oct 10 | Oct 12 |
+| :--- | :--- | :--- |
+| Distance | 5.00km | 5.00km |
+| Exact workout time | 43:32.75 | 42:05.73 |
+| Avg HR | 155 BPM | 157 BPM |
+| Max HR | 178 BPM | 169 BPM |
+| Avg cadence | 148 SPM | 153 SPM |
+
+- **[FACT]** Oct 12 was **1:27.02 faster**, with average HR **+2 BPM**, maximum HR **−9 BPM**, and cadence **+5 SPM**.
+- **[INFERENCE]** Encouraging session execution. The two runs occurred under different conditions, only two days apart; this comparison does not establish a physiological fitness gain.
+- **[FACT — device estimate]** The screenshot displays running lactate threshold **185 BPM / 7:05/km**. This easy session does not validate that estimate or resolve the existing unvalidated threshold model. No threshold, PB or training-zone updates are justified by this session.
+
+**Follow-up information needed:** Subjective RPE (0–10), conversational breathing, calf comfort during and after the run, and HR sensor source.
+
+**Evidence used for interpretation**
+
+- [CDC: measuring physical activity intensity and the talk test](https://www.cdc.gov/physical-activity-basics/measuring/)
+- [Wingo et al. (2020): cardiovascular drift during running/cycling in heat](https://pubmed.ncbi.nlm.nih.gov/32102057/)
+- [Heaps et al. (1994): hypohydration and cardiovascular drift](https://pubmed.ncbi.nlm.nih.gov/8157372/)
+
+---
+
 ### Date: September 21, 2026
 **Topic: Coach Model Corrections, Epistemic Reset, & Methodological Audit**
 
