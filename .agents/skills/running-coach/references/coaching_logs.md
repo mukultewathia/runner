@@ -4,6 +4,66 @@
 
 ---
 
+### Date: October 14, 2026
+**Topic: Conversational 5K Aerobic Run — Stable Splits, Rising Effort and Recovery-Run Guidance**
+
+**Source and reported facts**
+
+- **[FACT — watch-reported]** Outdoor run dated Oct 14, 2026, start 21:32, recorded on Amazfit T-Rex 3 Pro (48mm). Source screenshots: `1000100232.png`, `1000100233.png`, `1000100230.png`, and `1000100229.png`. No GPX/FIT file or second-by-second telemetry provided.
+- **[FACT — watch-reported]** Distance **5.00km**; workout time **42:35.45**; average pace and grade-adjusted pace **8:30/km**; average HR **155 BPM**, maximum **173 BPM**; average cadence **154 SPM**; average power **190W**, maximum **288W**; reported elevation gain **4m**. Calories **540** are a device estimate.
+- **[FACT — watch-reported]** HR-zone distribution: 118–147 BPM **12% / 05:30**; 148–162 BPM **71% / 30:23**; 163–174 BPM **14% / 06:08**; 175–191 and 192–205 BPM **0% / 00:00**. Preserve the displayed percentages and times; they do not total 100% or match full workout duration.
+- **[FACT — athlete-reported]** Comfortable conversation remained possible at the end, but effort increased toward the finish.
+- **[FACT]** Numeric RPE, current calf/shin/knee symptoms, weather, and whether HR came from the watch or an external sensor were not reported. Do not infer absence of pain or sensor accuracy.
+
+| Km | Displayed pace | Lap time | Avg HR (BPM) | Cadence (SPM) | Reported step length (m) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 8:27/km | 08:27.95 | 145 | 155 | 0.76 |
+| 2 | 8:32/km | 08:32.18 | 152 | 152 | 0.76 |
+| 3 | 8:29/km | 08:29.17 | 159 | 155 | 0.75 |
+| 4 | 8:30/km | 08:30.19 | 160 | 153 | 0.76 |
+| 5 | 8:33/km | 08:33.28 | 161 | 153 | 0.76 |
+
+**Data integrity:** The five lap times sum to **42:32.77**, versus summary workout time **42:35.45** (difference **2.68s**). Retain both as displayed; the screenshots do not explain the discrepancy.
+
+**Wins**
+
+- **[FACT]** Complete kilometre lap times span only **5.33s**; no substantial late slowdown is evident.
+- **[FACT]** Cadence remained within **152–155 SPM**, with reported step length **0.75–0.76m**. No sustained late cadence decline is evident. These metrics alone do not establish gait quality or tissue tolerance.
+- **[INFERENCE — moderate confidence]** Consistent pacing plus comfortable conversation at the finish supports an easy aerobic classification. This does not establish the athlete's physiological Zone 2 boundary or prove the session was sufficiently gentle for recovery.
+
+**Growth lesson: maintain easy effort as heart rate rises**
+
+1. **Observed data:** HR increased from 145 BPM in km 1 to 161 BPM in km 5. Excluding the opening kilometre, km 2 to km 5 increased **152 → 161 BPM (+9 BPM / approximately 5.9%)** while lap pace remained near 8:30/km. Final three lap HR averages were **159, 160, 161 BPM**. Athlete reported increased effort while retaining comfortable conversation.
+2. **Interpretation:** **[INFERENCE]** Internal effort increased at similar external pace, then the lap-average HR rise largely flattened. **[HYPOTHESIS]** Some cardiovascular drift may be present; early HR kinetics and sensor effects remain possible contributors. The 5.9% figure is a change in lap-average HR, not formal aerobic decoupling. Average HR 155 exceeds the existing conservative easy-day guideline near 150; that guideline is not a validated physiological boundary.
+3. **Confidence:** High for screenshot values and athlete-reported breathing; moderate for easy aerobic classification; low for a specific physiological cause.
+4. **Alternative explanations:** Heat/humidity, hydration status, sleep, accumulated fatigue, warm-up kinetics and HR sensor response/artifact. Conditions and sensor source are unknown. Similar HR and cadence do not establish cadence lock.
+5. **Action:** Keep easy sessions conversational; begin the first 5–10 minutes gently and allow pace to slow if effort rises. Classify this as aerobic training rather than assuming it was a recovery jog. Do not revise training zones, threshold values or race predictions from this run.
+6. **Validation test:** Repeat a similar route after normal recovery, recording weather, sensor source, RPE, conversational comfort and calf response. Compare HR at similar pace after the first 10 minutes across multiple sessions, rather than treating one run as proof of fitness gain or loss.
+
+**Comparison with Oct 12**
+
+- **[FACT]** Same recorded distance; Oct 14 was **29.72s slower**, with average HR **−2 BPM**, maximum HR **+4 BPM**, and average cadence **+1 SPM**.
+- **[INFERENCE]** Both show consistent kilometre pacing and rising HR at similar pace. Different conditions and incomplete sensor/effort information prevent a fitness conclusion.
+- **[FACT — device estimate]** The watch displays running lactate threshold **184 BPM / 7:06/km**. This easy run does not validate either number; the pace estimate is also slower than the previously recorded approximately one-hour 10K effort. Retain it as a device estimate, not a new benchmark.
+
+**Recovery-run guidance discussed after this run — advice, not a completed workout**
+
+- Suggested starting session: **5min walking + 15–20min very gentle jogging + 5min walking**, on flat terrain.
+- Keep effort around **2–3/10**, with relaxed breathing and effortless conversation. Start more gently than this 8:30/km run, but do not force a pace target or minimum speed.
+- Walk breaks are acceptable, for example 3min jogging / 1min walking. Finish feeling able to continue comfortably; avoid a fast finish.
+- Use HR alongside breathing and effort; no new recovery HR ceiling was established in this discussion.
+- Choose walking or rest if legs feel very heavy, soreness changes the stride, or a gentle jog becomes progressively harder. Recovery running is optional and still adds mechanical load; it is not required after every run.
+- This advice is not an instruction to make up missed mileage or resume the older plan's long-run/interval targets immediately.
+
+**Evidence referenced in the discussion**
+
+- [CDC: measuring physical activity intensity and the talk test](https://www.cdc.gov/physical-activity-basics/measuring/)
+- [Onset of cardiovascular drift during progressive heat stress in young adults (2023)](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00222.2023)
+- [B.A.A.: marathon training and conversational/recovery pace](https://www.baa.org/races/boston-marathon/info-for-athletes/boston-marathon-training/)
+- [HSS: active recovery and full rest days](https://news.hss.edu/rest-days-are-good-active-recovery-days-can-be-better/)
+
+---
+
 ### Date: October 12, 2026
 **Topic: Post-Travel 5K Aerobic Run — Consistent Pacing and Modest Late HR Rise**
 
