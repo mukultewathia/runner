@@ -4,6 +4,59 @@
 
 ---
 
+### Date: October 18, 2026
+**Topic: Conversational 8.01km Long Run — Late Leg Heaviness with Comfortable Breathing**
+
+**Source and reported facts**
+
+- **[FACT — watch-reported]** Outdoor run dated Oct 18, 2026, start 10:58, recorded on Amazfit T-Rex 3 Pro (48mm). Sources: `Screenshot_20261018-204723.png` and `17023.png`. No GPX/FIT file or raw telemetry was supplied.
+- **[FACT — watch-reported]** Distance **8.01km**; workout time **1:12:22.29** (rounded to 01:12:22 in the run table); average pace and grade-adjusted pace **9:01/km**; average HR **152 BPM**, maximum **169 BPM**; average cadence **150 SPM**; average power **159W**, maximum **251W**; reported elevation gain **2m**. Calories **823** are a device estimate.
+- **[FACT — watch-reported]** HR-zone distribution: 118–147 BPM **19% / 14:17**; 148–162 BPM **73% / 53:09**; 163–174 BPM **5% / 04:13**; 175–191 and 192–205 BPM **0% / 00:00**. The displayed times sum to 71:39 and percentages to 97%; retain them as displayed without filling the unexplained remainder.
+- **[FACT — athlete-reported]** This was a **long run**, not an intended recovery run. The final 15 minutes remained conversational, but the legs were getting heavy.
+- **[FACT]** Numeric RPE, exact location/severity of heaviness, pain status, stride changes, next-day recovery, weather, pre-run food/hydration and HR sensor source were not reported. General leg heaviness does not establish a calf/Achilles recurrence or absence of pain.
+
+| Km | Displayed pace | Lap time | Avg HR (BPM) | Cadence (SPM) |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 9:03/km | 09:03.21 | 133 | 149 |
+| 2 | 8:53/km | 08:53.76 | 149 | 149 |
+| 3 | 9:04/km | 09:04.65 | 154 | 150 |
+| 4 | 9:12/km | 09:12.41 | 157 | 151 |
+| 5 | 9:33/km | 09:33.81 | 154 | 149 |
+| 6 | 9:28/km | 09:28.41 | 157 | 150 |
+| 7 | 8:16/km | 08:16.50 | 152 | 149 |
+| 8 | 8:41/km | 08:41.02 | 162 | 152 |
+
+**Data integrity:** The eight displayed lap times sum to **1:12:13.77**, which is **8.52s shorter** than the summary workout time despite the summary distance being 8.01km. Preserve both; the screenshots do not explain the discrepancy. Sharp pace/HR graph dips may reflect interruptions or recording artifacts; continuous running and exact pause durations are not established.
+
+**Wins**
+
+- **[INFERENCE — moderate confidence]** Approximately 72 minutes of running with a conversational finish supports an appropriately controlled aerobic long-run effort. The watch's Zone 2 label does not validate a physiological threshold.
+- **[FACT]** Lap cadence remained within **149–152 SPM**, including the final kilometres; no sustained lap-average cadence decline is visible. This does not prove unchanged gait mechanics.
+- **[FACT]** The last two kilometres were the fastest. **[INFERENCE]** The athlete retained the ability to increase speed, although that is not proof of full muscular recovery or a reason to extend the session.
+
+**Growth lesson: distinguish comfortable breathing from tolerance of prolonged running**
+
+1. **Observed data:** Athlete reported comfortable conversation late in the run alongside heavy legs. Km 3–6 slowed from approximately 9:05 to 9:28–9:34 with HR 154–157 BPM. Km 7 accelerated to 8:16 (HR 152), followed by 8:41 (HR 162).
+2. **Interpretation:** **[INFERENCE]** Perceived leg fatigue became more prominent than breathing difficulty. **[HYPOTHESIS]** Running-specific muscular endurance may be a current constraint, but this single session cannot establish a permanent cardiovascular-versus-muscular fitness mismatch. The faster final kilometres confound interpretation of the late HR rise as pure cardiovascular drift.
+3. **Confidence:** High for athlete-reported symptoms and displayed values; moderate for conversational aerobic classification; low for a specific fatigue mechanism.
+4. **Alternative explanations:** Normal duration-related fatigue, accumulated training/walking/lifting load, sleep, food/hydration, conditions, pauses or sensor lag. Km 7's faster pace with lower HR does not establish improved running economy. Similar HR and cadence do not establish cadence lock.
+5. **Action:** Advice discussed: repeat roughly **70–75 minutes** at conversational effort before extending, conditional on normal recovery and symptom response; keep the finish easy. Rest or take a gentle walk if the following day's legs remain heavy; resume easy running when reasonably normal. Shorten/stop if pain or altered gait develops. This is consolidation guidance, not a revised weekly schedule or approval to resume the older macrocycle's larger long runs/intervals.
+6. **Validation test:** Record next-morning and 24–48h leg/calf response, pain location if present, and whether normal walking/stairs are comfortable. On a comparable repeat run, record when heaviness starts, conversational comfort, RPE, conditions and recent lifting. Later onset/less heaviness with normal recovery across repeated sessions would support improving duration tolerance.
+
+**Training-load context**
+
+- **[FACT]** Previous logged week (Oct 11–17): **10.00km**, from two 5km runs. Oct 18 opens the next Sunday–Saturday week with **8.01km logged so far**.
+- **[FACT]** This session was 3.01km (approximately 60%) longer than either of the two latest logged sessions; earlier historical long runs were longer.
+- **[INFERENCE]** Recent reduced logged volume and today's heaviness favor consolidation before increasing duration or adding hard work. The percentage is descriptive, not a universal injury threshold; unlogged activity is unknown.
+- No PB, threshold or training-zone changes are justified by this run.
+
+**Evidence referenced in the discussion**
+
+- [CDC: measuring physical activity intensity and the talk test](https://www.cdc.gov/physical-activity-basics/measuring/index.html)
+- [HSS: how to get into or back into running — readiness, gradual progression and symptom response](https://www.hss.edu/health-library/move-better/how-to-get-into-running)
+
+---
+
 ### Date: October 14, 2026
 **Topic: Conversational 5K Aerobic Run — Stable Splits, Rising Effort and Recovery-Run Guidance**
 
