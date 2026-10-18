@@ -4,6 +4,35 @@
 
 ---
 
+### Date: October 18, 2026 (Evening)
+**Topic: Critical Feasibility Audit of Sub-2:00:00 Half Marathon, Empirical Pacing Matrix & Bengaluru Midnight Marathon 10K Realignment**
+
+**Context & Epistemic Audit:**
+- **[FACT]** 9 weeks (63 days) remain until the primary target: Times Internet Bengaluru Half Marathon on Dec 20, 2026.
+- **[FACT]** Athlete registered for the Bengaluru Midnight Marathon (BMM) 10K on Saturday night, Dec 5, 2026 (15 days pre-Half Marathon). Athlete explicitly clarified: BMM 10K is an official timed certification/qualification run for future races, with no risk, no PB pressure, and no interference with the Half Marathon priority.
+- **[FACT]** Current validated fitness benchmarks: 10K PB 1:00:02 (6:00/km; VDOT 32.5; 191 BPM avg HR on Sep 19); 5K PB 27:46 (5:33/km; VDOT 34.2 on Sep 9).
+- **[FACT]** Recent 5-week logged volume: W9 (0km post-race), W10 (3km Hanoi), W11 (5km Vietnam), W12 (10km Bangalore return), W13 (8.01km Sunday long run completed today with late leg heaviness at 9:01/km, HR 152 avg).
+
+**Critical Feasibility Analysis (The Sub-2:00:00 Gap):**
+1. **Observed Data:** Sub-2:00:00 requires sustaining 5:41/km for 21.0975 km. Current 10K PB is 6:00/km; 5K PB is 5:33/km.
+2. **Interpretation:** **[INFERENCE — High Confidence]** Sub-2:00:00 requires running a Half Marathon 19s/km faster than current all-out 10K PB pace, and only 8s/km slower than 5K PB pace. Bridging the VDOT gap from 32.5/34.2 to 38.5 within 7 weeks of active training represents a low-probability stretch (~10–15%). Pushing weekly volume to 40 km or forcing 5:41/km pace across a 93 kg chassis creates severe connective tissue and Achilles overload risk.
+3. **Pacing Matrix Calibration (October 2026):**
+   - **Recovery / Flush:** 9:15 – 9:45 /km (Zone 1: 136–148 BPM, RPE 1–2).
+   - **Easy Aerobic Base:** 8:25 – 8:55 /km (Zone 2: 149–158 BPM, cap $\le$152 fresh, RPE 3–4, Talk Test).
+   - **Long Run (LSD):** 8:45 – 9:15 /km (Zone 2: 148–160 BPM, RPE 4–5, 85%+ conversational).
+   - **Continuous Tempo:** 5:55 – 6:10 /km (Zone 4: 178–186 BPM, RPE 7–7.5, short phrases).
+   - **Cruise Intervals:** 5:35 – 5:45 /km (Zone 4: 180–190 BPM, RPE 8, 1000m repeats, 60–90s rest).
+   - **VO2 Max Intervals:** 4:45 – 5:10 /km (Zone 5: 190–202 BPM, RPE 9, 400m–800m repeats).
+   - **Neuromuscular Strides:** 4:15 – 4:35 /km rate (166–174 SPM, RPE 6–7, 60–80m, full rest).
+4. **Action:**
+   - Formalized 3-tier goal hierarchy: Tier A (Sub-2:00:00 Moonshot), Tier B (Sub-2:10:00 Primary Competitive Target / 5:58–6:09/km), Tier C (Sub-2:15:00 Structural Floor).
+   - Capped peak weekly volume conservatively at 32–34 km/week (down from 40 km).
+   - Capped peak long run at 16.5–17.0 km in Week 18 (down from 19–20 km).
+   - Set BMM 10K (Dec 5) policy to a controlled 6:15–6:30/km cruise (Zone 2/3), ensuring an official timed certificate with zero physical depletion.
+5. **Validation Test:** Gatekeeper 1 (5K TT on Nov 5) and Gatekeeper 2 (15km progression on Nov 15) will objectively determine which tier is targeted on race day.
+
+---
+
 ### Date: October 18, 2026
 **Topic: Conversational 8.01km Long Run — Late Leg Heaviness with Comfortable Breathing**
 

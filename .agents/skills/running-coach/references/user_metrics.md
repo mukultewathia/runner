@@ -38,10 +38,23 @@
 | Zone | Name | BPM Range | % HRR | RPE | Training Purpose |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Zone 1** | Active Recovery | 136 – 148 | 50–60% | 1–2 | Flush runs, warm-ups, cool-downs. Effortless breathing. |
-| **Zone 2** | Easy / Aerobic Base | 149 – 162 | 60–70% | 3–4 | Aerobic base building. Conversational. Easy day guideline: **$\le$ 150 BPM**. |
+| **Zone 2** | Easy / Aerobic Base | 149 – 162 | 60–70% | 3–4 | Aerobic base building. Conversational. Easy day guideline: **$\le$ 150–152 BPM**. |
 | **Zone 3** | Steady / Aerobic Tempo | 163 – 177 | 70–80% | 5–6 | Comfortably sustainable steady effort. |
 | **Zone 4** | Threshold / Hard | 178 – 191 | 80–90% | 7–8 | Cruise intervals and sustained tempo blocks. |
 | **Zone 5** | High Aerobic / VO2 Max | 192 – 206 | 90–100% | 9–10 | Short intervals only. Maximum sustained stimulus. |
+
+### 3.1 Current Empirical Training Paces Matrix (October 2026 Calibration)
+*Triangulated using Pace + HR + RPE/Breathing for athlete's 187cm, 93kg build under Bengaluru climate. Standard Jack Daniels textbook E-paces (~7:15–7:55/km) are intentionally relaxed to 8:25–8:55/km to prevent cardiovascular overreach and protect the lower calf/Achilles.*
+
+| Workout Type | Target Pace Range | Target HR Range | Cadence Target | RPE | Practical Breathing Marker | Role in Macrocycle |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Recovery / Flush** | **9:15 – 9:45 /km** | **136 – 148 BPM** (Zone 1) | 148 – 152 SPM | **1 – 2** | Effortless breathing; continuous conversation | Post-hard session active flush |
+| **Easy Aerobic Base** | **8:25 – 8:55 /km** | **149 – 158 BPM** (Zone 2; cap $\le$152 fresh) | 150 – 156 SPM | **3 – 4** | Complete unbroken sentences ("Talk Test") | Daily base & mitochondrial building |
+| **Long Run (LSD)** | **8:45 – 9:15 /km** | **148 – 160 BPM** (Zone 2; late drift allowed) | 150 – 154 SPM | **4 – 5** | Conversational for 85%+ of duration | Musculoskeletal duration tolerance |
+| **Continuous Tempo** | **5:55 – 6:10 /km** | **178 – 186 BPM** (Zone 4) | 160 – 164 SPM | **7 – 7.5** | Short broken phrases (3–4 words) | 20–30 min sustained threshold work |
+| **Cruise Intervals** | **5:35 – 5:45 /km** | **180 – 190 BPM** (Zone 4) | 162 – 166 SPM | **8** | Crisp rhythm; 1–2 words at a time | 1000m repeats with 60–90s rest |
+| **VO2 Max Intervals** | **4:45 – 5:10 /km** | **190 – 202 BPM** (Zone 5) | 166 – 172 SPM | **9** | Rhythmic hyperventilation; single words | 400m–800m repeats |
+| **Neuromuscular Strides**| **4:15 – 4:35 /km** *(rate)* | Non-cardiovascular (HR lags) | 166 – 174 SPM | **6 – 7** | Tall posture, springy turnover (15–20s) | Turnover & running economy |
 
 ---
 
@@ -72,10 +85,15 @@
 | **400m Interval (fastest)**| 1:51 (4:36/km) | Peak 182 | Jul 8, 2026 | — | 6x400m session rep. |
 | **12.4km LSD** | 1:53:18 (9:08/km) | 147 BPM | Jul 12, 2026 | — | High aerobic discipline, but volume overreach (target was 8 km). |
 
-### Current VDOT Analysis & Half Marathon Projection:
-- **`[FACT]`**: 5K VDOT = **34.2**; 10K VDOT = **32.5**.
-- **`[INFERENCE]`**: The gap between 5K and 10K VDOT confirms that **aerobic endurance, fat oxidation, and structural volume tolerance currently lag behind shorter-distance speed reserve**.
-- **`[INFERENCE]`**: To run **Sub-2:00:00 Half Marathon (5:41/km)** on Dec 20, 2026, fitness must progress to **VDOT ~38–40** (equivalent to ~24:30–25:15 5K and ~51:00–52:30 10K).
+### Current VDOT Analysis & Half Marathon Projection (Critical Audit: Oct 18, 2026):
+- **`[FACT]`**: 5K PB = **27:46** (VDOT **34.2**); 10K PB = **1:00:02** (VDOT **32.5**).
+- **`[FACT]`**: Sub-2:00:00 Half Marathon (5:41/km) requires **VDOT ~38.0–38.5**.
+- **`[INFERENCE]`**: Pacing a Half Marathon at 5:41/km would require running 21.1 km at a pace 19s/km faster than the 10K PB (6:00/km) and only 8s/km slower than the 5K PB (5:33/km). With 9 weeks remaining and current volume coming off a travel block (8 km long run produced late leg heaviness), Sub-2:00:00 is an extreme stretch goal (~10–15% probability).
+- **`[ACTION — Revised Goals]`**:
+  - **Tier A (Moonshot):** Sub-2:00:00 (5:41/km) — evaluated objectively by Gatekeepers 1 & 2.
+  - **Tier B (Primary Competitive Target):** Sub-2:10:00 (5:58–6:09/km) — holding 10K PB pace over double the distance at 90–93 kg.
+  - **Tier C (Baseline Floor):** Sub-2:15:00 (6:15–6:24/km) — continuous, injury-free execution.
+- **`[INTERMEDIATE EVENT]`**: Bengaluru Midnight Marathon 10K (Dec 5, 2026) registered as a certified qualification run (controlled 6:15–6:30/km cruise, zero risk policy).
 
 ---
 
