@@ -64,7 +64,7 @@ Deload, Travel & Bangalore Return       Base Consolidation & GK 1 (5K)         H
 | **W10** | Sep 27 – Oct 3 | **Singapore & Hanoi Travel** | 15 – 18 km | 8 km (Hanoi) | 6 km Base + 4 Strides (Botanic Gardens) | High walking load (Universal/Safari = Zone 1 time-on-feet) | ~92.5 kg |
 | **W11** | Oct 4 – Oct 10 | **Sapa Altitude & Ninh Binh** | 17 – 20 km | 11 – 12 km (Tam Coc) | 7 km Progression with 3 km @ 6:00/km (Tam Coc) | Sapa mountain trekking (natural eccentric quad/calf armor) | ~92.0 kg |
 | **W12** | Oct 11 – Oct 17 | **Bangalore Re-Entry & Base Rebuild** | 10.00 km (actual) | 5.0 km (Oct 12 & 14) | Base re-entry post travel (42:06 & 42:35) | Seated Calf Raises & Bulgarian Split Squats re-entry | ~91.5 kg |
-| **W13** | Oct 18 – Oct 24 | **Base Consolidation & Quality** | 18.82 km (actual) | 8.01 km (Completed Sun Oct 18) | 4x1000m Cruise Intervals (Fri Oct 23 @ 5:30/km) | Rest/mobility prioritized post-speed | ~92.5 kg |
+| **W13** | Oct 18 – Oct 24 | **Base Consolidation & Quality** | 19.82 km (provisional; summed laps) | 8.01 km (Completed Sun Oct 18) | 4x1000m Cruise Intervals (Fri Oct 23 @ 5:30/km) | Rest/mobility prioritized post-speed | ~92.5 kg |
 | **W14** | Oct 25 – Oct 31 | **Base Build & Intro Cruise** | 25 – 27 km | 10.5 km (Zone 2, 8:50–9:10/km) | 4 x 1000m Cruise @ 5:35–5:40/km (Wed) | 48h buffer; Tibialis anterior & hip stability | ~92.0 kg |
 | **W15** | Nov 1 – Nov 7 | **Speed Reserve & Gatekeeper 1** | 29 – 31 km | 12.5 km (Zone 2, 8:50–9:15/km) | 🏁 **GATEKEEPER 1: 5K Time Trial** (Thu) | Sub-maximal strength; Glute medius focus | ~91.5 kg |
 | **W16** | Nov 8 – Nov 14 | **Consolidation Deload (-20%)** | 23 – 25 km | 10.5 km (Zone 2, capped $\le$152 BPM) | 3 x 1500m Smooth HM Rhythm @ 5:45/km (Wed) | Deload lifting 30%; Tendon & tissue recovery | ~91.0 kg |
@@ -76,14 +76,16 @@ Deload, Travel & Bangalore Return       Base Consolidation & GK 1 (5K)         H
 
 ## Active Phase Detail: Phase 2 — Base Consolidation & Speed Reserve (Weeks 13 – 15: Oct 18 – Nov 7)
 
+**W13 data reconciliation (Oct 24):** The Oct 23 watch-summary record says **4.536 km / 37:58**, but its ten listed laps total **5.536 km / 42:58**. Until the original workout export/screenshot resolves the conflict, the **19.82 km** weekly total uses lap-derived mileage and is **provisional**. The watch-summary alternative is **18.82 km**. Saturday rest is scheduled, not a confirmed completed event.
+
 ### Week 13 Day-by-Day Schedule (Sunday Oct 18 – Saturday Oct 24, 2026)
 * **Sun Oct 18 [COMPLETED]:** 🏃‍♂️ **8.01 km Long Run** (1:12:22, 9:01/km, HR 152 avg, 150 SPM). *Conversational engine; legs absorbed heavy time-on-feet.*
 * **Mon Oct 19 [COMPLETED]:** 🧘‍♂️ **Active Recovery & Mobility / Rest**. Gentle walking and mobility.
 * **Tue Oct 20 [COMPLETED]:** 🏃‍♂️ **6.27 km Easy Base + 6 Fast Strides/Reps** (Part 1: 4.0km @ 8:55/km, HR 145; Part 2: 6 reps down to 4:24/km, HR 191 max, RPE 7).
 * **Wed Oct 21 [COMPLETED]:** 🧘‍♂️ **Rest Day**. Gym skipped to preserve 48h neuromuscular buffer after Tuesday speed.
 * **Thu Oct 22 [COMPLETED]:** 🧘‍♂️ **Rest & Recovery**.
-* **Fri Oct 23 [COMPLETED]:** 🏃‍♂️ **4.54 km Quality: 4 x 1,000m Cruise Intervals** (4x1000m in 5:29, 5:32, 5:27, 5:30 with 2:00 rest; avg pace 5:30/km, HR 180 avg / 197 max, cadence 166–168 SPM, stride 1.08–1.09m, RPE 8). Masterclass pacing control!
-* **Sat Oct 24 [COMPLETED]:** 🧘‍♂️ **Full Rest Day & Active Recovery**. Week 13 closes at 18.82 km total volume. Outstanding volume & speed adaptation.
+* **Fri Oct 23 [COMPLETED; TOTAL PROVISIONAL]:** 🏃‍♂️ **5.54 km lap-derived / 42:58: 4 x 1,000m intervals** (reps 5:29, 5:32, 5:27, 5:30 reported paces with 2:00 recoveries; rep avg ~5:30/km, HR 180 avg / 197 max, cadence 166–168 SPM, stride 1.08–1.09m, RPE 8). Original watch summary 4.536 km / 37:58 conflicts with listed laps; source verification needed.
+* **Sat Oct 24 [PLANNED; NOT YET CONFIRMED]:** 🧘‍♂️ **Full Rest Day & Active Recovery**. Week 13 currently includes 19.82 km of provisional lap-derived running volume (18.82 km if using the original conflicting watch summary).
 
 ---
 

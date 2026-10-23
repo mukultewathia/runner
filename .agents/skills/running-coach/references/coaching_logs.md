@@ -5,10 +5,10 @@
 ---
 
 ### Date: October 23, 2026
-**Topic: 4x1000m Cruise Intervals Autopsy — 4-Second Split Spread, Stride Discipline (1.08–1.09m), and RPE 8 Threshold Validation**
+**Topic: 4x1000m Cruise Intervals — Split Reconciliation, 4-Second Spread, and RPE 8 Effort**
 
 **Source and reported facts:**
-- **[FACT — watch-reported]** Friday evening/night session recorded on Amazfit T-Rex 3 Pro (48mm). Total distance: **4.536 km**; total workout duration: **37:58** (2,278s).
+- **[ORIGINALLY LOGGED WATCH SUMMARY — needs verification]** Friday evening/night session on Amazfit T-Rex 3 Pro (48mm): **4.536 km** and **37:58** (2,278s). Retained for source audit; these conflict with the separately transcribed splits below.
 - **[FACT]** Structure: 811m warm-up (11:17) + 4 x 1,000m Cruise Intervals with ~2:00 (120s) walking/jogging recoveries + 112m walk cooldown (1:38).
 
 #### Split Telemetry Table
@@ -24,6 +24,11 @@
 | Rep 4 | 1,000m | 05:31 (331s) | 5:30/km | 184 | 197 | 166 | 1.09 |
 | Rec 4 | 148m | 02:00 (120s) | 13:26/km | 179 | 197 | 106 | 0.71 |
 | Cooldown | 112m | 01:38 (98s) | 14:28/km | 149 | 158 | 98 | 0.71 |
+
+**Distance/duration reconciliation (Oct 24, 2026):**
+- **[CALCULATED from transcribed laps — PROVISIONAL]** Distance = 811 + (4 × 1,000) + (163 + 149 + 153 + 148) + 112 = **5,536m (5.536 km)**. Duration = 11:17 + (5:30 + 5:33 + 5:29 + 5:31) + (4 × 2:00) + 1:38 = **42:58 (2,578s)**.
+- **[UNRESOLVED CONFLICT]** Originally logged watch summary **4.536 km / 37:58**, which is **1.000 km / 5:00 less** than the lap-derived reconstruction. Neither series should silently override the other. **Use 5.536 km / 42:58 as the provisional lap-derived aggregate for training volume**, but do not call it confirmed watch data until the original Zepp screenshot/GPX/FIT or segment transcription is verified. Rounded watch pace fields may differ slightly from seconds/km computed from rounded distances.
+- **[DOWNSTREAM]** With 8.01 km (Oct 18) and 6.271 km (Oct 20), **W13 = 19.817 km ≈ 19.82 km provisionally**; using the originally logged watch summary instead gives **18.817 km ≈ 18.82 km**.
 
 - **[FACT — athlete-reported]** Subjective RPE confirmed at **8** ("Hard, controlled, threshold effort"). Next morning (Saturday) lower calves, Achilles, and knees reported calm and pain-free.
 
