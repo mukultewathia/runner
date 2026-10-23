@@ -4,6 +4,85 @@
 
 ---
 
+### Date: October 23, 2026
+**Topic: 4x1000m Cruise Intervals Autopsy — 4-Second Split Spread, Stride Discipline (1.08–1.09m), and RPE 8 Threshold Validation**
+
+**Source and reported facts:**
+- **[FACT — watch-reported]** Friday evening/night session recorded on Amazfit T-Rex 3 Pro (48mm). Total distance: **4.536 km**; total workout duration: **37:58** (2,278s).
+- **[FACT]** Structure: 811m warm-up (11:17) + 4 x 1,000m Cruise Intervals with ~2:00 (120s) walking/jogging recoveries + 112m walk cooldown (1:38).
+
+#### Split Telemetry Table
+| Segment | Distance | Time | Pace | Avg HR | Max HR | Cadence (SPM) | Stride (m) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Warm-up | 811m | 11:17 (677s) | 13:54/km | 126 | 143 | 140 | 0.51 |
+| Rep 1 | 1,000m | 05:30 (330s) | 5:29/km | 173 | 187 | 168 | 1.09 |
+| Rec 1 | 163m | 02:00 (120s) | 12:16/km | 161 | 185 | 110 | 0.74 |
+| Rep 2 | 1,000m | 05:33 (333s) | 5:32/km | 179 | 190 | 168 | 1.08 |
+| Rec 2 | 149m | 02:00 (120s) | 13:23/km | 167 | 190 | 108 | 0.70 |
+| Rep 3 | 1,000m | 05:29 (329s) | 5:27/km | 184 | 196 | 168 | 1.09 |
+| Rec 3 | 153m | 02:00 (120s) | 13:01/km | 176 | 195 | 108 | 0.71 |
+| Rep 4 | 1,000m | 05:31 (331s) | 5:30/km | 184 | 197 | 166 | 1.09 |
+| Rec 4 | 148m | 02:00 (120s) | 13:26/km | 179 | 197 | 106 | 0.71 |
+| Cooldown | 112m | 01:38 (98s) | 14:28/km | 149 | 158 | 98 | 0.71 |
+
+- **[FACT — athlete-reported]** Subjective RPE confirmed at **8** ("Hard, controlled, threshold effort"). Next morning (Saturday) lower calves, Achilles, and knees reported calm and pain-free.
+
+**Wins:**
+1. **Pacing Consistency (4-Second Spread):** Total spread between fastest (329s) and slowest (333s) rep was just 4 seconds. Complete elimination of early surge volatility (unlike Aug 27 interval failure).
+2. **Biomechanical Integrity:** Cadence locked at 166–168 SPM with stride at 1.08–1.09m across all reps. Avoided overstriding (avoided Tuesday's 1.30m extension) and avoided the Death Shuffle cadence collapse.
+3. **Chassis Tolerance:** 4,000m of ~5:30/km speed work absorbed by 93kg chassis with zero connective tissue flare-up.
+
+**Growth Lesson (The 6-Field Standard):**
+1. **Observed Data:** Reps 1–2 peaked at 187–190 BPM. Reps 3–4 reached 196–197 BPM (~95% Max HR) with recovery HR settling higher (176–179 BPM).
+2. **Interpretation:** **[INFERENCE]** Average rep pace (5:30/km) was slightly faster than programmed Cruise pace (5:35–5:45/km). In Reps 3–4, oxygen debt and heat carried the cardiovascular stimulus into VO2 Max territory (Zone 5), rather than pure steady-state lactate clearance.
+3. **Confidence:** Moderate to High.
+4. **Alternative Explanations:** Optical wrist sensor artifact (sweat/cadence coupling at 168 SPM); ambient thermal stress; residual fatigue from Tuesday's speed session.
+5. **Action:** On future Cruise Interval sessions, calibrate opening reps conservatively to 5:35–5:40/km. This will maintain threshold clearance benefits while keeping HR capped around 180–186 BPM and sparing central nervous system fatigue.
+6. **Validation Test:** Compare RPE and recovery profile on 5x1000m in Week 15 when run at 5:35–5:40/km.
+
+---
+
+### Date: October 20, 2026
+**Topic: 4km Aerobic Base + 6-Rep Neuromuscular Speed Session — Pacing Discipline, Stride Expansion (1.30m), and Chassis Tolerance**
+
+**Source and reported facts:**
+- **[FACT — watch-reported]** Tuesday evening session recorded on Amazfit T-Rex 3 Pro (48mm). Total distance: **6.271 km**; total duration: **54:57**.
+
+#### Part 1: Aerobic Base (3.998 km in 35:41)
+| Km | Distance | Time | Pace | Avg HR | Max HR | Cadence (SPM) | Stride (m) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 1,000m | 08:55 (535s) | 8:53/km | 133 | 145 | 150 | 0.75 |
+| 2 | 1,000m | 08:53 (533s) | 8:53/km | 143 | 152 | 152 | 0.74 |
+| 3 | 998m | 08:54 (534s) | 8:55/km | 150 | 159 | 152 | 0.74 |
+| 4 | 1,000m | 08:59 (539s) | 8:58/km | 153 | 158 | 152 | 0.73 |
+
+#### Part 2: Speed Reps & Recoveries (2.273 km in 19:16)
+| Segment | Distance | Time | Pace | Avg HR | Max HR | Cadence (SPM) | Stride (m) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Prep | 50m | 01:31 (91s) | 29:56/km | 111 | 117 | 100 | 0.34 |
+| Rep 1 | 204m | 00:59 (59s) | 4:48/km | 128 | 171 | 172 | 1.21 |
+| Rec 1 | 170m | 02:00 (120s) | 11:44/km | 148 | 176 | 112 | 0.76 |
+| Rep 2 | 196m | 01:00 (60s) | 5:05/km | 154 | 176 | 168 | 1.18 |
+| Rec 2 | 143m | 02:46 (166s) | 19:16/km | 147 | 179 | 114 | 0.46 |
+| Rep 3 | 223m | 01:01 (61s) | 4:33/km | 151 | 178 | 170 | 1.30 |
+| Rec 3 | 161m | 02:00 (120s) | 12:25/km | 158 | 184 | 112 | 0.71 |
+| Rep 4 | 214m | 01:00 (60s) | 4:40/km | 161 | 177 | 172 | 1.24 |
+| Rec 4 | 181m | 02:00 (120s) | 11:03/km | 160 | 186 | 112 | 0.81 |
+| Rep 5 | 226m | 01:00 (60s) | 4:24/km | 162 | 186 | 174 | 1.30 |
+| Rec 5 | 172m | 01:59 (119s) | 11:28/km | 163 | 188 | 112 | 0.78 |
+| Rep 6 | 324m | 01:52 (112s) | 5:45/km | 172 | 191 | 160 | 1.08 |
+| Stop | 9m | 00:08 (8s) | 13:41/km | 178 | 179 | 106 | 0.69 |
+
+- **[FACT — athlete-reported]** Subjective RPE confirmed at **7**. Rep 6 clarified as a casual stride to finish. Calves, Achilles, and knees confirmed asymptomatic the following morning.
+
+**Key Observations:**
+1. **Base Pacing Consistency:** Part 1 demonstrated metronomic 5s pace spread across 4 km with cadence stable at 150–152 SPM.
+2. **Turnover Capacity:** Reps reached 168–174 SPM turnover, confirming intact neuromuscular speed reserve.
+3. **Stride Expansion Warning:** Reps 3 & 5 saw stride expand to 1.30m at 93kg. Identified as an upper threshold boundary; future strides to prioritize turnover paw-back under hips over forward reaching.
+4. **Microcycle Load Buffer:** Gym session postponed on Wednesday to provide a 48h buffer post-191 BPM stimulus.
+
+---
+
 ### Date: October 18, 2026 (Evening)
 **Topic: Critical Feasibility Audit of Sub-2:00:00 Half Marathon, Empirical Pacing Matrix & Bengaluru Midnight Marathon 10K Realignment**
 

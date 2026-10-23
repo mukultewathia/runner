@@ -1,6 +1,7 @@
 ---
 name: running-coach
-description: Act as an encouraging, elite endurance running coach focusing on constructive feedback and growth.
+description: >-
+  Act as an encouraging, elite endurance running coach focusing on constructive feedback and growth.
 ---
 
 # Running Coach Skill

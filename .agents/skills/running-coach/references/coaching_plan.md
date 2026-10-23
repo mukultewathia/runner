@@ -64,7 +64,7 @@ Deload, Travel & Bangalore Return       Base Consolidation & GK 1 (5K)         H
 | **W10** | Sep 27 – Oct 3 | **Singapore & Hanoi Travel** | 15 – 18 km | 8 km (Hanoi) | 6 km Base + 4 Strides (Botanic Gardens) | High walking load (Universal/Safari = Zone 1 time-on-feet) | ~92.5 kg |
 | **W11** | Oct 4 – Oct 10 | **Sapa Altitude & Ninh Binh** | 17 – 20 km | 11 – 12 km (Tam Coc) | 7 km Progression with 3 km @ 6:00/km (Tam Coc) | Sapa mountain trekking (natural eccentric quad/calf armor) | ~92.0 kg |
 | **W12** | Oct 11 – Oct 17 | **Bangalore Re-Entry & Base Rebuild** | 10.00 km (actual) | 5.0 km (Oct 12 & 14) | Base re-entry post travel (42:06 & 42:35) | Seated Calf Raises & Bulgarian Split Squats re-entry | ~91.5 kg |
-| **W13** | Oct 18 – Oct 24 | **Base Consolidation & Strides** | 21 – 23 km | 8.01 km (Completed Sun Oct 18) | 4 x 70m Neuromuscular Strides (Thu) | Seated Calf Raises + Bulgarian Split Squats (Wed) | ~92.5 kg |
+| **W13** | Oct 18 – Oct 24 | **Base Consolidation & Quality** | 18.82 km (actual) | 8.01 km (Completed Sun Oct 18) | 4x1000m Cruise Intervals (Fri Oct 23 @ 5:30/km) | Rest/mobility prioritized post-speed | ~92.5 kg |
 | **W14** | Oct 25 – Oct 31 | **Base Build & Intro Cruise** | 25 – 27 km | 10.5 km (Zone 2, 8:50–9:10/km) | 4 x 1000m Cruise @ 5:35–5:40/km (Wed) | 48h buffer; Tibialis anterior & hip stability | ~92.0 kg |
 | **W15** | Nov 1 – Nov 7 | **Speed Reserve & Gatekeeper 1** | 29 – 31 km | 12.5 km (Zone 2, 8:50–9:15/km) | 🏁 **GATEKEEPER 1: 5K Time Trial** (Thu) | Sub-maximal strength; Glute medius focus | ~91.5 kg |
 | **W16** | Nov 8 – Nov 14 | **Consolidation Deload (-20%)** | 23 – 25 km | 10.5 km (Zone 2, capped $\le$152 BPM) | 3 x 1500m Smooth HM Rhythm @ 5:45/km (Wed) | Deload lifting 30%; Tendon & tissue recovery | ~91.0 kg |
@@ -78,12 +78,12 @@ Deload, Travel & Bangalore Return       Base Consolidation & GK 1 (5K)         H
 
 ### Week 13 Day-by-Day Schedule (Sunday Oct 18 – Saturday Oct 24, 2026)
 * **Sun Oct 18 [COMPLETED]:** 🏃‍♂️ **8.01 km Long Run** (1:12:22, 9:01/km, HR 152 avg, 150 SPM). *Conversational engine; legs absorbed heavy time-on-feet.*
-* **Mon Oct 19:** 🧘‍♂️ **Active Recovery & Mobility / Rest**. Gentle 20-min walk, foam roll quads/glutes (ban on lower calf/Achilles), gentle ankle/hip mobility. Upper body lifting optional.
-* **Tue Oct 20:** 🏃‍♂️ **4.5 km Easy Aerobic Flush** (8:45–9:00/km, HR $\le$ 152 BPM, cadence 150–154 SPM). Goal: Leg flushing, zero fatigue.
-* **Wed Oct 21:** 🏋️‍♂️ **Gym Strength: Running Armor (Lower Body)**. Seated calf raises (soleus: 3x12–15 heavy, slow eccentric), Bulgarian split squats (3x8/leg, 2 RIR), tibialis raises (3x20), Copenhagen planks (3x25s/side). $\ge$48h buffer from Sunday long run.
-* **Thu Oct 22:** 🏃‍♂️ **5.0 km Base + 4 Neuromuscular Strides**. 4.5 km conversational base (8:30–8:45/km, HR $\le$ 152) + 4 x 70m relaxed strides on flat road/turf (162–166 SPM turnover, midfoot strike). Full 60s walk recovery between strides.
-* **Fri Oct 23:** 🧘‍♂️ **Active Rest / Core Prehab & Upper Body**. Diaphragmatic core (deadbugs, bird-dogs, side planks with 3:2 belly breathing focus).
-* **Sat Oct 24:** 🏃‍♂️ **5.5 km Aerobic Consolidation Run** (8:30–8:45/km, HR 148–155 BPM, cadence 152–156 SPM). Close Week 13 with total volume ~23 km.
+* **Mon Oct 19 [COMPLETED]:** 🧘‍♂️ **Active Recovery & Mobility / Rest**. Gentle walking and mobility.
+* **Tue Oct 20 [COMPLETED]:** 🏃‍♂️ **6.27 km Easy Base + 6 Fast Strides/Reps** (Part 1: 4.0km @ 8:55/km, HR 145; Part 2: 6 reps down to 4:24/km, HR 191 max, RPE 7).
+* **Wed Oct 21 [COMPLETED]:** 🧘‍♂️ **Rest Day**. Gym skipped to preserve 48h neuromuscular buffer after Tuesday speed.
+* **Thu Oct 22 [COMPLETED]:** 🧘‍♂️ **Rest & Recovery**.
+* **Fri Oct 23 [COMPLETED]:** 🏃‍♂️ **4.54 km Quality: 4 x 1,000m Cruise Intervals** (4x1000m in 5:29, 5:32, 5:27, 5:30 with 2:00 rest; avg pace 5:30/km, HR 180 avg / 197 max, cadence 166–168 SPM, stride 1.08–1.09m, RPE 8). Masterclass pacing control!
+* **Sat Oct 24 [COMPLETED]:** 🧘‍♂️ **Full Rest Day & Active Recovery**. Week 13 closes at 18.82 km total volume. Outstanding volume & speed adaptation.
 
 ---
 
