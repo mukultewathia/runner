@@ -4,6 +4,61 @@
 
 ---
 
+### Date: October 26, 2026
+**Topic: 16.00 km Breakthrough Long Run — 770 ml/hr Sweat Rate Calibration, 140-Min Time-on-Feet, and Acute-to-Chronic Workload Management**
+
+**Source and reported facts:**
+- **[FACT — watch-reported]** Monday morning session recorded on Amazfit T-Rex 3 Pro (48mm). Total distance: **16.001 km** (16,001m across 17 recorded laps); total workout duration: **2:20:29** (8,429s); overall average pace: **8:47/km**; overall average HR: **165 BPM** (Zone 3); peak HR: **188 BPM** (Zone 4); average cadence: **151.4 SPM**; average stride: **0.75m**.
+- **[FACT — athlete-reported]** Pre-run weight: **93.2 kg**; post-run weight: **91.9 kg** (net mass lost: **1.30 kg** = **1.40% dehydration**).
+- **[FACT — athlete-reported]** In-run nutrition & hydration: **500 ml Fast&Up electrolyte fluid** consumed across the run (~sip every 30 mins) + **1 × 45g CHO gel** taken at 50 minutes.
+- **[FACT — athlete-reported]** Chassis feedback: Calves, Achilles tendons, knees, and hips experienced heavy, generalized fatigue at the end of the run; no localized or sharp pain reported. Subjective RPE: **8.5 / 10**.
+
+#### Consolidated Lap Telemetry Table
+| Lap | Distance | Time | Pace | Avg HR | Max HR | Cadence (SPM) | Stride (m) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 1,000m | 10:23 (623s) | 10:22/km | 141 | 155 | 148 | 0.65 |
+| 2 | 999m | 08:47 (527s) | 8:47/km | 157 | 166 | 148 | 0.76 |
+| 3 | 1,000m | 08:43 (523s) | 8:42/km | 156 | 163 | 148 | 0.77 |
+| 4 | 997m | 08:43 (523s) | 8:44/km | 157 | 164 | 150 | 0.76 |
+| 5 | 1,000m | 08:35 (515s) | 8:34/km | 157 | 164 | 150 | 0.77 |
+| 6 | 998m | 08:57 (537s) | 8:58/km | 160 | 170 | 150 | 0.74 |
+| 7 | 1,000m | 09:05 (545s) | 9:04/km | 163 | 169 | 150 | 0.74 |
+| 8 | 998m | 08:16 (496s) | 8:17/km | 168 | 177 | 154 | 0.79 |
+| 9 | 1,000m | 08:45 (525s) | 8:44/km | 168 | 175 | 152 | 0.75 |
+| 10 | 997m | 08:56 (536s) | 8:58/km | 161 | 169 | 150 | 0.74 |
+| 11 | 1,000m | 08:18 (498s) | 8:17/km | 170 | 177 | 154 | 0.78 |
+| 12 | 999m | 08:38 (518s) | 8:38/km | 171 | 177 | 152 | 0.76 |
+| 13 | 999m | 08:52 (532s) | 8:52/km | 175 | 181 | 154 | 0.73 |
+| 14 | 1,000m | 08:26 (506s) | 8:26/km | 179 | 188 | 154 | 0.77 |
+| 15 | 997m | 08:10 (490s) | 8:11/km | 180 | 184 | 156 | 0.78 |
+| 16 | 1,000m | 08:43 (523s) | 8:42/km | 179 | 183 | 154 | 0.74 |
+| 17 | 17m | 00:12 (12s) | 11:08/km | 182 | 183 | 156 | 0.58 |
+
+**Wins:**
+1. **Milestone Aerobic Capacity & Psychological Fortitude:** Continuous movement for 2h 20m across 16.00 km without stoppage. Proves that 75% of full Half Marathon distance is well within current structural capacity.
+2. **Biomechanical Cadence-Velocity Coupling:** Avoided overstriding under fatigue. Stride length remained compact (0.73–0.79m), while cadence appropriately stepped up from 148–150 SPM during base pacing to 154–156 SPM during faster splits (8:11–8:17/km).
+3. **Execution of In-Run Fueling Habit:** Conscious ingestion of 500ml electrolytes and a 45g CHO gel prevented critical electrolyte depletion and acute hypoglycemia.
+
+**Growth Lessons (The 6-Field Standards):**
+
+**Observation 1: Fluid Deficit and Late Cardiovascular Drift**
+1. **Observed Data:** Net weight drop of 1.30 kg (1.40% dehydration) despite consuming 500 ml fluid. Heart rate drifted from 156–157 BPM (Km 2–5) to 175–180 BPM with peak 188 BPM (Km 11–16).
+2. **Interpretation:** Total sweat loss was 1.80 L over 2.33 hours = **~770 ml / hour sweat rate**. The ~1.3 L net fluid deficit reduced plasma volume and stroke volume, elevating cardiac frequency to maintain cardiac output and heat dissipation in Bangalore humidity.
+3. **Confidence:** High.
+4. **Alternative Explanations:** Rising ambient temperature past 8:00 AM; progressive motor unit recruitment from glycogen depletion.
+5. **Action:** Calibrate long run fluid replenishment to 450–600 ml/hour using small, frequent sips. Post-run rehydration target: 1.6–2.0 L with sodium.
+6. **Validation Test:** Stable heart rate ($\le$165 BPM) during 12–14 km long runs when taking 500 ml/hr.
+
+**Observation 2: Acute-to-Chronic Volume Surge and Full-Chain Fatigue**
+1. **Observed Data:** Long run distance jumped from 8.01 km (Oct 18) to 16.00 km (+100%), producing heavy, diffuse fatigue in calves, Achilles, knees, and hips.
+2. **Interpretation:** Over 21,000 ground reaction impacts at 93 kg exhausted the eccentric endurance of the soleus and gastrocnemius, cascading mechanical shock upstream to the patellar tendons and hip abductors.
+3. **Confidence:** High.
+4. **Alternative Explanations:** Muscle glycogen depletion increasing central fatigue and perception of heavy limbs.
+5. **Action:** Mandatory Tuesday passive rest. Defer Wednesday 4x1000m Cruise intervals; replace with gentle flush (4–5 km @ 9:30/km) or rest. Cap Week 14 total volume at 21–25 km.
+6. **Validation Test:** Next morning Achilles/calf palpation and zero localized tendon pain upon waking.
+
+---
+
 ### Date: October 23, 2026
 **Topic: 4x1000m Cruise Intervals — Split Reconciliation, 4-Second Spread, and RPE 8 Effort**
 

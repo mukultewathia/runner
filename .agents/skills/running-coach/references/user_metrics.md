@@ -10,7 +10,7 @@
 | :--- | :--- | :--- |
 | **Age** | 26 | As of 2026 |
 | **Height** | 187 cm | Baseline physical stat |
-| **Current Weight** | 93 kg | Heavy muscle mass from consistent strength training routine |
+| **Current Weight** | ~92–93 kg (93.2 kg pre-run / 91.9 kg post-run) | Heavy muscle mass; Oct 26 16km run showed 1.30 kg acute sweat loss |
 | **HM Target Weight** | 88 – 89 kg | Realistic, sustainable target for Dec 20, 2026 (~0.35–0.4 kg/wk fat loss) |
 | **Long-Term Target Weight**| 85 kg | Optimal for sub-20:00 5K running economy (target for mid-2027) |
 | **Location** | Bengaluru, India | Training environment: hot & humid conditions |
@@ -28,6 +28,7 @@
 | **Working Threshold HR** | ~170–178 BPM | `[UNVALIDATED WORKING MODEL]` | Historical logs assumed ~170–173 BPM, but athlete sustained 191 BPM average for 60 min during Sep 19 10K. This conflict indicates either optical wrist sensor artifact (cadence lock/elevated readings) or an exceptionally high functional threshold. HR cannot be the sole master variable; triangulate with Pace and RPE/Breathing. |
 | **Lactate Threshold Pace** | ~5:35–5:45 /km | Empirical / Inferred | Estimated from 5K (5:33) and 10K (6:00) race splits. Target for Sub-2:00 HM: shift LT pace to ~5:15–5:20/km. |
 | **VO2 Recovery Rate** | Rapid | Empirical | 54 BPM drop in 3 min (192 $\rightarrow$ 138) observed Aug 28 post-5K. Indicates strong parasympathetic cardiac recovery. |
+| **Empirical Sweat Rate** | **~770 ml / hour** | Empirical | Validated Oct 26, 2026: 1.30 kg net body mass loss + 500 ml fluid intake across 2:20:29 (1.80 L total sweat loss) in Bengaluru morning climate. |
 
 ---
 
@@ -83,6 +84,7 @@
 | **5K Previous Baseline** | 29:07 (5:49/km) | Avg 187 BPM | Aug 28, 2026 | 32.2 | Broke 30:00 barrier. Negative split: 6:05 opening to 5:06 final km. |
 | **3.5K Tempo** | 19:32 (5:35/km) | 185 BPM | Jul 17, 2026 | — | Hard sustained effort. |
 | **400m Interval (fastest)**| 1:51 (4:36/km) | Peak 182 | Jul 8, 2026 | — | 6x400m session rep. |
+| **16.0km Long Run (LSD)** | **2:20:29 (8:47/km)** | Avg 165 BPM (Max 188) | Oct 26, 2026 | ~30.0 | 🏁 **LONGEST RUN IN MACROCYCLE.** 16.001 km continuous time-on-feet (140 mins). Negative split back half (Km 11–15: 42:24, 8:29/km, HR 175 avg). Stride capped at 0.75m avg (zero overstriding). Empirical sweat rate 770 ml/hr. Heavy kinetic chain fatigue post-run. |
 | **12.4km LSD** | 1:53:18 (9:08/km) | 147 BPM | Jul 12, 2026 | — | High aerobic discipline, but volume overreach (target was 8 km). |
 
 ### Current VDOT Analysis & Half Marathon Projection (Critical Audit: Oct 18, 2026):
