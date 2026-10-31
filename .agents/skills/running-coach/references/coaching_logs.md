@@ -4,6 +4,69 @@
 
 ---
 
+### Date: October 30, 2026
+**Topic: 4.01 km Continuous Steady/Sub-Threshold Tempo — 8-Second Spread, 164 SPM Turnover, and Cadence Efficiency**
+
+**Source and reported facts:**
+- **[FACT — watch-reported]** Friday night session (09:57 PM) recorded on Amazfit T-Rex 3 Pro (48mm) via Zepp. Total distance: **4.01 km**; moving duration: **27:34** (elapsed: 27m39s / 1,659s); overall average pace: **6:52/km** (GAP 6:54/km); average HR: **167 BPM** (81% Max HR); max HR: **179 BPM** (87% Max HR); average cadence: **164 SPM** (watch doubled: 82); average stride: **0.89m**; elevation climbing: **23m**; workout load: **31**; intensity: **82%**; subjective RPE: **5**.
+
+#### Split Telemetry Table
+| Lap | Distance | Time | Pace | Avg HR | Max HR | Cadence (SPM) | Stride (m) | Gradient |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 1,000m | 06:58 (418s) | 6:56/km | 154 | 166 | 162 | 0.89 | -0.1% |
+| 2 | 998m | 06:55 (415s) | 6:56/km | 167 | 174 | 164 | 0.88 | 0.0% |
+| 3 | 998m | 06:48 (408s) | 6:48/km | 171 | 176 | 162 | 0.90 | -0.1% |
+| 4 | 1,000m | 06:55 (415s) | 6:54/km | 174 | 179 | 164 | 0.89 | 0.0% |
+| 5 | 4m | 00:03 (3s) | 10:11/km | 174 | 175 | 164 | 0.60 | 0.0% |
+
+**Wins:**
+1. **Metronomic Sub-Threshold Pacing:** Total spread across all 4 kilometers was just 8 seconds (6:48 to 6:56/km). Avoided any premature sprinting or late fade.
+2. **Biomechanical Step-Up (164 SPM):** Stepped up cadence from Thursday's 160 SPM to 164 SPM while maintaining a compact 0.88–0.90m stride. Running at higher turnover reduces ground contact time and peak Achilles loading.
+3. **Cardiovascular Ceiling Retention:** Max HR remained capped at 179 BPM (~87% Max HR), staying strictly within sub-threshold territory (Zone 3/4) with zero drift into Zone 5 redline.
+
+**Growth Lesson (The 6-Field Standard):**
+1. **Observed Data:** Ran 6:52/km with average HR 167 BPM and max HR 179 BPM on Friday night, 24 hours after a 7.06 km Thursday double.
+2. **Interpretation:** `[INFERENCE]` **6:50–6:55/km** represents the athlete's current sustainable "Aerobic Threshold / Steady Zone 3" rhythm at ~94 kg.
+3. **Confidence:** High.
+4. **Alternative Explanations:** Night running conditions (lower heat load) aiding heart rate stability.
+5. **Action:** Anchor this rhythm for sustained cruise blocks and Half Marathon specific pace segments in Phase 3.
+6. **Validation Test:** Evaluate cardiac stability during a 5–6 km continuous block at 6:50/km in Week 16.
+
+---
+
+### Date: October 29, 2026
+**Topic: Thursday Double Session (7.06 km Total) — Part A: 4.00 km Base Reset (HR 146) + Part B: 3.06 km Continuous Float Fartlek (3x ON/FLOAT)**
+
+**Source and reported facts:**
+- **[FACT — watch-reported]** Thursday evening double recorded on Amazfit T-Rex 3 Pro (48mm) via Zepp.
+- **Part A (07:38 PM, Activity i203198542):** Distance: **4.00 km**; moving duration: **34:22** (elapsed 34m23s); average pace: **8:34/km** (GAP 8:34/km); average HR: **146 BPM**; max HR: **162 BPM**; cadence: **152 SPM** (watch doubled: 76); stride: **0.76m**; climbing: **22m**; load: **25**; RPE: **3**.
+- **Part B (08:18 PM, Activity i203212340):** Started 16 minutes after Part A. Distance: **3.06 km**; moving duration: **21:20** (elapsed 21m25s); average pace: **6:57/km** (GAP 6:59/km); average HR: **167 BPM**; max HR: **180 BPM**; cadence: **160 SPM** (watch doubled: 80); stride: **0.89m**; climbing: **18m**; load: **23**; RPE: **4**. Structure: 3 continuous sets of ~710m ON / ~300m active FLOAT recovery.
+
+#### Part A Split Telemetry Table (4.00 km Base)
+| Lap | Distance | Time | Pace | Avg HR | Max HR | Cadence (SPM) | Stride (m) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 1,000m | 08:37 (517s) | 8:35/km | 137 | 162 | 152 | 0.77 |
+| 2 | 999m | 08:22 (502s) | 8:22/km | 146 | 152 | 152 | 0.79 |
+| 3 | 1,000m | 08:27 (507s) | 8:27/km | 148 | 155 | 152 | 0.78 |
+| 4 | 997m | 08:57 (537s) | 8:59/km | 151 | 162 | 152 | 0.73 |
+
+#### Part B Split Telemetry Table (3.06 km Float Fartlek)
+| Lap | Segment Type | Distance | Time | Pace | Avg HR | Max HR | Cadence (SPM) | Stride (m) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Work (ON) | 712m | 04:47 (287s) | 6:43/km | 158 | 175 | 160 | 0.93 |
+| 2 | Float (REC) | 304m | 02:21 (141s) | 7:43/km | 164 | 177 | 156 | 0.83 |
+| 3 | Work (ON) | 709m | 04:44 (284s) | 6:40/km | 171 | 176 | 162 | 0.93 |
+| 4 | Float (REC) | 304m | 02:20 (140s) | 7:39/km | 168 | 171 | 156 | 0.84 |
+| 5 | Work (ON) | 708m | 04:44 (284s) | 6:41/km | 172 | 180 | 162 | 0.92 |
+| 6 | Float (REC) | 327m | 02:29 (149s) | 7:36/km | 170 | 180 | 156 | 0.84 |
+
+**Wins:**
+1. **Cardiovascular Recovery Validation (Part A):** 72 hours post-16km, average HR held at 146 BPM at 8:34/km pace, confirming complete parasympathetic recovery before initiating speed work.
+2. **Active Aerobic Clearance (Part B):** Executed a continuous float fartlek where recoveries were actively jogged at 7:36–7:43/km.
+3. **Split Discipline:** "ON" segments were tightly clustered at 6:43, 6:40, 6:41/km with cadence lifting cleanly from 156 to 160–162 SPM.
+
+---
+
 ### Date: October 26, 2026
 **Topic: 16.00 km Breakthrough Long Run — 770 ml/hr Sweat Rate Calibration, 140-Min Time-on-Feet, and Acute-to-Chronic Workload Management**
 

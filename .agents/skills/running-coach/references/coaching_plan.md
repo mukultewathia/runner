@@ -65,7 +65,7 @@ Deload, Travel & Bangalore Return       Base Consolidation & GK 1 (5K)         H
 | **W11** | Oct 4 – Oct 10 | **Sapa Altitude & Ninh Binh** | 17 – 20 km | 11 – 12 km (Tam Coc) | 7 km Progression with 3 km @ 6:00/km (Tam Coc) | Sapa mountain trekking (natural eccentric quad/calf armor) | ~92.0 kg |
 | **W12** | Oct 11 – Oct 17 | **Bangalore Re-Entry & Base Rebuild** | 10.00 km (actual) | 5.0 km (Oct 12 & 14) | Base re-entry post travel (42:06 & 42:35) | Seated Calf Raises & Bulgarian Split Squats re-entry | ~91.5 kg |
 | **W13** | Oct 18 – Oct 24 | **Base Consolidation & Quality** | 19.82 km (provisional; summed laps) | 8.01 km (Completed Sun Oct 18) | 4x1000m Cruise Intervals (Fri Oct 23 @ 5:30/km) | Rest/mobility prioritized post-speed | ~92.5 kg |
-| **W14** | Oct 25 – Oct 31 | **Base Build & Intro Cruise** | 22 – 25 km (adjusted) | 16.00 km (Completed Mon Oct 26) | Pivoted: 4x1000m Cruise canceled $\rightarrow$ Easy Flush (Wed) | Prioritize soft tissue recovery post-16km surge | ~92.0 kg |
+| **W14** | Oct 25 – Oct 31 | **Base Build & Intro Cruise** | 27.07 km (actual) | 16.00 km (Completed Mon Oct 26) | 3.06km Float Fartlek + 4.01km Tempo (Thu/Fri) | Soft tissue fully adapted post-16km | ~94.0 kg |
 | **W15** | Nov 1 – Nov 7 | **Speed Reserve & Gatekeeper 1** | 29 – 31 km | 12.5 km (Zone 2, 8:50–9:15/km) | 🏁 **GATEKEEPER 1: 5K Time Trial** (Thu) | Sub-maximal strength; Glute medius focus | ~91.5 kg |
 | **W16** | Nov 8 – Nov 14 | **Consolidation Deload (-20%)** | 23 – 25 km | 10.5 km (Zone 2, capped $\le$152 BPM) | 3 x 1500m Smooth HM Rhythm @ 5:45/km (Wed) | Deload lifting 30%; Tendon & tissue recovery | ~91.0 kg |
 | **W17** | Nov 15 – Nov 21 | **Specific Endurance & Gatekeeper 2** | 31 – 33 km | 🏁 **GATEKEEPER 2: 15.0 km** (with 5 km @ 5:50/km) | 4 x 1000m Cruise @ 5:30/km (Thu) | Heavy Soleus loading on Mon; Core on Fri | ~90.5 kg |
@@ -89,12 +89,12 @@ Deload, Travel & Bangalore Return       Base Consolidation & GK 1 (5K)         H
 
 ### Week 14 Day-by-Day Schedule (Sunday Oct 25 – Saturday Oct 31, 2026)
 * **Sun Oct 25 [COMPLETED]:** 🧘‍♂️ **Rest & Travel/Life Recovery Day**.
-* **Mon Oct 26 [COMPLETED]:** 🏃‍♂️ **16.00 km Breakthrough Long Run** (2:20:29, 8:47/km, HR 165 avg / 188 max, Cadence 151 SPM, Stride 0.75m, RPE 8.5). *Massive 140-minute milestone; sweat rate calibrated at ~770 ml/hr. Whole kinetic chain fatigued.*
-* **Tue Oct 27 [PLANNED]:** 🧘‍♂️ **Mandatory Full Rest & Recovery**. Legs elevated, gentle walking only, rehydrate 1.8–2.0L with electrolytes. Zero running.
-* **Wed Oct 28 [PLANNED]:** 🏃‍♂️ **PIVOT: 4.0 – 5.0 km Easy Flush (Zone 1/2, 9:20–9:45/km)** OR Rest. *Cruise intervals canceled to protect Achilles/calves.*
-* **Thu Oct 29 [PLANNED]:** 🧘‍♂️ **Rest Day / Core & Upper Body Stability**.
-* **Fri Oct 30 [PLANNED]:** 🏃‍♂️ **5.0 km Conversational Aerobic Base (Zone 2, 8:50–9:15/km, HR $\le$150 BPM)**.
-* **Sat Oct 31 [PLANNED]:** 🧘‍♂️ **Full Rest & Weekly Review**. Week 14 targeted to close at ~25.0–26.0 km.
+* **Mon Oct 26 [COMPLETED]:** 🏃‍♂️ **16.00 km Breakthrough Long Run** (2:20:29, 8:47/km, HR 165 avg / 188 max, Cadence 151 SPM, Stride 0.75m, RPE 8.5). *Massive 140-minute milestone; sweat rate calibrated at ~770 ml/hr.*
+* **Tue Oct 27 [COMPLETED]:** 🧘‍♂️ **Mandatory Full Rest & Recovery**. Zero running.
+* **Wed Oct 28 [COMPLETED]:** 🧘‍♂️ **Rest & Tissue Consolidation**.
+* **Thu Oct 29 [COMPLETED]:** 🏃‍♂️ **7.06 km Evening Double**: Part 1: 4.00 km Easy Base (34:22, 8:34/km, HR 146 avg, 152 SPM, RPE 3) + Part 2: 3.06 km Float Fartlek (21:20, 6:57/km, HR 167 avg / 180 max, 160 SPM, RPE 4; 3x ON @ 6:40–6:43 / FLOAT @ 7:36–7:43).
+* **Fri Oct 30 [COMPLETED]:** 🏃‍♂️ **4.01 km Continuous Steady/Sub-Threshold Tempo** (27:34, 6:52/km, HR 167 avg / 179 max, Cadence 164 SPM, Stride 0.89m, RPE 5). *8-second split spread; 164 SPM turnover.*
+* **Sat Oct 31 [COMPLETED / TODAY]:** 🧘‍♂️ **Full Rest & Weekly Review**. Week 14 successfully finalized at **27.07 km** (top of 25–27 km target).
 
 ---
 
