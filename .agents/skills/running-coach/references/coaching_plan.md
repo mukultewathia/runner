@@ -66,7 +66,7 @@ Deload, Travel & Bangalore Return       Base Consolidation & GK 1 (5K)         H
 | **W12** | Oct 11 – Oct 17 | **Bangalore Re-Entry & Base Rebuild** | 10.00 km (actual) | 5.0 km (Oct 12 & 14) | Base re-entry post travel (42:06 & 42:35) | Seated Calf Raises & Bulgarian Split Squats re-entry | ~91.5 kg |
 | **W13** | Oct 18 – Oct 24 | **Base Consolidation & Quality** | 19.82 km (provisional; summed laps) | 8.01 km (Completed Sun Oct 18) | 4x1000m Cruise Intervals (Fri Oct 23 @ 5:30/km) | Rest/mobility prioritized post-speed | ~92.5 kg |
 | **W14** | Oct 25 – Oct 31 | **Base Build & Intro Cruise** | 27.07 km (actual) | 16.00 km (Completed Mon Oct 26) | 3.06km Float Fartlek + 4.01km Tempo (Thu/Fri) | Soft tissue fully adapted post-16km | ~94.0 kg |
-| **W15** | Nov 1 – Nov 7 | **Speed Reserve & Gatekeeper 1** | 29 – 31 km | 12.5 km (Zone 2, 8:50–9:15/km) | 🏁 **GATEKEEPER 1: 5K Time Trial** (Thu) | Sub-maximal strength; Glute medius focus | ~91.5 kg |
+| **W15** | Nov 1 – Nov 7 | **Calf symptom reassessment; progression paused** | 17.01 km completed through Nov 2; original 29–31 km target conditional on recovery | 12.00 km completed Nov 2 (8:55/km watch, HR 142); calf symptoms reported | Original Thu 5K time trial: coach recommends postponing pending symptom-free return | Avoid heavy calf loading while symptomatic; reassess function | ~91.5 kg (original target, not measured) |
 | **W16** | Nov 8 – Nov 14 | **Consolidation Deload (-20%)** | 23 – 25 km | 10.5 km (Zone 2, capped $\le$152 BPM) | 3 x 1500m Smooth HM Rhythm @ 5:45/km (Wed) | Deload lifting 30%; Tendon & tissue recovery | ~91.0 kg |
 | **W17** | Nov 15 – Nov 21 | **Specific Endurance & Gatekeeper 2** | 31 – 33 km | 🏁 **GATEKEEPER 2: 15.0 km** (with 5 km @ 5:50/km) | 4 x 1000m Cruise @ 5:30/km (Thu) | Heavy Soleus loading on Mon; Core on Fri | ~90.5 kg |
 | **W18** | Nov 22 – Nov 28 | **Peak LSD & Gatekeeper 3** | 32 – 34 km | 🏁 **GATEKEEPER 3: 16.5 – 17.0 km Peak LSD** (Full Fueling Simulation) | 3 km continuous tempo @ 5:45/km (Wed) | FINAL heavy leg session; transition to prehab | ~90.0 kg |
@@ -95,6 +95,15 @@ Deload, Travel & Bangalore Return       Base Consolidation & GK 1 (5K)         H
 * **Thu Oct 29 [COMPLETED]:** 🏃‍♂️ **7.06 km Evening Double**: Part 1: 4.00 km Easy Base (34:22, 8:34/km, HR 146 avg, 152 SPM, RPE 3) + Part 2: 3.06 km Float Fartlek (21:20, 6:57/km, HR 167 avg / 180 max, 160 SPM, RPE 4; 3x ON @ 6:40–6:43 / FLOAT @ 7:36–7:43).
 * **Fri Oct 30 [COMPLETED]:** 🏃‍♂️ **4.01 km Continuous Steady/Sub-Threshold Tempo** (27:34, 6:52/km, HR 167 avg / 179 max, Cadence 164 SPM, Stride 0.89m, RPE 5). *8-second split spread; 164 SPM turnover.*
 * **Sat Oct 31 [COMPLETED / TODAY]:** 🧘‍♂️ **Full Rest & Weekly Review**. Week 14 successfully finalized at **27.07 km** (top of 25–27 km target).
+
+---
+
+### Week 15 Status (Sunday Nov 1 – Saturday Nov 7, 2026; updated Nov 2)
+
+* **Sun Nov 1 [COMPLETED]:** 5.01km progressive easy-pace run, 44:03.41, watch pace 8:47/km, HR 151, cadence 147spm. Full-km splits 9:40, 9:04, 8:31, 8:17, 8:23; final two lap HR averages 160bpm. Intended intensity, RPE and symptoms for this session unconfirmed.
+* **Mon Nov 2 [COMPLETED]:** 12.00km long run, 1:47:13.62, watch pace 8:55/km, HR 142, cadence 151spm. Athlete reported lower-inner-calf strain-like discomfort resolving by ~3km, then lower-leg fatigue after ~6km. Side unconfirmed; soleus suspected by athlete, not diagnosed.
+* **Completed volume:** 17.01km; device workout time 2:31:17.03. No remaining-week activities marked completed.
+* **[COACH RECOMMENDATION — not completed activity]:** Approximately 48h away from running and heavy calf loading, then symptom/function reassessment. Postpone Thursday's planned 5K time trial. Pause long-run progression and do not chase the original mileage target. Comfortable brisk walking and restored calf function should precede a short, flat easy return; monitor during and the following morning. Persistent/recurrent focal discomfort warrants sports-physio review. See Nov 2 coaching log.
 
 ---
 
