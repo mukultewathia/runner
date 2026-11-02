@@ -4,6 +4,80 @@
 
 ---
 
+### Date: November 2, 2026
+**Topic: November 1 progression (5.01 km) and November 2 long run (12.00 km); lower-inner-calf discomfort and late lower-leg fatigue**
+
+**Sources and limitations**
+- [FACT — watch-reported] Four athlete-supplied Zepp/Amazfit T-Rex 3 Pro (48mm) screenshots show two workout summaries and their lap tables. No raw FIT/GPX/TCX or complete HR trace supplied.
+- Nov 1, 10:47: 5.01km, 44:03.41, displayed average pace 8:47/km, GAP 8:46/km, average HR 151bpm, cadence 147spm; 532 watch-estimated kcal.
+- Nov 2, 06:47: 12.00km, 1:47:13.62, displayed average pace 8:55/km, GAP 8:56/km, average HR 142bpm, cadence 151spm; 1,189 watch-estimated kcal.
+- Max HR is not visible in the supplied screenshots. The column after lap HR is cadence, not max HR.
+- Device summary values are retained as displayed. Listed lap times sum to 43:57.45 for the five full Nov 1 kilometres and 1:47:10.12 for Nov 2; these are respectively 5.96s and 3.50s below the summary times. The final ~0.01km of Nov 1 is not separately shown. Small total/pace discrepancies remain unreconciled without a raw export.
+- Numeric RPE, conversational ability, weather, course details, fueling, swelling, current walking symptoms and next-day response are not reported.
+
+**November 2 athlete symptom report**
+- [FACT — athlete-reported] Strain-like discomfort in the lower inner calf settled after approximately 3km; lower legs began feeling fatigued after approximately 6km.
+- Affected leg/side remains unconfirmed because the dictated description is ambiguous. The athlete suspects soleus involvement; this is not an established muscle/tendon diagnosis.
+- These symptoms were reported in follow-up to the Nov 2 long-run analysis; symptoms during Nov 1 were not separately described.
+
+**November 2 lap telemetry**
+| Km | Pace (/km) | GAP (/km) | Lap time | Avg HR (bpm) | Cadence (spm) | Reported step length (m) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 9:08 | 9:10 | 09:08.52 | 120 | 131 | 0.82 |
+| 2 | 8:47 | 8:48 | 08:47.70 | 132 | 150 | 0.75 |
+| 3 | 8:40 | 8:41 | 08:40.67 | 138 | 152 | 0.75 |
+| 4 | 8:38 | 8:37 | 08:38.35 | 144 | 153 | 0.75 |
+| 5 | 8:24 | 8:25 | 08:24.82 | 146 | 153 | 0.77 |
+| 6 | 8:39 | 8:39 | 08:39.36 | 147 | 153 | 0.75 |
+| 7 | 9:12 | 9:13 | 09:12.91 | 145 | 152 | 0.71 |
+| 8 | 9:14 | 9:15 | 09:14.92 | 145 | 152 | 0.70 |
+| 9 | 9:12 | 9:13 | 09:12.89 | 147 | 153 | 0.70 |
+| 10 | 9:17 | 9:18 | 09:17.90 | 146 | 152 | 0.70 |
+| 11 | 8:55 | 8:55 | 08:55.54 | 150 | 153 | 0.72 |
+| 12 | 8:56 | 8:54 | 08:56.54 | 153 | 153 | 0.72 |
+
+**November 1 lap telemetry**
+| Km | Pace (/km) | GAP (/km) | Lap time | Avg HR (bpm) | Cadence (spm) | Reported step length (m) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 9:40 | 9:39 | 09:40.79 | 138 | 142 | 0.72 |
+| 2 | 9:04 | 9:03 | 09:04.90 | 147 | 148 | 0.73 |
+| 3 | 8:31 | 8:31 | 08:31.36 | 154 | 151 | 0.77 |
+| 4 | 8:17 | 8:17 | 08:17.13 | 160 | 150 | 0.79 |
+| 5 | 8:23 | 8:23 | 08:23.27 | 160 | 145 | 0.82 |
+
+**Wins**
+- Nov 1: progressively faster splits, with final two kilometres near 8:20/km and no large finishing pace collapse.
+- Nov 2: cadence remained approximately 152–153spm from km 3 onward despite a middle-to-late slowdown. Lower watch HR persisted beyond the opening warm-up: km 3–12 time-weighted lap HR approximately 146bpm.
+- Nov 2: pace recovered to roughly 8:56/km across the last two kilometres, at approximately 152bpm.
+
+**Key deviation — six-field assessment**
+1. Observed data: Nov 2 km 4–6 averaged ~8:34/km, HR ~146, cadence 153spm and step lengths 0.75–0.77m. Km 7–10 averaged ~9:15/km, HR ~146, cadence 152–153spm and step lengths 0.70–0.71m. Athlete reports lower-leg fatigue beginning after ~6km.
+2. Interpretation: [INFERENCE] Lower-leg fatigue plausibly contributed to shorter steps and slower pace while turnover was retained. Early focal discomfort and later generalized fatigue may have different causes. Low recorded HR does not establish low local tissue loading.
+3. Confidence: Moderate for fatigue contributing to the slowdown; low for any specific anatomical diagnosis.
+4. Alternatives: Deliberate pace reduction, interruptions/walking, wind, environmental conditions, fueling and sensor/GPS error. Near-identical pace/GAP provides little positive evidence for hills as the main explanation, but does not establish an entirely flat route.
+5. Action: Coach recommended approximately 48h away from running and heavy calf loading, comfortable daily movement, avoiding aggressive treatment of the sore area, postponing the planned 5K time trial, and pausing long-run progression pending symptom reassessment. Recommendations are not completed actions.
+6. Validation: Clarify affected side and current walking symptoms; assess next-morning symptoms. After comfortable brisk walking and recovery of normal calf function, a short flat easy return with no symptom increase during or the following morning would support improved load tolerance. Persistent/recurrent focal symptoms warrant sports-physio assessment.
+
+**HR and historical comparison**
+- [FACT — derived approximately from recorded laps] First 12km of Oct 26 averaged ~8:51/km and time-weighted lap HR ~160bpm; Nov 2 summary reports 8:55/km and 142bpm.
+- [INFERENCE] Nov 2 had lower recorded cardiovascular strain at similar pace. This does not prove an ~18bpm fitness improvement in one week; weather, hydration, pacing, fatigue and sensor variation remain confounders.
+- Nov 1 HR progression 138 to 160bpm occurred alongside marked acceleration; it cannot be labelled pure cardiac drift. Formal aerobic decoupling is not established from these screenshots.
+- Nov 1 final-km cadence decreased to 145spm while step length increased to 0.82m; those metrics alone cannot establish overstriding or injury risk.
+
+**Training load and revised recommendation**
+- Week 15 (Sun Nov 1–Sat Nov 7): 17.01km completed through Monday; 2:31:17.03 total device workout time. Starts were 20h apart (not 20h recovery after the first finish).
+- Prior full week: 27.07km; trailing seven calendar days Oct 27–Nov 2: 28.08km from currently logged/supplied runs.
+- Previous week included Oct 26 16km and Oct 29/30 faster work. Accumulated load is a plausible contributor, not a proven cause.
+- Earlier advice to repeat a 12–13km long run is superseded by symptom-led reassessment. No make-up mileage or time-trial deadline should override symptoms.
+- Marked swelling/redness/warmth, sudden severe pain or difficulty bearing weight should prompt medical assessment.
+
+**Clinical guidance consulted (Nov 2, 2026)**
+- https://www.guysandstthomas.nhs.uk/health-information/achilles-tendinopathy — symptoms can ease with movement; that pattern alone does not prove recovery or identify the affected structure.
+- https://www.nhsinform.scot/illnesses-and-conditions/muscle-bone-and-joints/leg-and-foot-problems-and-conditions/calf-problems — initial activity modification with comfortable movement.
+- https://www.hey.nhs.uk/patient-leaflet/soft-tissue-injury-calf-strain/ — return requires restored function and comfortable brisk walking; avoid aggressive treatment of an acutely sore area.
+
+---
+
 ### Date: October 30, 2026
 **Topic: 4.01 km Continuous Steady/Sub-Threshold Tempo — 8-Second Spread, 164 SPM Turnover, and Cadence Efficiency**
 
