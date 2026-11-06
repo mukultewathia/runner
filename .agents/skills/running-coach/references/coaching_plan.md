@@ -9,7 +9,7 @@
 **1. Primary Target: Times Internet Bengaluru Half Marathon (21.0975 km)**  
 * **Target Date:** December 20th, 2026 (Sunday)  
 * **Primary Target Time:** **Sub-2:10:00 (5:58 – 6:09 /km)**; Moonshot: **Sub-2:00:00 (5:41 /km)**  
-* **Benchmark Reference:** 10K PB of 1:00:02 (Sep 19, 2026; 80m elevation) & 5K PB of 27:46 (Sep 9, 2026).  
+* **Benchmark Reference:** 10K recorded 10.00km split of 1:00:02 (Sep 19, 2026; 80m elevation) & current recorded 5K of 26:45.64 (five full-km laps, Nov 6; full activity 5.01km / 26:49 moving; exact Strava best effort and elapsed time not shown).  
 * **Current Phase:** Phase 2 (Weeks 13–15) — Base Expansion, Strides & Speed Reserve.
 
 **2. Intermediate Event: Bengaluru Midnight Marathon 10K (KTPO Whitefield)**  
@@ -22,6 +22,8 @@
 ## 🎯 Goal Hierarchy & Gatekeeper Framework
 
 To prevent unrealistic pacing on race day, the race strategy is governed by three objective diagnostic gatekeepers:
+
+**November 6 performance update:** The recorded 5K is 26:45.64 from five full-km laps (5.01km activity / 26:49 moving), meeting the sub-27:00 criterion for the sub-2:10 pathway. The sub-26:15 stretch criterion and longer endurance criteria remain unmet/unconfirmed. Breathing became very heavy just after 3km; calves felt good during the TT, with next-morning response still unreported. Keep the primary HM target at sub-2:10 and sub-2:00 as a stretch; historical probabilities below are not recalculated from this session.
 
 | Tier | Target Time | Average Pace | Current Probability | Required Physiological Gatekeepers |
 | :--- | :--- | :--- | :--- | :--- |
@@ -66,7 +68,7 @@ Deload, Travel & Bangalore Return       Base Consolidation & GK 1 (5K)         H
 | **W12** | Oct 11 – Oct 17 | **Bangalore Re-Entry & Base Rebuild** | 10.00 km (actual) | 5.0 km (Oct 12 & 14) | Base re-entry post travel (42:06 & 42:35) | Seated Calf Raises & Bulgarian Split Squats re-entry | ~91.5 kg |
 | **W13** | Oct 18 – Oct 24 | **Base Consolidation & Quality** | 19.82 km (provisional; summed laps) | 8.01 km (Completed Sun Oct 18) | 4x1000m Cruise Intervals (Fri Oct 23 @ 5:30/km) | Rest/mobility prioritized post-speed | ~92.5 kg |
 | **W14** | Oct 25 – Oct 31 | **Base Build & Intro Cruise** | 27.07 km (actual) | 16.00 km (Completed Mon Oct 26) | 3.06km Float Fartlek + 4.01km Tempo (Thu/Fri) | Soft tissue fully adapted post-16km | ~94.0 kg |
-| **W15** | Nov 1 – Nov 7 | **Calf symptom reassessment; progression paused** | 17.01 km completed through Nov 2; original 29–31 km target conditional on recovery | 12.00 km completed Nov 2 (8:55/km watch, HR 142); calf symptoms reported | Original Thu 5K time trial: coach recommends postponing pending symptom-free return | Avoid heavy calf loading while symptomatic; reassess function | ~91.5 kg (original target, not measured) |
+| **W15** | Nov 1 – Nov 7 | **5K TT completed; recovery and calf monitoring** | 22.02km confirmed through Nov 6; other sessions/warm-up unreported; no make-up mileage | 12.00km completed Nov 2 (8:55/km watch, HR 142); calf symptoms reported then | Fri Nov 6: 5.01km / 26:49 moving; five full-km laps 26:45.64; sub-27 criterion met; breathing limiter after 3km | Calves good during TT; next-morning check pending; no further hard work before recovery | ~91.5 kg (original target, not measured) |
 | **W16** | Nov 8 – Nov 14 | **Consolidation Deload (-20%)** | 23 – 25 km | 10.5 km (Zone 2, capped $\le$152 BPM) | 3 x 1500m Smooth HM Rhythm @ 5:45/km (Wed) | Deload lifting 30%; Tendon & tissue recovery | ~91.0 kg |
 | **W17** | Nov 15 – Nov 21 | **Specific Endurance & Gatekeeper 2** | 31 – 33 km | 🏁 **GATEKEEPER 2: 15.0 km** (with 5 km @ 5:50/km) | 4 x 1000m Cruise @ 5:30/km (Thu) | Heavy Soleus loading on Mon; Core on Fri | ~90.5 kg |
 | **W18** | Nov 22 – Nov 28 | **Peak LSD & Gatekeeper 3** | 32 – 34 km | 🏁 **GATEKEEPER 3: 16.5 – 17.0 km Peak LSD** (Full Fueling Simulation) | 3 km continuous tempo @ 5:45/km (Wed) | FINAL heavy leg session; transition to prehab | ~90.0 kg |
@@ -98,12 +100,14 @@ Deload, Travel & Bangalore Return       Base Consolidation & GK 1 (5K)         H
 
 ---
 
-### Week 15 Status (Sunday Nov 1 – Saturday Nov 7, 2026; updated Nov 2)
+### Week 15 Status (Sunday Nov 1 – Saturday Nov 7, 2026; updated Nov 6)
 
 * **Sun Nov 1 [COMPLETED]:** 5.01km progressive easy-pace run, 44:03.41, watch pace 8:47/km, HR 151, cadence 147spm. Full-km splits 9:40, 9:04, 8:31, 8:17, 8:23; final two lap HR averages 160bpm. Intended intensity, RPE and symptoms for this session unconfirmed.
 * **Mon Nov 2 [COMPLETED]:** 12.00km long run, 1:47:13.62, watch pace 8:55/km, HR 142, cadence 151spm. Athlete reported lower-inner-calf strain-like discomfort resolving by ~3km, then lower-leg fatigue after ~6km. Side unconfirmed; soleus suspected by athlete, not diagnosed.
-* **Completed volume:** 17.01km; device workout time 2:31:17.03. No remaining-week activities marked completed.
-* **[COACH RECOMMENDATION — not completed activity]:** Approximately 48h away from running and heavy calf loading, then symptom/function reassessment. Postpone Thursday's planned 5K time trial. Pause long-run progression and do not chase the original mileage target. Comfortable brisk walking and restored calf function should precede a short, flat easy return; monitor during and the following morning. Persistent/recurrent focal discomfort warrants sports-physio review. See Nov 2 coaching log.
+* **Fri Nov 6 [COMPLETED]:** 5.01km time trial in Saket, Delhi, 19:43 IST; 26:49 moving, 5:21/km, HR 190 average, peak unreported, 0m recorded gain. Five full-km laps total 26:45.64, approximately 60s faster than Sep 9. Breathing became very heavy just after 3km and was the reported limiter; calves felt good during the run. See Nov 6 coaching log.
+* **Completed recorded volume:** 22.02km from Nov 1, 2 and 6. Nov 1–2 device workout time 2:31:17.03 plus Nov 6 moving time 26:49; combined elapsed time is not established. Nov 3–5 and separate warm-up/cooldown records are unreported, not assumed rest.
+* **[CURRENT COACH RECOMMENDATION — not completed activity]:** Rest from running Nov 7; assess next-morning calf response, then return with short easy running if comfortable. Do not add make-up mileage or further hard work before recovery. A future 26:30 TT target with a 5:23–5:25 opening is conditional on recovery, not a newly scheduled workout. Existing Week 16 sessions remain conditional on recovery; subsequent endurance work is still needed to assess the HM goal.
+* **[HISTORICAL NOV 2 COACH RECOMMENDATION — not completed activity]:** Approximately 48h away from running and heavy calf loading, then symptom/function reassessment. Postpone Thursday's planned 5K time trial. Pause long-run progression and do not chase the original mileage target. Comfortable brisk walking and restored calf function should precede a short, flat easy return; monitor during and the following morning. Persistent/recurrent focal discomfort warrants sports-physio review. See Nov 2 coaching log.
 
 ---
 

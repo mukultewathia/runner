@@ -79,7 +79,8 @@
 | Distance / Effort | Time / Pace | Avg HR | Date | VDOT (Daniels) | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **10K Official Race** | **1:00:02 (10.00km split)** / 1:02:34 (10.39km) (6:00/km split) | Avg 191 BPM (Max 201) | Sep 19, 2026 | **32.5** | 🏁 **OFFICIAL 10K PB.** Course included ~80m cumulative elevation gain, which likely imposed a modest metabolic cost; raw 1:00:02 understates flat capacity somewhat (magnitude uncertain). Splits: 6:09, 5:53, 5:50, 5:54, 5:59, 6:07, 6:14, 6:00, 6:12, and 5:43 final km kick. Zero walk breaks. |
-| **5K Time Trial** | **27:46 (5:33/km)** | Avg 184 BPM (Max 195) | Sep 9, 2026 | **34.2** | 🏁 **OFFICIAL 5K PB.** Pacing: 5:33, 5:34, 5:43, 5:28, 5:28. Maintained 166 SPM cadence. Diaphragm held with zero stitch using 3:2 breathing rhythm. |
+| **5K Time Trial — Current Recorded PB** | **26:45.64 lap-derived 5.00km (~5:21/km)**; 5.01km moving time 26:49 | Avg 190 BPM; peak not supplied | Nov 6, 2026 | — | Saket, Delhi; device-reported 0m gain. Exact laps 5:09.95, 5:17.04, 5:18.18, 5:33.39, 5:27.08. Positive split; very heavy breathing just after 3km was the reported limiter; calves felt good during the run. About 60s faster than Sep 9. Strava exact best-effort time not shown (banner reports 1:01 improvement); elapsed time unreported. |
+| **5K Previous Time Trial** | **27:46 (5:33/km)** | Avg 184 BPM (Max 195) | Sep 9, 2026 | **34.2** | Previous recorded 5K PB, superseded Nov 6. Pacing: 5:33, 5:34, 5:43, 5:28, 5:28. Maintained 166 SPM cadence. Diaphragm held with zero stitch using 3:2 breathing rhythm. |
 | **10K Previous Baseline**| 1:07:00 moving (6:42/km) | Avg 185 BPM | Sep 5, 2026 | ~28.5 | Run post-fever with 5 walk breaks due to acute abdominal stitch. Pure running pace was 6:22/km. |
 | **5K Previous Baseline** | 29:07 (5:49/km) | Avg 187 BPM | Aug 28, 2026 | 32.2 | Broke 30:00 barrier. Negative split: 6:05 opening to 5:06 final km. |
 | **3.5K Tempo** | 19:32 (5:35/km) | 185 BPM | Jul 17, 2026 | — | Hard sustained effort. |
@@ -87,7 +88,15 @@
 | **16.0km Long Run (LSD)** | **2:20:29 (8:47/km)** | Avg 165 BPM (Max 188) | Oct 26, 2026 | ~30.0 | 🏁 **LONGEST RUN IN MACROCYCLE.** 16.001 km continuous time-on-feet (140 mins). Negative split back half (Km 11–15: 42:24, 8:29/km, HR 175 avg). Stride capped at 0.75m avg (zero overstriding). Empirical sweat rate 770 ml/hr. Heavy kinetic chain fatigue post-run. |
 | **12.4km LSD** | 1:53:18 (9:08/km) | 147 BPM | Jul 12, 2026 | — | High aerobic discipline, but volume overreach (target was 8 km). |
 
-### Current VDOT Analysis & Half Marathon Projection (Critical Audit: Oct 18, 2026):
+### Current Performance Update (November 6, 2026)
+- **[FACT]** Current recorded 5K benchmark: **26:45.64 from five full-km laps**; full activity **5.01km / 26:49 moving**, **190bpm average**. Peak HR and elapsed time are unreported. Exact Strava best-effort time is not displayed.
+- **[FACT — athlete-reported]** Breathing became very heavy just after 3km and was the main limiter; calves felt good during the run. Post-run/next-morning response remains unconfirmed.
+- **[INFERENCE]** Stronger continuous short-distance performance than the September 27:46 benchmark; early pace likely contributed to the late slowdown. Numerical VDOT, lactate threshold and training zones are not recalibrated from these screenshots.
+- **[CALCULATED EQUIVALENCE]** Riegel k=1.06–1.07 gives **~2:03–2:05 HM** assuming suitable endurance, not a validated present HM prediction. Prior long-run fatigue remains relevant.
+- **[ACTION]** Sub-27 plan criterion met for the sub-2:10 pathway; sub-26:15 stretch criterion not met. Keep **sub-2:10 primary / sub-2:00 stretch** pending further endurance evidence. A later **26:30 5K** is a reasonable test target after recovery, with a more controlled opening.
+- The dated October 18 audit below is historical; its PB, remaining-weeks and probability statements are not refreshed by today's result.
+
+### Historical VDOT Analysis & Half Marathon Projection (Critical Audit: Oct 18, 2026):
 - **`[FACT]`**: 5K PB = **27:46** (VDOT **34.2**); 10K PB = **1:00:02** (VDOT **32.5**).
 - **`[FACT]`**: Sub-2:00:00 Half Marathon (5:41/km) requires **VDOT ~38.0–38.5**.
 - **`[INFERENCE]`**: Pacing a Half Marathon at 5:41/km would require running 21.1 km at a pace 19s/km faster than the 10K PB (6:00/km) and only 8s/km slower than the 5K PB (5:33/km). With 9 weeks remaining and current volume coming off a travel block (8 km long run produced late leg heaviness), Sub-2:00:00 is an extreme stretch goal (~10–15% probability).
@@ -105,7 +114,7 @@
 
 | Symptom / Region | Status | Operational Management & Notes |
 | :--- | :--- | :--- |
-| **Lower Inner Calf Discomfort — Side Unconfirmed (Nov 2)** | 🟡 Active symptom / Reassess | Athlete reports strain-like discomfort during first ~3km of Nov 2 12km run, then lower-leg fatigue from ~6km. Soleus involvement is athlete-suspected, not diagnosed; affected side and current walking/next-morning symptoms remain unconfirmed. Do not assume this is the previously resolved right-calf episode below. Coach recommends short-term running/heavy-calf-load reduction, pausing progression and postponing 5K TT pending functional reassessment; seek sports-physio review if focal symptoms persist/recur. |
+| **Lower Inner Calf Discomfort — Side Unconfirmed (Nov 2)** | 🟡 Felt good during Nov 6 TT / Monitor | Nov 2: strain-like discomfort during first ~3km of 12km run, then lower-leg fatigue from ~6km; soleus athlete-suspected, not diagnosed, and affected side unconfirmed. Nov 6: athlete reports calves felt good during 5.01km time trial; breathing was the main limiter. Post-run/next-morning response remains unreported, so full resolution is not established. Coach recommends post-TT recovery and a symptom-led easy return; seek sports-physio review if focal symptoms persist/recur. |
 | **Lower Right Calf / Achilles-Region Soreness** | 🟢 Resolved / Monitor | Flared Sep 14 following aggressive direct foam rolling on fatigued lower calf. Completely asymptomatic during Sep 17 shakeout and Sep 19 10K race (zero sharp pain). Experienced expected generalized DOMS post-race. **Action:** Permanent ban on direct foam rolling or massage guns on lower third of leg. Passive elevation and gentle unweighted ankle mobility only. |
 | **Exercise-Related Abdominal Pain (ETAP / Stitch)** | 🟢 Managed / In Check | Caused walk breaks on Sep 5 post-fever. Mild twinge at km 6–7 during Sep 19 race managed on the fly using rhythmic 3:2 belly breathing without walking. **Action:** Reinforce 3:2 breathing rhythm on all runs; include diaphragmatic core work (deadbugs, side planks). |
 | **Localized Medial Left Knee Discomfort** | 🟢 Stable / Monitor | Discomfort noted post-LSD Aug 30. Asymptomatic during Sep 19 race. **Action:** Maintain glute medius and hip stability prehab (TKEs, banded clamshells, step-ups). Avoid heavy walking lunges when fatigued. |

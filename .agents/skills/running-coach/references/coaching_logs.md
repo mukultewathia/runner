@@ -4,6 +4,56 @@
 
 ---
 
+### Date: November 6, 2026
+**Topic: 5K time trial PB in Saket; breathing limited the final two kilometres, calves felt good**
+
+**Sources and measured facts**
+- [FACT — screenshot-reported] Athlete supplied screenshots 21406.png, 21408.png and 21409.png from Strava/Zepp. Activity: Evening Run, November 6 at 19:43 IST, Saket, Delhi. Recorded with Amazfit T-Rex 3 Pro (48mm), ASICS Novablast 6.
+- Summary: 5.01km, moving time 26:49, average pace 5:21/km, average HR 190bpm, recorded elevation gain 0m, Strava-estimated 450kcal.
+- No raw FIT/GPX/TCX, elapsed time, complete HR trace, peak HR, numeric RPE, weather, warm-up/cooldown record or independently measured course distance supplied. Treat this as a device-recorded PB.
+- [FACT — athlete-reported] Breathing was the main limiter and became very heavy just after completing 3km. Calves felt good during the run. Immediate post-run and next-morning calf status were not separately confirmed.
+
+**Full-kilometre telemetry**
+| Km | Displayed pace (/km) | GAP (/km) | Exact lap time | Average HR (bpm) | Cadence (spm) | Reported step length (m) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 5:09 | 5:10 | 05:09.95 | 178 | 166 | 1.16 |
+| 2 | 5:17 | 5:16 | 05:17.04 | 190 | 164 | 1.15 |
+| 3 | 5:18 | 5:17 | 05:18.18 | 194 | 163 | 1.15 |
+| 4 | 5:33 | 5:34 | 05:33.39 | 195 | 160 | 1.12 |
+| 5 | 5:27 | 5:26 | 05:27.08 | 197 | 160 | 1.14 |
+
+**Time reconciliation and benchmark progression**
+- [FACT — derived] The five listed full-km laps total 1,605.64s = 26:45.64 for the first recorded 5.00km. The full 5.01km moving time is 26:49; the extra approximately 0.01km plausibly accounts for the 3.36s difference, but the final partial lap is not shown.
+- The Strava banner reports a 1:01 5K PB improvement. Its exact best-effort time is not visible; do not label 26:49 as an exact 5.00km best effort.
+- Relative to the September 9 recorded 5K of 27:46, the lap-derived 5K is 60.36s (3.62%) faster. This exceeds the pre-run 27:00 stretch target.
+- October 23 involved 4x1km around 5:30/km with 2:00 recoveries; today's continuous performance is a stronger short-distance benchmark. Different conditions and average HR (September 184 vs November 190bpm) prevent attributing the entire time improvement to physiological adaptation.
+
+**Wins**
+- New recorded 5K PB and sub-27 performance.
+- Calves felt good during this higher-intensity run despite the November 2 symptom history.
+- Final kilometre recovered 6.31s relative to kilometre 4.
+
+**Pacing and breathing — six-field assessment**
+1. Observed data: First 3km 15:45.17 (5:15.06/km); final 2km 11:00.47 (5:30.24/km). First 2km 10:26.99 vs final 2km 11:00.47, a 33.48s slowdown over equal distance. Athlete reports very heavy breathing just after 3km. Lap-average HR rose 178 to 197bpm while cadence fell 166 to 160spm.
+2. Interpretation: [INFERENCE] The approximately 5:10 opening kilometre and first-three-kilometre pace likely contributed to fatigue and the kilometre-4 slowdown. Very heavy breathing late in a 5K can accompany a hard effort; its presence alone does not establish a pacing error, VO2 max, lactate threshold or respiratory disorder. Calf discomfort was not reported as the limiter today. Cadence/step-length changes may reflect overall fatigue; they do not establish calf weakness or overstriding.
+3. Confidence: High for the recorded positive split and athlete-reported limiter; moderate for early pacing contributing to the fade; low for a specific physiological mechanism.
+4. Alternatives: Wind, turns, surface, accumulated fatigue, interruptions and GPS/HR error. Pace and GAP differ by about 1s/km, so the supplied data provide little evidence for hills as the main cause. Conditions were not documented.
+5. Action: Recover from the hard session; coach recommended no running November 7 and symptom-led easy return thereafter. At a later, recovered TT, 26:30 is a reasonable target to test, with an opening kilometre around 5:23–5:25 and gradual progression rather than another approximately 5:10 start. No new TT date or faster training zones established.
+6. Validation: Confirm next-morning calf response and tolerance of the next easy run. A future similarly measured TT with more even pacing will test whether pacing improves the finishing time; no exact time saving can be inferred today.
+
+**Half-marathon interpretation**
+- [FACT — calculated model outputs] Using 26:45.64 and Riegel T2 = T1 x (D2/D1)^k, k=1.06–1.07 gives approximately 55:48–56:11 for 10km and 2:03:06–2:04:53 for 21.0975km.
+- These are race equivalents assuming suitable endurance, not a validated present half-marathon prediction. The October 26 16km run involved RPE 8.5 and substantial lower-limb fatigue.
+- The plan's sub-27:00 short-distance criterion for the sub-2:10 pathway is met on the supplied recording. The plan's sub-26:15 stretch criterion is not met. Sub-2:10 remains the primary HM goal; sub-2:00 remains a stretch requiring additional speed and endurance evidence.
+- Formula reference: Vickers and Vertosick (2016), https://doi.org/10.1186/s13102-016-0052-y. No new race-probability estimate claimed.
+
+**Week 15 record**
+- Confirmed recorded sessions November 1, 2 and 6 total 22.02km. Earlier two device workout times total 2:31:17.03; the new 26:49 is moving time, so do not describe the combined sum as verified elapsed time.
+- November 3–5, any separate warm-up/cooldown and remaining-week activities are unreported, not assumed rest or zero mileage.
+- A good calf response during this session is encouraging but does not confirm full resolution of the November 2 complaint. Monitor the next morning and the next easy run.
+
+---
+
 ### Date: November 2, 2026
 **Topic: November 1 progression (5.01 km) and November 2 long run (12.00 km); lower-inner-calf discomfort and late lower-leg fatigue**
 
