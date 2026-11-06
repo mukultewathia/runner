@@ -48,9 +48,35 @@
 - Formula reference: Vickers and Vertosick (2016), https://doi.org/10.1186/s13102-016-0052-y. No new race-probability estimate claimed.
 
 **Week 15 record**
-- Confirmed recorded sessions November 1, 2 and 6 total 22.02km. Earlier two device workout times total 2:31:17.03; the new 26:49 is moving time, so do not describe the combined sum as verified elapsed time.
-- November 3–5, any separate warm-up/cooldown and remaining-week activities are unreported, not assumed rest or zero mileage.
+- Updated after retrospectively receiving the November 4 screenshots: confirmed recorded sessions November 1, 2, 4 (two runs) and 6 total 24.02km. November 1–2 device workout times total 2:31:17.03, November 4 device workout times total 14:42.90, and November 6 is 26:49 moving time; do not describe a combined sum as verified elapsed time.
+- November 3 and 5, any separate November 6 warm-up/cooldown and remaining-week activities are unreported, not assumed rest or zero mileage.
 - A good calf response during this session is encouraging but does not confirm full resolution of the November 2 complaint. Monitor the next morning and the next easy run.
+
+---
+
+### Date: November 4, 2026 (retrospectively logged November 6)
+**Topic: Two separately recorded 1km evening runs; screenshot date confirms November 4**
+
+**Sources and observed data**
+- [FACT — screenshot-reported] Athlete supplied Zepp/Amazfit T-Rex 3 Pro (48mm) screenshots 21413.png and 21415.png. Both explicitly display November 4, 2026, resolving the athlete's uncertain recollection of yesterday versus the day before yesterday.
+- First run, displayed start 19:51: 1.00km, exact workout time 8:06.77, displayed pace 8:02/km, GAP 8:01/km, average HR 143bpm, average cadence 153spm, optimum displayed pace 7:31/km, watch-estimated 90kcal.
+- Second run, displayed start 20:04: 1.00km, exact workout time 6:36.13, displayed pace 6:33/km, GAP 6:32/km, average HR 159bpm, average cadence 160spm, optimum displayed pace 5:52/km, watch-estimated 83kcal.
+- [FACT — derived] Combined displayed distance 2.00km; exact workout times total 14:42.90. Displayed start times are 13min apart. Activity between recordings is unknown; do not treat the pair as a continuous 2km run.
+- Displayed pace, distance and workout time do not reconcile exactly (8:06.77 vs displayed 8:02/km for 1.00km; 6:36.13 vs 6:33/km). Preserve device values; exact underlying distance, rounding/truncation and moving-vs-workout-time differences are unknown.
+- No raw export, lap details, reliable visible peak HR, stride length, elevation gain, location, numeric RPE, breathing report, symptom report or next-morning response supplied. Optimum pace is not an established sustained interval pace.
+
+**Interpretation and coaching relevance**
+1. Observed data: The second short run was faster, with higher average HR (143 to 159bpm) and cadence (153 to 160spm).
+2. Interpretation: [INFERENCE] The pair documents a brief lower-pace outing followed by a faster outing. Warm-up, recovery test, interval and tempo intent remain unconfirmed; average HR over such short runs cannot establish threshold or sustainable race pace. No calf symptom conclusion can be drawn for November 4.
+3. Confidence: High for the screenshot dates and reported summary values; low for workout purpose or fitness change.
+4. Alternatives: Deliberate pace change, short-run HR kinetics, sensor variation, interruptions, surface and conditions.
+5. Action: Add both runs to the chronological log and weekly volume; do not infer missed/rest days or revise training zones from these records.
+6. Validation: A raw export and athlete-reported purpose/RPE would clarify intensity and reconcile distance/time discrepancies if later supplied.
+
+**Weekly reconciliation**
+- Week 15 (November 1–7): November 1 5.01km + November 2 12.00km + November 4 1.00km + November 4 1.00km + November 6 5.01km = **24.02km confirmed recorded distance through November 6**.
+- November 3 and 5, any separate November 6 warm-up/cooldown, and remaining-week activity remain unreported.
+- This retrospective addition changes the recorded weekly total, not the November 6 PB or its breathing/calves feedback.
 
 ---
 
