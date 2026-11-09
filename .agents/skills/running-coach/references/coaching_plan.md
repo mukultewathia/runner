@@ -33,7 +33,9 @@ To prevent unrealistic pacing on race day, the race strategy is governed by thre
 
 ---
 
-**November 8 activity update (recorded Nov 9):** Week 16 began with a 6.52km controlled aerobic progression on Sunday at 12:38 PM, two days after the 5K TT; reported 1:00:56, lap elapsed sum 1:02:17 (81s discrepancy unresolved). Lap-weighted HR ~146bpm and highest recorded lap max 162bpm. Athlete confirms calves/lower legs feel good in follow-up, encouraging after Nov 2 discomfort; keep symptom monitoring and a conservative deload rather than automatically executing the planned 3×1500m quality workout. No additional Week 16 runs have been confirmed.\n\n## Core Training Principles
+**November 8 activity update (recorded Nov 9):** Week 16 began with a 6.52km controlled aerobic progression on Sunday at 12:38 PM, two days after the 5K TT; reported 1:00:56, lap elapsed sum 1:02:17 (81s discrepancy unresolved). Lap-weighted HR ~146bpm and highest recorded lap max 162bpm. Athlete confirms calves/lower legs feel good in follow-up, encouraging after Nov 2 discomfort; keep symptom monitoring and a conservative deload rather than automatically executing the planned 3×1500m quality workout. No additional Week 16 runs have been confirmed.
+
+## Core Training Principles
 
 1. **Polarized Intensity Distribution (80/20):** Approximately 80% of weekly running volume in Zone 1–2 (conversational, $\le$152 BPM). ~20% in Zone 4 (Cruise intervals and threshold tempos).
 2. **Individualized Chassis-First Progression:** Cap weekly volume growth gradually; peak at 32–34 km/week to protect the 93 kg frame and lower calves/Achilles from overuse.
