@@ -10,7 +10,7 @@
 * **Target Date:** December 20th, 2026 (Sunday)  
 * **Primary Target Time:** **Sub-2:10:00 (5:58 – 6:09 /km)**; Moonshot: **Sub-2:00:00 (5:41 /km)**  
 * **Benchmark Reference:** 10K recorded 10.00km split of 1:00:02 (Sep 19, 2026; 80m elevation) & current recorded 5K of 26:45.64 (five full-km laps, Nov 6; full activity 5.01km / 26:49 moving; exact Strava best effort and elapsed time not shown).  
-* **Current Phase:** Phase 2 (Weeks 13–15) — Base Expansion, Strides & Speed Reserve.
+* **Current Phase:** Phase 3, Week 16 (Nov 8–14) — Consolidation Deload.
 
 **2. Intermediate Event: Bengaluru Midnight Marathon 10K (KTPO Whitefield)**  
 * **Target Date:** December 5th, 2026 (Saturday night; 15 days pre-Half Marathon)  
@@ -33,7 +33,7 @@ To prevent unrealistic pacing on race day, the race strategy is governed by thre
 
 ---
 
-## Core Training Principles
+**November 8 activity update (recorded Nov 9):** Week 16 began with a 6.52km controlled aerobic progression on Sunday at 12:38 PM, two days after the 5K TT; reported 1:00:56, lap elapsed sum 1:02:17 (81s discrepancy unresolved). Lap-weighted HR ~146bpm and highest recorded lap max 162bpm. Athlete confirms calves/lower legs feel good in follow-up, encouraging after Nov 2 discomfort; keep symptom monitoring and a conservative deload rather than automatically executing the planned 3×1500m quality workout. No additional Week 16 runs have been confirmed.\n\n## Core Training Principles
 
 1. **Polarized Intensity Distribution (80/20):** Approximately 80% of weekly running volume in Zone 1–2 (conversational, $\le$152 BPM). ~20% in Zone 4 (Cruise intervals and threshold tempos).
 2. **Individualized Chassis-First Progression:** Cap weekly volume growth gradually; peak at 32–34 km/week to protect the 93 kg frame and lower calves/Achilles from overuse.
@@ -69,7 +69,7 @@ Deload, Travel & Bangalore Return       Base Consolidation & GK 1 (5K)         H
 | **W13** | Oct 18 – Oct 24 | **Base Consolidation & Quality** | 19.82 km (provisional; summed laps) | 8.01 km (Completed Sun Oct 18) | 4x1000m Cruise Intervals (Fri Oct 23 @ 5:30/km) | Rest/mobility prioritized post-speed | ~92.5 kg |
 | **W14** | Oct 25 – Oct 31 | **Base Build & Intro Cruise** | 27.07 km (actual) | 16.00 km (Completed Mon Oct 26) | 3.06km Float Fartlek + 4.01km Tempo (Thu/Fri) | Soft tissue fully adapted post-16km | ~94.0 kg |
 | **W15** | Nov 1 – Nov 7 | **5K TT completed; recovery and calf monitoring** | 24.02km confirmed through Nov 6, including two Nov 4 1km runs; other activity unreported; no make-up mileage | 12.00km completed Nov 2 (8:55/km watch, HR 142); calf symptoms reported then | Fri Nov 6: 5.01km / 26:49 moving; five full-km laps 26:45.64; sub-27 criterion met; breathing limiter after 3km | Calves good during TT; next-morning check pending; no further hard work before recovery | ~91.5 kg (original target, not measured) |
-| **W16** | Nov 8 – Nov 14 | **Consolidation Deload (-20%)** | 23 – 25 km | 10.5 km (Zone 2, capped $\le$152 BPM) | 3 x 1500m Smooth HM Rhythm @ 5:45/km (Wed) | Deload lifting 30%; Tendon & tissue recovery | ~91.0 kg |
+| **W16** | Nov 8 – Nov 14 | **Consolidation Deload (-20%)** | 23 – 25 km target; 6.52 km confirmed Nov 8 | 10.5 km (Zone 2, capped $\le$152 BPM) | 3 x 1500m Smooth HM Rhythm @ 5:45/km (Wed) | Deload lifting 30%; Tendon & tissue recovery | ~91.0 kg |
 | **W17** | Nov 15 – Nov 21 | **Specific Endurance & Gatekeeper 2** | 31 – 33 km | 🏁 **GATEKEEPER 2: 15.0 km** (with 5 km @ 5:50/km) | 4 x 1000m Cruise @ 5:30/km (Thu) | Heavy Soleus loading on Mon; Core on Fri | ~90.5 kg |
 | **W18** | Nov 22 – Nov 28 | **Peak LSD & Gatekeeper 3** | 32 – 34 km | 🏁 **GATEKEEPER 3: 16.5 – 17.0 km Peak LSD** (Full Fueling Simulation) | 3 km continuous tempo @ 5:45/km (Wed) | FINAL heavy leg session; transition to prehab | ~90.0 kg |
 | **W19** | Nov 29 – Dec 5 | **BMM 10K Qualifier Week** | 23 – 25 km | Replaced by BMM 10K | 🏁 **SAT DEC 5: BENGALURU MIDNIGHT MARATHON 10K** (Controlled 6:15–6:30/km cruise) | Mobility & prehab only; NO heavy weights | ~89.5 kg |
