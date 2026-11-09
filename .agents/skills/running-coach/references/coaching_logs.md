@@ -4,6 +4,38 @@
 
 ---
 
+### Date: November 8, 2026
+**Topic: 6.52km controlled aerobic progression 48h after the Nov 6 5K TT; calves and lower legs feel good in follow-up**
+
+**Sources and measured facts**
+- [FACT — athlete-supplied] Sunday November 8, 2026, start 12:38 PM. Activity reported as 6.52km in 1:00:56 (summary pace ~9:21/km). No raw GPX/FIT or independent route/time validation.
+- [FACT — arithmetic reconciliation] Seven supplied lap elapsed times total **3,737s = 1:02:17**, 81s more than the reported summary time (3,656s = 1:00:56). Reported lap distances total 6.515km, consistent with rounded 6.52km. Do not assume the difference is moving vs elapsed without source confirmation; lap-derived elapsed pace is ~9:34/km, different from the summary-derived ~9:21/km.
+- [FACT — derived] Time-weighted average HR from supplied lap means is ~146.3bpm; highest lap-recorded max HR is 162bpm. The HR average is not an independently supplied watch summary. Cadence was supplied as 74–76 and interpreted as half-cadence only provisionally (148–152 steps/min after doubling, ~149 average); confirm device convention if possible.
+- [FACT — athlete-reported Nov 9 follow-up] "calves and lower legs feel good." Timing of that assessment relative to sleep/run not specified. This follows lower-inner-calf discomfort/leg fatigue Nov 2, and good calves during the hard Nov 6 5K.
+
+**Lap telemetry as supplied**
+| Lap | Distance | Elapsed | Pace (/km) | Avg HR | Max HR | Device avg cadence | Stride (m) | Intensity | Device Zone |
+| :--- | ---: | ---: | :--- | ---: | ---: | ---: | ---: | ---: | :--- |
+| 1 | 1.000km | 10:58 | 10:58 | 135 | 146 | 74 | 0.62 | 72% | 1 |
+| 2 | 1.000km | 9:37 | 9:36 | 144 | 153 | 74 | 0.71 | 77% | 1 |
+| 3 | 1.000km | 9:28 | 9:27 | 145 | 154 | 74 | 0.71 | 77% | 1 |
+| 4 | 0.998km | 9:32 | 9:33 | 146 | 154 | 74 | 0.71 | 78% | 1 |
+| 5 | 1.000km | 9:14 | 9:13 | 151 | 155 | 75 | 0.72 | 80% | 1 |
+| 6 | 0.998km | 8:49 | 8:50 | 155 | 162 | 75 | 0.75 | 82% | 1 |
+| 7 | 0.519km | 4:39 | 8:57 | 155 | 162 | 76 | 0.74 | 82% | 1 |
+
+**Six-field coaching assessment**
+1. **Observed data:** Pace accelerated from 10:58/km at 135bpm in km 1 to 8:50/km at 155bpm at km 6; final 519m near 8:57/km and 155bpm. Cadence values were stable/slightly higher at the end. Course gradients supplied near 0%. Calves/lower legs described as feeling good.
+2. **Interpretation [INFERENCE, moderate confidence]:** The session appears to be a controlled low-intensity return/progression after the high-effort Nov 6 time trial. A modest HR rise with increased speed is expected; this is not a fixed-pace cardiac drift test. Symptoms not recurring in athlete feedback are encouraging for load tolerance.
+3. **Confidence:** High in the supplied metrics and symptom quote, moderate in the aerobic-session classification, low in any claim of tissue healing or improved aerobic economy from this session alone.
+4. **Alternatives/limitations:** Different time of day, environment, recent TT fatigue, wrist optical-HR uncertainty, unknown RPE and breathing, half-cadence interpretation, and unreconciled summary vs lap elapsed time all limit cross-session fitness comparisons.
+5. **Action:** Week 16 remains a 23–25km deload target; Sunday 6.52km counts toward it. Monday rest/easy walking; conditional 5–6km conversational run Tue/Wed and ~10–10.5km easy weekend run only if symptom-free. Avoid compulsory speed quality, extra mileage or heavy calf loading while consolidating.
+6. **Validation:** Monitor calves/Achilles later the same day and the following mornings. Reassess response to the next easy run and 10km+ exposure; if focal pain returns or walking discomfort develops, reduce load and consider a sports-physio assessment.
+
+**HM implications:** Supports resumption of aerobic training without reported lower-leg symptoms, but does not establish current half-marathon pace or change race prediction. Current sub-2:10 pathway still requires specific endurance gatekeepers.
+
+---
+
 ### Date: November 6, 2026
 **Topic: 5K time trial PB in Saket; breathing limited the final two kilometres, calves felt good**
 
