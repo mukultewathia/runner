@@ -4,6 +4,63 @@
 
 ---
 
+### Date: November 10, 2026
+**Topic: Rohtak 8.01km variable-pace progression; high recorded late effort and subsequent calf fatigue**
+
+**Sources and measured facts**
+- [FACT — screenshot-reported] Morning Run @ Rohtak, Haryana, November 10 at 08:28 IST; 8.01km, 54:04 moving, 6:45/km, average HR 165bpm, recorded gain 0m, estimated 747kcal. Sources: Strava screenshots 22360.png and 22361.png; Amazfit T-Rex 3 Pro (48mm), ASICS Novablast 6.
+- No raw FIT/GPX/TCX, elapsed time, HR trace, maximum HR, cadence, numeric RPE, breathing report, conditions or exact work/recovery structure supplied. Strava Athlete Intelligence calls it intervals; that automated label is not athlete-confirmed workout intent.
+- [FACT — athlete-reported follow-up] "Calves are feeling fatigued." This was supplied after the run analysis. During-run onset versus later onset, diffuse versus focal symptoms, affected side, pain severity, swelling, walking/toe-rise function and next-morning status remain unreported. Do not infer a strain, specific muscle involvement, bilateral symmetry or absence of pain.
+
+**Displayed kilometre telemetry**
+
+| Km | Pace (/km) | Average HR (bpm) |
+| :--- | :--- | ---: |
+| 1 | 8:10 | 128 |
+| 2 | 6:55 | 153 |
+| 3 | 6:43 | 161 |
+| 4 | 7:24 | 161 |
+| 5 | 6:29 | 171 |
+| 6 | 5:57 | 184 |
+| 7 | 6:16 | 187 |
+| 8 | 6:05 | 191 |
+
+**Derived observations and data limits**
+- [FACT — approximate, derived from displayed paces] First 4km 29:12 (7:18/km), second 4km 24:47 (~6:12/km): a 4:25 negative split over these recorded full-km sections.
+- Final 3km 18:18 (6:06/km), with lap-time-weighted HR ~187.4bpm. Those lap averages are 184, 187 and 191bpm; 191bpm is not a supplied maximum HR, and exact time in HR zones cannot be reconstructed.
+- The eight rounded full-km paces sum to 53:59, 5s shorter than the summary moving time. The final approximately 0.01km is not shown; rounding/partial distance may contribute, but exact reconciliation is unavailable.
+- Variable pace prevents a meaningful steady-pace cardiac-drift calculation. Recorded 0m gain is a device value, not independently verified flatness.
+
+**Wins and lessons**
+- Patient first kilometre and a substantially faster second half.
+- Pace recovered from 6:16 in km 7 to 6:05 in km 8; no sustained finishing pace collapse is visible.
+- The whole-run HR of 165bpm masks the much higher late recorded effort. Count this as the week's quality exposure for conservative load management, pending subjective effort and workout structure.
+- Subsequent calf fatigue changes the immediate priority to recovery; do not pursue the mileage target or another quality session while symptoms remain.
+
+**Six-field assessment**
+1. **Observed data:** 54min of running, final 3km near 6:06/km and ~187bpm; calf fatigue subsequently reported. Recent history: Nov 6 5K TT at HR 190 average; Nov 8 6.52km easy progression; Nov 2 lower-inner-calf discomfort and later leg fatigue.
+2. **Interpretation [INFERENCE]:** The finish likely imposed a substantial additional training load. General muscle fatigue is plausible, but the symptom description cannot distinguish routine fatigue from a focal muscle/tendon problem. Today's HR does not demonstrate threshold, fitness regression or a specific injury.
+3. **Confidence:** High in screenshot transcription and the symptom quote; moderate in the hard-finish interpretation; low in any specific physiological or anatomical mechanism.
+4. **Alternatives/limitations:** Intended intervals/recoveries, variable pace, accumulated fatigue, conditions, optical-HR lag/artifact and GPS error. No evidence supplied to attribute symptoms to cadence, overstriding, dehydration or a particular muscle.
+5. **Action — recommendation, not completed activity:** No running Nov 11; comfortable short walking and gentle ankle movement only as tolerated. Avoid heavy calf loading, jumping, hills, deep massage and forceful stretching while symptomatic. Normal meals including carbohydrate/protein, drinking to thirst and sleep. Today replaces the planned Week 16 quality workout. Before another run, fatigue should clearly improve and walking, stairs and gentle calf raises should feel normal; begin short, flat and easy, with no fast finish. Stop if focal discomfort increases or alters gait. A weekend 9–10km outing discussed before the fatigue report is conditional, not an obligation; reassess after a successful short return. No make-up mileage.
+6. **Validation:** Clarify location/side, severity, onset and walking/toe-rise symptoms; monitor next-morning response and response during/after the next easy run. Persistent/recurrent focal pain or worsening function warrants sports-physio review. Significant swelling, redness/warmth, severe pain or inability to bear weight warrants prompt medical assessment.
+
+**Half-marathon implications**
+- About 18min near sub-2:10 HM pace after 5km is useful exposure, but high recorded late HR and calf fatigue do not establish that pace over 21.1km.
+- Keep sub-2:10 primary / sub-2:00 stretch; no new prediction, probabilities, training zones or endurance gatekeeper claimed.
+
+**Week 16 reconciliation**
+- Nov 8 6.52km + Nov 10 8.01km = **14.53km confirmed recorded distance** for Nov 8–14 through Nov 10. Other activity remains unreported, not assumed rest.
+- Symptom-led recovery takes precedence over the original 23–25km target. Future long/quality sessions remain conditional.
+
+**References consulted for the chat guidance**
+- NHS return-to-running symptom monitoring: https://www.berkshirehealthcare.nhs.uk/advice/return-to-running-programme
+- NHS sprains/strains assessment and self-care: https://www.nhs.uk/conditions/sprains-and-strains/
+- CDC talk test: https://www.cdc.gov/physical-activity-basics/measuring/
+- Polar optical-HR limitations: https://support.polar.com/en/support/the_what_and_how_of_polars_wrist_based_heart_rate_measurement
+
+---
+
 ### Date: November 8, 2026
 **Topic: 6.52km controlled aerobic progression 48h after the Nov 6 5K TT; calves and lower legs feel good in follow-up**
 
