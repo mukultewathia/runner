@@ -4,6 +4,62 @@
 
 ---
 
+### Date: November 13, 2026
+**Topic: Separate 2km easy warm-up and 4x1500m hard intervals**
+
+**Sources and recorded facts**
+- Zepp/Amazfit T-Rex 3 Pro (48mm) screenshots: 22959.png (warm-up), Screenshot_20261113-195939.png (laps), 22958.png (voice memo), 22960.png (interval HR). No FIT/GPX/TCX supplied.
+- Separate warm-up starts 18:40 local display: 2.00km, 19:26.02 workout time, displayed pace 9:41/km, GAP 9:40/km, HR 143 average, cadence 144spm, device calories 216. Warm-up peak HR unreported. Displayed pace, rounded distance and time do not exactly reconcile.
+- Interval activity HR screenshot: **178bpm average, 197bpm maximum**. This session peak does not replace the historical 206bpm working maximum.
+- Before the session athlete said calves were feeling good. During-run, post-run and next-morning calf response remain unreported. Numeric RPE, weather, route, exact interval start and additional cooldown unreported.
+
+**Interval-file lap transcription**
+
+| Segment | Displayed distance | Exact time | Displayed pace | Avg HR | Cadence | Interpreted step length |
+| :--- | ---: | :--- | :--- | ---: | ---: | :--- |
+| Preparation | 0.14km | 3:26.42 | 23:35/km | 119 | 66 | — |
+| Repeat 1 | 1.50km | 8:14.47 | 5:29/km | 178 | 165 | 1.10m |
+| Recovery 1 | 0.17km | 2:00.00 | 12:05/km | 167 | 103 | 0.80m |
+| Repeat 2 | 1.50km | 8:14.02 | 5:29/km | 185 | 165 | 1.10m |
+| Recovery 2 | 0.15km | 2:00.00 | 13:16/km | 175 | 89 | 0.84m |
+| Repeat 3 | 1.50km | 8:19.08 | 5:32/km | 188 | 165 | 1.09m |
+| Recovery 3 | 0.13km | 2:00.00 | 15:21/km | 181 | 88 | 0.73m |
+| Repeat 4 | 1.50km | 8:34.28 | 5:42/km | 189 | 164 | 1.06m |
+| Final short rest | 0.03km | 0:19.57 | 9:07/km | 195 | 95 | 1.11m |
+
+Step-length units interpreted from the displayed 110–106 values as centimetres. GAP matches displayed pace for the four work repeats. Distances are displayed rounded values, so derived totals are approximate.
+
+**Derived totals and reconciliation**
+- Four work repeats: 6.00km in **33:21.85**, average **5:33.64/km** (~5:34/km), time-weighted average of rounded lap HR **~185bpm**. This is distinct from the confirmed interval-activity average of 178bpm.
+- Interval-file listed lap durations sum to **43:07.84**. Displayed lap distances sum to **~6.62km**, implying a provisional overall pace ~6:31/km.
+- With the separate warm-up: **~8.62km** and **1:02:33.86** summed recorded workout time (~1:02:34). This excludes any unrecorded gap and is not combined elapsed time.
+- First three work times span 5.06s. Repeat 4 takes 20.26s longer than repeat 2. Cadence changes 165 to 164spm and interpreted step length 1.10 to 1.06m.
+- Device-defined HR zones visible: 192–205bpm 8:22 (19%), 175–191bpm 24:30 (56%), 163–174bpm 3:34 (8%), 148–162bpm 2:15 (5%). Remaining zones are cropped. These are watch settings, not validated physiological thresholds.
+
+**Athlete's voice memo**
+At 19:49: "What a very tough workout, very tough. Last two were completely out of breath. This is very difficult."
+
+**Six-field coaching assessment**
+1. **Observed data:** Consistent first three repeats followed by a slower fourth, rising work/recovery lap-average HR, severe breathlessness in last two repeats, substantial separate warm-up.
+2. **Interpretation [INFERENCE]:** High-cost hard session with accumulating fatigue, exceeding the controlled effort intended for routine threshold work late in the set. The warm-up concern from the first screenshot alone is resolved by the separate activity.
+3. **Confidence:** High in transcribed timing, HR summary and reported breathing; moderate in the fatigue/intensity inference; low in identifying an exact threshold or physiological mechanism.
+4. **Alternatives and limits:** Conditions, accumulated training/strength fatigue, GPS and optical-HR errors may affect comparisons. Recovery lap averages cannot establish end-of-recovery HR or a two-minute HR drop. Shortened reported steps do not prove weaker push-off, overstriding or an injury.
+5. **Action (recommendation, not completed activity):** Rest from running and heavy leg work Nov 14. Resume short easy running after comfortable daily function and recovery, then assess the following morning. No more quality or make-up mileage in the current deload week.
+6. **Validation:** Check calf/leg response and normal walking/stairs, then tolerance of the next easy run. Future controlled sessions should finish evenly with reserve and manageable breathing.
+
+**Performance interpretation and future training discussion**
+- Compared with Oct 23 4x1km near 5:30/km, today adds 50% work distance near the same pace with two-minute recoveries. This supports increased interval capacity, with conditions and effort differences limiting exact physiological attribution.
+- Latest continuous 5K remains Nov 6 lap-derived 26:45.64. Today establishes no new 5K/10K PB, lactate threshold, maximum HR or HM gatekeeper.
+- Provisional 10K coaching estimate discussed: **5:45–5:55/km (57:30–59:10)**, working target 58:00 (5:48/km), assuming recovery and favorable conditions. Moderate coaching confidence, not a statistical confidence interval or completed performance.
+- Provisional HM training range discussed: **6:15–6:30/km**; ability to sustain it over 21.1km remains unvalidated. Sub-2:10 stays the goal, sub-2:00 a stretch pending speed/endurance evidence.
+- General future options, not newly scheduled obligations: one formal quality session plus a mostly easy long run at current volume, alternating controlled tempo intervals (e.g. 3x8min starting ~5:55–6:10/km, effort-led) and HM blocks (initially 2x2km ~6:15–6:30/km). Build duration or reduce recovery one variable at a time after successful sessions, rather than automatically adding repeats at today's effort.
+- Guidance consulted in chat: https://www.mcmillanrunning.com/half-marathon-training-plan-guide/ and https://www.mcmillanrunning.com/zones-workouts-a-runners-guide-to-training-smarter/ . Race-conversion context: https://doi.org/10.1186/s13102-016-0052-y .
+
+**Week 16 actuals**
+Nov 8 6.52km + Nov 10 8.01km + Nov 13 warm-up 2.00km + interval file ~6.62km = **~23.15km through Nov 13**. Nov 13 is a second quality exposure during the intended consolidation week. Unreported days are not assumed rest.
+
+---
+
 ### Date: November 10, 2026
 **Topic: Rohtak 8.01km variable-pace progression; high recorded late effort and subsequent calf fatigue**
 
