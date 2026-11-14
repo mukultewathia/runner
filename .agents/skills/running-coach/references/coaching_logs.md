@@ -4,6 +4,77 @@
 
 ---
 
+### Date: November 14, 2026
+**Topic: 10.14km aerobic run with controlled 3.01km steady block; athlete-reported HR/breathing calibration**
+
+**Sources and recorded facts**
+- [FACT — screenshots] Strava "Afternoon Run", Saket, Delhi, start 13:00 IST; map shows repeated loops around DDA Park. Activity summary: **10.14km, 1:21:35 moving, displayed 8:02/km, HR 169 average / 188 maximum, 31m recorded gain, 1,162 estimated kcal**.
+- Sources: 23051.png, 23052.png, 23053.png, 23054.png, 23056.png and inline watch lap table. No FIT/GPX/TCX, elapsed-time summary or independently verified weather supplied.
+- [FACT — athlete report] Middle block: "controlled", "slightly harder but comfortable", definitely not out of breath. Numeric RPE, sustained talk-test passage, during/post-run calf symptoms, next-morning response, fueling/hydration and intended reason for slowing after the block remain unreported. Do not assume pain-free running or a planned cooldown.
+
+**Displayed workout laps**
+| Lap | Distance | Time | Displayed pace |
+| :--- | ---: | :--- | :--- |
+| 1 | 3.00km | 25:05 | 8:22/km |
+| 2 | 3.01km | 19:56 | 6:37/km |
+| 3 | 1.01km | 8:05 | 8:00/km |
+| 4 | 1.06km | 9:32 | 9:00/km |
+| 5 | 1.02km | 9:17 | 9:06/km |
+| 6 | 1.04km | 9:40 | 9:18/km |
+
+- [CALCULATED] Laps sum exactly to the displayed **10.14km / 1:21:35**. Final four workout laps total **4.13km / 36:34 (~8:51/km)**.
+- Whole-activity distance/time imply ~8:02.7/km; preserve Strava's displayed 8:02/km rather than replacing it with another rounding convention.
+- Approximate HR from watch kilometre lap means, weighted by listed lap time: first 3 full km ~152bpm; fast km 4–6 ~180bpm; slower full km 7–10 ~175bpm. These are derived estimates; workout-lap boundaries differ slightly.
+
+**Kilometre telemetry from the header-cropped watch table**
+| Km | Watch pace | Exact lap time | Avg HR | Interpreted cadence (spm) | Interpreted step length |
+| :--- | :--- | :--- | ---: | ---: | :--- |
+| 1 | 8:22/km | 8:22.21 | 142 | 148 | 0.80m |
+| 2 | 8:14/km | 8:14.65 | 155 | 150 | 0.80m |
+| 3 | 8:24/km | 8:24.69 | 160 | 151 | 0.78m |
+| 4 | 6:36/km | 6:36.32 | 175 | 160 | 0.94m |
+| 5 | 6:39/km | 6:39.29 | 180 | 160 | 0.93m |
+| 6 | 6:38/km | 6:38.18 | 185 | 158 | 0.94m |
+| 7 | 7:58/km | 7:58.43 | 181 | 152 | 0.82m |
+| 8 | 8:58/km | 8:58.22 | 176 | 152 | 0.73m |
+| 9 | 9:03/km | 9:03.12 | 173 | 152 | 0.72m |
+| 10 | 9:23/km | 9:23.21 | 171 | 151 | 0.70m |
+| Final partial | 8:37/km | 1:16.14 | 174 | 156 | 0.76m |
+
+- Cadence and step-length column meanings are inferred from the cropped table and their consistency with pace; values 80–94 interpreted as centimetres. No stride length establishes overstriding, injury or cardiac health.
+- Exact watch lap times sum to **1:21:34.46**, 0.54s shorter than the rounded activity summary. First three full km sum 25:01.55; next three 19:53.79. Do not force these kilometre boundaries to match the custom workout laps.
+- Strava full-km pace differs slightly: **8:23, 8:15, 8:25, 6:35, 6:40, 6:37, 7:58, 8:58, 9:03, 9:22**; HR matches the listed full-km means. Final Strava partial shows 8:46/km / HR 175. Retain source differences; no exact cause established.
+- Strava configured HR zones: 31% at 135–167, 61% at 168–183, 7% at 184–200, 1% at 0–134, 0% above 201, using a 206bpm maximum setting. Rounded percentages and app labels are not measured physiological thresholds. The workout-view "Zone 1 Recovery" label does not establish physiological recovery effort.
+
+**Six-field assessment and correction after athlete feedback**
+1. **Observed data:** Near-even fast splits (~6:35–6:40/km on Strava), fast cadence 160/160/158spm, kilometre-average HR 175→180→185, comfortable controlled breathing. After slowing, full-km HR falls 181→176→173→171 while pace slows toward 9:22–9:23/km.
+2. **Interpretation [INFERENCE]:** A controlled steady block within an 81-minute run. The athlete's breathing report revises the initial HR-heavy interpretation: the middle block is not established as excessive intensity or a third hard workout. The overall outing remains substantial time on feet after yesterday's hard intervals.
+3. **Confidence:** High in source transcription and the athlete's stated breathing; moderate in steady-effort classification; low in exact thresholds, HR accuracy and mechanism of the elevated later readings.
+4. **Alternatives and limits [HYPOTHESES]:** Residual fatigue, ambient conditions, hydration, normal HR kinetics and wrist-sensor effects may contribute; none is confirmed. The workload changes preclude a valid whole-run steady-state decoupling test. Active-running lap averages cannot diagnose abnormal post-exercise HR recovery, arrhythmia or other cardiac disease.
+5. **Action — recommendation, not completed activity:** Rest from running and heavy legs **Nov 15**. Resume 20–30min easy after comfortable daily function and recovery; assess the following morning before quality or long-run progression. Avoid make-up mileage. Heart-rate zones are effort guides, not medical clearance.
+6. **Validation:** Clarify whether slowing was planned, calf/leg status and subsequent morning response. Compare usual easy-run pace/breathing/HR after recovery in comparable conditions. Repeated observations, preferably with reliable HR measurement, are needed before adjusting physiological thresholds.
+
+**Athlete's personal HR/breathing description — reported, not laboratory thresholds**
+| Approximate recorded HR band | Athlete report |
+| :--- | :--- |
+| ≤160bpm | Fully conversational |
+| 161–170bpm | More comfortable; full sentences |
+| 171–180bpm | Controlled breathing; full sentences |
+| 181–190bpm | Slightly harder; half sentences/shorter phrases |
+| >190bpm | Hard; cannot speak full sentences, though sustainable during a hard 5K/10K |
+
+- Overlapping cutoffs have been interpreted as broad bands, with gradual and day-to-day transitions. Comfortable breathing at 185bpm in today's block is retained alongside this general description.
+- [COACHING PROPOSAL — provisional] Five practical bands discussed: Z1 recovery <150; Z2 easy 150–160; Z3 steady 161–180; Z4 controlled hard 181–190; Z5 hard 191–206bpm. Use pace, breathing, duration and leg response together. Most easy/long running initially ~145–160bpm; do not force HR upward to enter a zone or chase 206bpm.
+- These are custom effort labels, not validated LT1/LT2 boundaries, an exact lactate-threshold HR, or proof that any reading >190 represents VO2max work. Earlier 170–178bpm threshold estimate remains unvalidated and should not be used as a firm prescription ceiling.
+- General talk-test reference consulted: https://pubmed.ncbi.nlm.nih.gov/15354048/ . No new 5K/10K PB or 21.1km pace prediction established by this run. Latest continuous 5K remains Nov 6 lap-derived 26:45.64.
+
+**Week 16 and near-term plan**
+- Nov 8 6.52 + Nov 10 8.01 + Nov 13 warm-up 2.00 + intervals ~6.62 + Nov 14 10.14 = **~33.29km recorded for Nov 8–14**. Other unreported activity is not assumed rest; total partly depends on rounded Nov 13 lap distances.
+- Yesterday plus today total **~18.76km**. Intended consolidation/mileage reduction was not achieved. This is descriptive load context, not a diagnosis or a quantified injury-risk prediction.
+- Nov 14 rest was a prior recommendation, superseded by today's confirmed run. Nov 15 rest and a subsequent symptom-led short easy return are recommendations only. Existing Week 17 quality/endurance targets require reassessment after recovery.
+
+---
+
 ### Date: November 13, 2026
 **Topic: Separate 2km easy warm-up and 4x1500m hard intervals**
 

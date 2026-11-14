@@ -25,14 +25,32 @@
 | **Tested Max HR** | 206 BPM | Empirical | Recorded July 1, 2026 (6x400m intervals). Peak 204 BPM confirmed Aug 27, 2026. |
 | **Resting HR (RHR)** | 65 BPM | Empirical | Baseline morning measure |
 | **HR Reserve (HRR)** | 141 BPM | Calculated | Max HR − RHR = 206 − 65 |
-| **Working Threshold HR** | ~170–178 BPM | `[UNVALIDATED WORKING MODEL]` | Historical logs assumed ~170–173 BPM, but athlete sustained 191 BPM average for 60 min during Sep 19 10K. This conflict indicates either optical wrist sensor artifact (cadence lock/elevated readings) or an exceptionally high functional threshold. HR cannot be the sole master variable; triangulate with Pace and RPE/Breathing. |
+| **Working Threshold HR** | Not established | `[UNVALIDATED — reassessed Nov 14]` | Earlier ~170–178bpm model is not a firm prescription ceiling. Athlete reports controlled full-sentence breathing around 170–180, shorter phrases approaching 190 and hard breathing above 190; Nov 14 steady block remained comfortable despite a late lap average of 185. Nov 6 5K averaged 190; historical Sep 19 10K averaged 191. These observations justify reassessment, not an exact LT1/LT2 or 190bpm threshold claim. Triangulate pace, breathing, duration and reliable HR. |
 | **Lactate Threshold Pace** | ~5:35–5:45 /km | Empirical / Inferred | Estimated from 5K (5:33) and 10K (6:00) race splits. Target for Sub-2:00 HM: shift LT pace to ~5:15–5:20/km. |
 | **VO2 Recovery Rate** | Rapid | Empirical | 54 BPM drop in 3 min (192 $\rightarrow$ 138) observed Aug 28 post-5K. Indicates strong parasympathetic cardiac recovery. |
 | **Empirical Sweat Rate** | **~770 ml / hour** | Empirical | Validated Oct 26, 2026: 1.30 kg net body mass loss + 500 ml fluid intake across 2:20:29 (1.80 L total sweat loss) in Bengaluru morning climate. |
 
 ---
 
-## 3. Working Heart Rate Zones (Karvonen Reference)
+## 3. Working Heart Rate and Effort Guide — November 14, 2026
+
+**Status:** Provisional coaching bands based on the athlete's breathing description and recorded runs. These are not directly measured lactate/ventilatory thresholds. Boundaries are approximate and require repeatable observations; do not equate Z5 automatically with VO2max intensity.
+
+### 3.1 Current provisional five-band training guide
+
+| Zone | Practical name | Recorded HR range | Breathing / practical use |
+| :--- | :--- | :--- | :--- |
+| Z1 | Recovery | <150bpm | Effortless breathing and relaxed conversation; recovery, warm-up/cooldown |
+| Z2 | Easy | 150–160bpm | Fully conversational; most easy endurance and long running |
+| Z3 | Steady | 161–180bpm | Comfortable full sentences at the lower end, more purposeful but controlled toward 180; intentional steady endurance blocks |
+| Z4 | Controlled hard | 181–190bpm | Usually harder breathing and shorter phrases; tempo/cruise work only when pace, breathing and reserve remain appropriate |
+| Z5 | Hard | 191–206bpm | Hard breathing, limited speech; race efforts and harder intervals; 206 is the historical recorded reference, not a target |
+
+**Athlete report:** ≤160 fully conversational; ≤170 more comfortable/full sentences; ≤180 controlled/full sentences; ≤190 slightly harder/half sentences; >190 hard/cannot speak full sentences, though sustainable in a 5K/10K race. Overlapping cutoffs are interpreted as broad bands. Nov 14 middle block was specifically reported controlled and comfortable despite lap HR reaching 185; preserve that observation rather than overriding it with a zone label.
+
+**Application:** Most easy/long running initially ~145–160bpm, guided by ongoing effortless conversation and leg response. Recovery runs may remain below Z2; do not force HR up. Use pace and effort for short intervals because HR lags. Exact LT1/LT2 and the former 170–178bpm threshold model remain unvalidated. These bands do not establish cardiac health or medical clearance.
+
+### 3.2 Historical formula-based zones (superseded as the primary prescription guide)
 
 *Calculated from Max HR 206 BPM, RHR 65 BPM. Use as a flexible guideline, not absolute dogma.*
 
@@ -44,8 +62,8 @@
 | **Zone 4** | Threshold / Hard | 178 – 191 | 80–90% | 7–8 | Cruise intervals and sustained tempo blocks. |
 | **Zone 5** | High Aerobic / VO2 Max | 192 – 206 | 90–100% | 9–10 | Short intervals only. Maximum sustained stimulus. |
 
-### 3.1 Current Empirical Training Paces Matrix (October 2026 Calibration)
-*Triangulated using Pace + HR + RPE/Breathing for athlete's 187cm, 93kg build under Bengaluru climate. Standard Jack Daniels textbook E-paces (~7:15–7:55/km) are intentionally relaxed to 8:25–8:55/km to prevent cardiovascular overreach and protect the lower calf/Achilles.*
+### 3.3 Historical Training Paces Matrix (October 2026 Calibration — not recalibrated)
+*Historical pace/HR targets below are retained as October context, not newly validated by Nov 14; consult the updated effort guide and latest dated coaching analysis before prescribing. Triangulated using Pace + HR + RPE/Breathing for athlete's 187cm, 93kg build under Bengaluru climate. Standard Jack Daniels textbook E-paces (~7:15–7:55/km) are intentionally relaxed to 8:25–8:55/km to prevent cardiovascular overreach and protect the lower calf/Achilles.*
 
 | Workout Type | Target Pace Range | Target HR Range | Cadence Target | RPE | Practical Breathing Marker | Role in Macrocycle |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
