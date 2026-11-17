@@ -4,6 +4,14 @@
 
 ---
 
+### Date: November 17, 2026
+**Topic: Right calf recovery note**
+
+- Calf has not recovered as of November 17 despite resting November 15–16.
+- Athlete reports strain in the lower-inner right calf, including mild pain (2/10) while walking; slight strain first noticed Sunday evening, November 15.
+
+---
+
 ### Date: November 14, 2026
 **Topic: 10.14km aerobic run with controlled 3.01km steady block; athlete-reported HR/breathing calibration**
 
