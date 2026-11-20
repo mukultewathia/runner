@@ -4,6 +4,36 @@
 
 ---
 
+### Date: November 20, 2026
+**Topic: 5.03km return-to-running; symptom-free calf report; Sunday long-run reassessment**
+
+**Sources and recorded facts**
+- [FACT — Zepp/Amazfit screenshots 24011.png, 24012.png, 24013.png] Outdoor run begins **11:18 IST**, Nov 20; **5.03km / 42:18.48 workout time / 8:24/km displayed pace**, average HR **153bpm**, peak **169bpm**, average cadence **150spm**; device-estimated 524 kcal. Overall grade-adjusted pace 8:24/km; watch shows an estimated running lactate threshold of 182bpm at 7:06/km. The latter is a device estimate, not established by this session.
+- [FACT — athlete report] Calf was **pain-free** during today's run, breathing felt completely free/easy. The athlete expressed desire for a 15km Sunday Nov 22 long run to make up missed mileage. Neither next-morning calf response nor specific pain on stairs/calf raises has been reported yet.
+- [CONTEXT — Nov 17 log] Lower-inner **right calf** discomfort began Nov 15, persisted through Nov 17 despite Nov 15–16 rest, and was described as 2/10 even while walking. Nov 20 is the first subsequent completed run documented here; this does not establish that no intervening activity occurred.
+
+**Kilometre data from watch**
+| Km | Pace | Exact time | Mean HR | Cadence | Displayed stride length (interpreted cm) |
+| :--- | :--- | :--- | ---: | ---: | ---: |
+| 1 | 8:40 | 8:40.62 | 137 | 147 | 78 |
+| 2 | 7:57 | 7:57.75 | 154 | 151 | 82 |
+| 3 | 8:12 | 8:12.91 | 160 | 150 | 80 |
+| 4 | 8:38 | 8:38.78 | 158 | 150 | 77 |
+| 5 | 8:32 | 8:32.00 | 161 | 151 | 77 |
+
+- [CALCULATED] First five full km sum to **42:02.06**; the displayed activity covers an extra ~0.03km and ends at 42:18.48. Preserve reported device pace 8:24 rather than forcing false precision from rounded distance.
+- [FACT — HR-zone screenshot] Watch Z1 118–147 = 7:04 (16%), Z2 148–162 = 31:52 (75%), Z3 163–174 = 2:37 (6%), Z4/Z5 0. Percentages are rounded and their shown time totals are not exactly the workout duration; watch categories are not measured physiology.
+
+**Assessment**
+1. **Observed:** Pain-free self-reported 5km run with free breathing; mostly watch Zones 1–2, controlled cadence around 150spm, HR rising early then settling ~158–161bpm at km 3–5 despite changes in pace.
+2. **Interpretation [INFERENCE]:** Encouraging aerobic return test with preserved conversational capacity, but only one 42-minute bout after walking pain earlier in the week.
+3. **Confidence:** High in transcription and athlete's current pain/breathing report; moderate in easy-effort classification; low in tissue readiness for 15km or exact watch lactate-threshold meaning.
+4. **Limits:** Changing pace precludes formal cardiac-drift conclusions. Lack of next-day symptoms report and the recent calf history make a threefold Sunday long-run distance jump unjustified. No calf diagnosis can be made from these data.
+5. **Action [COACHING RECOMMENDATION, NOT COMPLETED]:** No 15km makeup run on Sun Nov 22; do not treat missed mileage as a debt. Rest from running/heavy calves Sat Nov 21; if the following morning is pain-free with normal walking, stairs and gentle single-leg raises, consider **6–7km flat easy Sun Nov 22** (approximately 8:30–9:15/km, mostly ~145–160bpm, RPE 2–3, conversation-led). Stop if calf pain returns or gait changes. Resume gradual longer-run progression only after repeated symptom-free sessions; recurrent focal pain, especially during walking, merits sports-physio evaluation.
+6. **Validation:** Check calf status post-run and next morning, response to normal walking/stairs and gentle calf raises, and after the next short easy run before quality or long-run escalation.
+
+---
+
 ### Date: November 17, 2026
 **Topic: Right calf recovery note**
 
