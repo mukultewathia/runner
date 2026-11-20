@@ -10,12 +10,22 @@
 * **Target Date:** December 20th, 2026 (Sunday)  
 * **Primary Target Time:** **Sub-2:10:00 (5:58 – 6:09 /km)**; Moonshot: **Sub-2:00:00 (5:41 /km)**  
 * **Benchmark Reference:** 10K recorded 10.00km split of 1:00:02 (Sep 19, 2026; 80m elevation) & current recorded 5K of 26:45.64 (five full-km laps, Nov 6; full activity 5.01km / 26:49 moving; exact Strava best effort and elapsed time not shown).  
-* **Current Phase:** Phase 3, Week 16 (Nov 8–14) — Consolidation Deload.
+* **Current Phase:** Phase 3, Week 17 (Nov 15–21) — Symptom-led return to running; Nov 20 status and Nov 22 recommendation override earlier distance targets below.
 
 **2. Intermediate Event: Bengaluru Midnight Marathon 10K (KTPO Whitefield)**  
 * **Target Date:** December 5th, 2026 (Saturday night; 15 days pre-Half Marathon)  
 * **Strategic Objective:** **Official Chip-Timed Qualification & Certification Run**.  
 * **Race Policy:** Controlled **6:15 – 6:30 /km** cruise (Zone 2/3). Zero PB pressure, zero sprint finish, leaving the engine 100% fresh for Dec 20.
+
+---
+
+### Latest training adjustment — November 20, 2026
+
+**Completed:** Friday Nov 20 pain-free return-to-running **5.03km / 42:18.48 / 8:24/km, HR 153 avg / 169 max**. Athlete reports free/easy breathing and no calf pain during the run. This follows Nov 17 lower-inner-right-calf pain even during walking (2/10); next-morning response is still unknown.
+
+**Decision:** The originally listed **15km Week 17 gatekeeper** and **16.5–17km Week 18 peak long run** are *not automatically approved* after this calf symptom episode. Athlete proposed running 15km Sunday Nov 22 to recover missed mileage; advised **not** to do so. Nov 21 rest from running/heavy calf loading advised. On Nov 22, only if pain-free afterward and next morning and with comfortable walking/stairs/gentle calf raises, consider **6–7km flat, fully conversational easy running** (~8:30–9:15/km; mostly ~145–160bpm; RPE 2–3), stop with renewed pain or altered gait. After successful follow-up easy runs, build toward 8–10km, then 12km and later 14–15km as symptoms permit rather than by calendar. Recurrent focal walking pain warrants sports-physiotherapy review. No make-up mileage. These are recommendations and not logged as completed.
+
+**Confirmed Week 17 mileage through Nov 20:** **5.03km**, with no other Week 17 run logged in the repository. Unreported dates are not proof of zero activity. Historical race plans below remain aspirational and must be re-evaluated based on symptom-free training progression.
 
 ---
 
