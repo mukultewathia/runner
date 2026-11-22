@@ -4,6 +4,24 @@
 
 ---
 
+### Date: November 22, 2026
+**Topic: 5.58km aerobic progression; calf pain-free and full-sentence breathing at 176–183bpm**
+
+**Source facts**
+- [FACT — athlete screenshots] Zepp/Amazfit T-Rex 3 Pro (48mm), start **11:15 IST, Sun Nov 22, 2026**: **5.58km / 41:45.33 workout time / 7:28/km displayed average pace / 7:30/km GAP**. HR **165bpm average**, peak not supplied; cadence **153spm average**; watch estimated **577kcal**, running power **203W average / 306W maximum**.
+- [FACT — splits] Km 1–5 paces **7:58, 7:57, 7:56, 6:57, 6:53/km**, partial-sixth pace **6:49/km**; exact lap times **7:58.21 / 7:57.64 / 7:56.68 / 6:57.02 / 6:53.92 / 4:01.82**. Lap-average HR **146 / 158 / 162 / 176 / 181 / 183bpm**; cadence **149 / 150 / 151 / 156 / 156 / 158spm**; reported stride lengths **83 / 83 / 82 / 92 / 92 / 92cm**. Lap times sum **41:45.29** (0.04s below device total, likely display precision); the final partial lap distance is not individually stated.
+- [FACT — watch zones] Device Z1 (118–147) **2:35, 6%**; Z2 (148–162) **17:25, 41%**; Z3 (163–174) **6:51, 16%**; Z4 (175–191) **14:30, 34%**; Z5 (192–205) **0:00**. Displayed bins sum to **41:21**, leaving ~24s unaccounted relative to the workout time; do not force reconciliation. Zepp-estimated running LT **182bpm at 7:08/km** is *not validated* by this session.
+- [FACT — athlete follow-up] **Completely pain-free calves during running**, including the faster finish. **Comfortable full-sentence breathing over the final ~2km** at around **6:50/km**, alongside lap HR averages around **176–183bpm**. Post-run and next-morning soreness, walking/stair tolerance, calf raises, numeric RPE and sensor source beyond the watch are not established.
+- [FACT — recent context] Nov 17 lower-inner-right-calf discomfort was reported even when walking (2/10). Nov 20 **5.03km / 8:24/km / HR 153** was pain-free. Nov 22 is the second documented pain-free run, not proof that the earlier issue is fully resolved. Screenshots supplied by athlete: **24289.png, 24288.png, Screenshot_20261122-123422.png**; no raw FIT/GPX.
+
+**Coaching assessment**
+1. **Pacing:** First 3km were almost identical (~7:57/km), followed by a controlled speed change to ~6:50–7:00/km. This is a progression workout, not purely recovery/easy running. Cadence rose 149–151 to 156–158spm, with a proportionate increase in reported step length; no observed split-based cadence collapse. Overstriding cannot be inferred from these values.
+2. **Breathing versus HR:** Comfortable full sentences despite device-classified Zone 4 time suggests these *device-defined bands may not reflect the athlete's actual ventilatory/lactate thresholds*. However, a 2km talk test is insufficient to prove a VT1/LT1 of ~183bpm or to reset easy-run upper limits. Wrist optical HR artifact is possible; consider chest-strap validation and longer steady-stage talk testing after calf recovery. The prior Nov 14 comfortable ~6:37/km three-kilometre block also reached 175–185bpm lap averages. Preserve athlete-reported effort rather than asserting metabolic threshold from watch labels.
+3. **Return-to-running:** Symptom-free during Nov 20 and Nov 22 is reassuring; longer-duration tissue tolerance and next-day response remain unknown. **Do not** attempt the missed 15km long run or the earlier planned 16.5–17km gatekeeper to compensate.
+4. **Next steps (recommendations only):** Recovery day followed by 4–6km or ~5km flat easy run if calves remain symptom-free during normal walking, stairs and gentle calf raises, including the following morning. Most easy and long training remains conversational, approximately 145–160bpm as a conservative guide while HR thresholds remain unverified. Build gradual endurance toward a conditional 8–10km long run rather than adding hard quality. Stop if localized calf pain returns, gait changes, or walking pain recurs; seek sports physiotherapy for recurrent focal pain.
+
+---
+
 ### Date: November 20, 2026
 **Topic: 5.03km return-to-running; symptom-free calf report; Sunday long-run reassessment**
 
