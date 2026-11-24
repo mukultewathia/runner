@@ -4,6 +4,25 @@
 
 ---
 
+### Date: November 24, 2026
+**Topic: 6.04km progression; comfortable but not easy at ~6:30/km; high measured HR persists into slower final kilometre**
+
+**Source facts**
+- [FACT — athlete screenshots] Tue Nov 24, 09:55 IST, Zepp/Amazfit T-Rex 3 Pro (48mm), **6.04km / 44:18.78 / 7:19/km watch pace / 7:22/km GAP**, HR 173 average, cadence 155 average, 651 estimated kcal, optimum pace 6:36/km. Watch LT estimate 182bpm at 7:08/km, not a measured physiological threshold. Peak HR and HR zone durations not supplied.
+- [FACT — splits] Km 1–6 pace 8:08/7:43/6:56/6:30/6:27/8:08; exact lap times 8:08.95/7:43.41/6:56.16/6:30.66/6:27.57/8:08.75; lap-average HR 152/167/178/185/181/180; cadence 150/152/158/161/160/152; displayed step lengths 81/84/90/95/96/80 (interpreted cm). Six full laps sum 43:55.50, residual 23.28s; distance rounded. Screenshots: Screenshot_20261124-105834.png, 24638.png; no raw export.
+- [FACT — athlete follow-up] In response to the question on breathing during km 4–5, athlete reports **"Comfortable but not easy"**. Do not infer full-sentence ability, a numeric RPE, or calf status. Calf response during/after and next morning remains unknown.
+- [CALCULATED] First 2km ~7:56/km at HR ~159; km 3–5 19:54.39 (~6:38/km) at time-weighted HR ~181; km 4–5 12:58.23 (~6:29/km) HR ~183. Recorded Week 18 volume 11.62km (Nov 22 + Nov 24). Other activity not assumed absent.
+
+**Coaching assessment**
+1. [INFERENCE — moderate confidence] Controlled progression with steady/moderately hard perceived effort, not a pure recovery run. Similar to Nov 14's ~6:37/km three-kilometre block at ~180bpm; no clear evidence of substantial fitness loss, or of improved aerobic efficiency. Nov 20/22/24 distance 5.03/5.58/6.04km, pace 8:24/7:28/7:19, HR 153/165/173; simultaneous increases in distance, speed and HR preclude a matched-effort trend.
+2. [OBSERVATION] Km 5 slightly faster than km 4 with HR 4bpm lower; final full kilometre slowed ~101s/km while average HR fell only 1bpm. [HYPOTHESIS — low confidence] Normal HR kinetics, residual effort, heat, hydration, cumulative fatigue or optical measurement error could contribute. Lap means cannot establish heart-rate recovery, cardiac drift, or the exact physiological cause. Continuous trace and matched steady efforts with chest-strap validation would help.
+3. [INFERENCE — moderate confidence] Faster cadence and step length rise together, with cadence 158–161spm during km 3–5. No clear cadence collapse in fast laps. Split averages alone cannot establish biomechanics or overstriding.
+4. [INFERENCE — moderate confidence] Comfortable but not easy at measured 181–185bpm and prior Nov 22 full-sentence breathing at ~176–183bpm indicate HR/effort calibration needs validation. Provisional steady/aerobic tempo label reflects perceived effort, not proof of a specific metabolic zone. No change to threshold/HR zones or race predictions based on this session alone.
+5. [ACTION — recommendation only] Given Nov 17 right calf walking pain and two subsequent reported pain-free runs, avoid additional hard quality or compensatory mileage. Nov 25 rest; conditional Nov 26 4–5km flat easy, Nov 27 rest, Nov 28 7–8km easy only if normal symptom-free walking, stairs, gentle calf raises and next-day response after each run. This yields ~22.62–24.62km if all completed, not a minimum mileage obligation. Prefer conversational effort; stop if localized pain or gait changes recur, and seek sports physiotherapy for recurrent focal/walking pain.
+6. [VALIDATION] Obtain current calf symptoms and next-morning function, full-sentence breathing detail if available, continuous HR trace and eventual chest-strap steady-stage test after symptom-led return. No automatic escalation to 15–17km.
+
+---
+
 ### Date: November 22, 2026
 **Topic: 5.58km aerobic progression; calf pain-free and full-sentence breathing at 176–183bpm**
 
