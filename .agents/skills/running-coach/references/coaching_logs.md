@@ -4,6 +4,38 @@
 
 ---
 
+### Date: November 26, 2026
+**Progressive tempo with two planned easy kilometres**
+
+The athlete described the effort as comfortably hard and confirmed km 5 and 8 were planned easy kilometres. Breathing stayed controlled through the final fast kilometre, and the athlete felt able to run more laps. Right-calf symptoms during the run, after cooling down and the following morning were unreported.
+
+**Watch data**
+
+The Zepp summary from the Amazfit T-Rex 3 Pro (48 mm) shows a start at 18:13 IST, **9.17 km in 1:06:25.59**, average pace and grade-adjusted pace of 7:14/km, average HR of 169 bpm and average cadence of 154 spm. The highest lap-average HR was 186 bpm at km 7 and 9. Peak HR was unavailable. The watch displayed a best pace of 5:45/km, 949 estimated kcal and a lactate-threshold estimate of 182 bpm at 7:06/km. Sources are `Screenshot_20261126-192459.png` and `24999.png`.
+
+| Km | Segment | Pace (min/km) | Grade-adjusted pace (min/km) | Lap time | Avg HR (bpm) | Cadence (spm) | Step length (cm, inferred) |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1 | Warm-up | 10:09 | 10:10 | 10:09.49 | 139 | 141 | 69 |
+| 2 | Warm-up | 8:51 | 8:51 | 8:51.89 | 146 | 145 | 77 |
+| 3 | First effort | 6:27 | 6:26 | 6:27.63 | 174 | 157 | 98 |
+| 4 | First effort | 6:25 | 6:25 | 6:25.77 | 180 | 159 | 97 |
+| 5 | Planned easy | 6:56 | 6:55 | 6:56.99 | 176 | 156 | 91 |
+| 6 | Second effort | 6:10 | 6:10 | 6:10.32 | 183 | 163 | 99 |
+| 7 | Second effort | 6:20 | 6:19 | 6:20.56 | 186 | 163 | 96 |
+| 8 | Planned easy | 7:09 | 7:09 | 7:09.16 | 181 | 158 | 88 |
+| 9 | Final effort | 6:01 | 6:01 | 6:01.17 | 186 | 166 | 99 |
+| Final ~0.17 | Finish | 10:40 | 11:56 | 1:52.57 | 174 | 125 | 84 |
+
+The final partial distance is approximate. Lap times sum to 1:06:25.55, within 0.04 seconds of the workout clock.
+
+**Coaching assessment**
+
+- The first 2 km took 19:01.38 at ~142 bpm. The faster bouts progressed from 2 km in 12:53.40 (6:27/km, ~177 bpm) to 2 km in 12:30.88 (6:15/km, ~185 bpm) and 1 km in 6:01.17 (186 bpm). The five faster kilometres totalled **31:25.45 (6:17/km, ~182 bpm)**. Including both easy kilometres, km 3–9 took **45:31.60 (6:30/km, ~181 bpm)**. Group HR estimates are weighted by lap duration.
+- On Nov 24 the athlete ran 3 km at 6:38/km and ~181 bpm. Today the athlete sustained more running at a similar recorded HR, with two planned changes to easy pace. On Nov 13 the 1.5 km repeats at ~5:34/km averaged ~185 bpm and the last two left the athlete out of breath. Today's controlled breathing supports using roughly 6:15–6:25/km as a starting point for similar 2 km tempo bouts. A continuous 10K pace and a physiological threshold remain untested by this workout.
+- This was the longest logged run since the Nov 17 right-calf symptoms. Friday Nov 27 was recommended as a rest day, with the next run short, flat and conversational if walking and stairs feel normal the following morning and stay comfortable.
+
+---
+
 ### Date: November 24, 2026
 **Topic: 6.04km progression; comfortable but not easy at ~6:30/km; high measured HR persists into slower final kilometre**
 
