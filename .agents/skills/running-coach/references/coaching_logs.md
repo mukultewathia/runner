@@ -4,6 +4,14 @@
 
 ---
 
+### Date: November 28, 2026
+**Calf recovery status — athlete follow-up**
+
+- [FACT — athlete report] The athlete reports: **"Calves feel good today."** This is the current subjective status on Nov 28, two days after the Nov 26 progressive tempo session (9.17 km).
+- [LIMITATION] Calf symptoms during the Nov 26 run, immediately afterward, on Nov 27, specific pain score, walking/stairs and calf-raise tolerance remain unreported. This update is encouraging, but does not establish complete recovery or unrestricted readiness for hard running. No new run was reported; mileage is unchanged.
+
+---
+
 ### Date: November 26, 2026
 **Progressive tempo with two planned easy kilometres**
 
