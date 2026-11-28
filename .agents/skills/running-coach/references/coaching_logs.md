@@ -4,6 +4,34 @@
 
 ---
 
+### Date: November 28, 2026 — evening run
+**5.01 km recovery run — Nov 28; transient medial right-calf symptoms after travel and footwear change**
+
+**Source facts**
+- [FACT — watch] Sat Nov 28, 17:47 IST; Zepp/Amazfit T-Rex 3 Pro (48 mm). **5.01 km / 46:43.94 workout time / 9:18/km average pace and GAP / 143 bpm average HR / 146 spm average cadence.** Optimum pace 8:09/km; estimated calories 524. Peak HR is not reliably readable in the cropped screenshot; 147 bpm is the highest full-lap mean, not the peak. Numeric RPE, HR-zone durations, raw FIT/GPX, weather and elevation were not supplied.
+- [FACT — athlete] Breath was effortless throughout. Slight strain sensation in the lower medial **right** calf (the inner/left side of the right leg when viewed from behind) during kilometres 2–3. **No pain at all in km 4 or 5 and completely pain-free at follow-up.** No quantified severity or exact tissue diagnosis; next-morning status unknown. The athlete had reported calves felt good earlier on Nov 28.
+- [FACT — footwear/travel] Returned from Delhi to Bengaluru today; switched back to ASICS Novablast 6 for this run after using Adidas Ultraboost in Delhi. Shoe photograph suggests Ultraboost 5 (possibly IF1480), exact variant unconfirmed. Travel mode and duration unreported. Sources: 25312.png, 25313.png, calf-location photo image-1795871662646.jpg, Adidas photo 23058.jpg and athlete chat follow-up.
+
+| Km | Pace | GAP | Exact lap time | Avg HR (bpm) | Cadence (spm) | Step length (cm, inferred) |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1 | 9:03 | 9:04 | 9:03.24 | 138 | 147 | 74 |
+| 2 | 9:09 | 9:07 | 9:09.44 | 145 | 147 | 74 |
+| 3 | 9:52 | 9:50 | 9:52.17 | 143 | 143 | 70 |
+| 4 | 9:27 | 9:29 | 9:27.86 | 146 | 147 | 71 |
+| 5 | 9:03 | 9:02 | 9:03.38 | 147 | 149 | 73 |
+
+Five full laps total **46:36.09**, leaving 7.85s in workout time and approximately 0.01 km in rounded distance. Preserve watch pace separately from recomputed pace because device rounding/definitions are not supplied.
+
+**Coaching assessment**
+1. [INFERENCE — high confidence] Genuine low-effort cardiovascular recovery session: 143 bpm average, all full-lap HR means below 150, effortless breathing. Under the Nov 14 provisional effort guide this corresponds to recovery intensity; time in zone cannot be reconstructed from lap means.
+2. [INFERENCE — moderate confidence] Km 3 slowed by 43s/km against km 2, with cadence 147→143 and step length 74→70cm, consistent with a possible symptom-driven slowdown. Stops, route or ordinary pace variation are alternative explanations. Km 5 returned to 9:03 at 149 spm and 147 bpm. The 2 bpm increase from km 2 at similar pace suggests limited HR rise, not a validated cardiac-drift test.
+3. [HYPOTHESIS — moderate confidence] Transient right medial calf discomfort could reflect local load intolerance or residual fatigue after the Nov 26 9.17 km progressive tempo and recent return-to-running. Footwear readjustment and travel-related stiffness are potential contributors, not established causal mechanisms. If the Adidas pair is Ultraboost 5, its nominal 10mm drop versus Novablast 6's 8mm drop is a plausible additional variable, but not proof of a shoe-caused injury. Pain-free finish and follow-up are reassuring, not proof of complete tissue recovery. No medical diagnosis.
+4. [CALCULATED] Recorded Nov 22–28 mileage: 5.58 + 6.04 + 9.17 + 5.01 = **25.80 km**, four sessions. Nov 15–21 logged 5.03 km following symptoms; do not treat unlogged activity as absent. Three of this week's sessions included faster sections; today's recovery session provides useful intensity separation.
+
+**Forward decision:** Rest from running/heavy calf loading on Nov 29; reassess first steps, walking, stairs and gentle calf raises only if comfortable, with next-morning symptom tracking. Because symptoms have recurred in the right calf, consider sports physiotherapy before the Dec 5 10K; avoid racing through recurring discomfort and resume gradually only with pain-free function and restored strength. Do not prescribe forced cadence increases at recovery pace or attribute symptoms to footwear without corroboration.
+
+---
+
 ### Date: November 28, 2026
 **Calf recovery status — athlete follow-up**
 
